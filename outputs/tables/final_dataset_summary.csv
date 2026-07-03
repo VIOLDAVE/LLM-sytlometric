@@ -1,0 +1,9 @@
+item,value
+Total generated texts,1000
+Model families,5
+Texts per model family,200
+Genres,4
+Texts per genre,250
+Texts per model family per genre,50
+Stylometric features,43
+Prompt groups,200

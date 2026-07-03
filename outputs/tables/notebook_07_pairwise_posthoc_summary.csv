@@ -1,0 +1,5 @@
+metric,value
+Total pairwise post-hoc tests,100.0
+Significant pairwise tests after FDR correction,86.0
+Not significant after FDR correction,14.0
+Share significant,0.86

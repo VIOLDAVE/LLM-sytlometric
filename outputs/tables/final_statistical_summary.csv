@@ -1,0 +1,9 @@
+item,value
+Total stylometric features tested,43.0
+Significant after FDR correction,41.0
+Not significant after FDR correction,2.0
+Share significant,0.9535
+Large effect features,22.0
+Medium effect features,7.0
+Small effect features,11.0
+Negligible effect features,3.0

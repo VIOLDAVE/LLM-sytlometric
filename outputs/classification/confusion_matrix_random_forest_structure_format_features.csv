@@ -1,0 +1,6 @@
+,pred_Claude,pred_DeepSeek,pred_GPT,pred_Gemini,pred_Mistral
+true_Claude,176,2,12,1,9
+true_DeepSeek,1,169,4,17,9
+true_GPT,9,8,149,15,19
+true_Gemini,2,23,15,141,19
+true_Mistral,16,27,27,20,110

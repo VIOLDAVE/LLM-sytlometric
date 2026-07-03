@@ -1,0 +1,3 @@
+prompt_id,genre,theme,word_limit,prompt_text
+DES_002,Descriptive,academic,200,Write a 200-word descriptive passage about a prompt dataset arranged neatly in rows and columns.
+DES_030,Descriptive,business,200,Write a 200-word descriptive passage about a business case page built to convince enterprise customers.

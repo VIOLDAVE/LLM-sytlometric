@@ -1,0 +1,1001 @@
+text_id,prompt_id,genre,theme,model_family,model_name,provider,clean_word_count,clean_length_status,tsne_1,tsne_2
+GPT_gpt-4o-mini_NAR_001,NAR_001,Narrative,academic,GPT,gpt-4o-mini,OpenAI,217,valid,15.896832,19.316803
+GPT_gpt-4o-mini_NAR_002,NAR_002,Narrative,academic,GPT,gpt-4o-mini,OpenAI,209,valid,2.6151612,6.1737156
+GPT_gpt-4o-mini_NAR_003,NAR_003,Narrative,academic,GPT,gpt-4o-mini,OpenAI,204,valid,-2.8343031,6.306555
+GPT_gpt-4o-mini_NAR_004,NAR_004,Narrative,academic,GPT,gpt-4o-mini,OpenAI,207,valid,4.7572684,10.217261
+GPT_gpt-4o-mini_NAR_005,NAR_005,Narrative,academic,GPT,gpt-4o-mini,OpenAI,208,valid,13.050249,14.926489
+GPT_gpt-4o-mini_NAR_006,NAR_006,Narrative,academic,GPT,gpt-4o-mini,OpenAI,205,valid,20.672995,17.657747
+GPT_gpt-4o-mini_NAR_007,NAR_007,Narrative,academic,GPT,gpt-4o-mini,OpenAI,218,valid,12.178946,19.57962
+GPT_gpt-4o-mini_NAR_008,NAR_008,Narrative,academic,GPT,gpt-4o-mini,OpenAI,205,valid,-1.8425363,6.4472294
+GPT_gpt-4o-mini_NAR_009,NAR_009,Narrative,academic,GPT,gpt-4o-mini,OpenAI,212,valid,16.308575,16.33194
+GPT_gpt-4o-mini_NAR_010,NAR_010,Narrative,academic,GPT,gpt-4o-mini,OpenAI,207,valid,12.819249,20.558744
+GPT_gpt-4o-mini_NAR_011,NAR_011,Narrative,academic,GPT,gpt-4o-mini,OpenAI,210,valid,1.337187,8.853753
+GPT_gpt-4o-mini_NAR_012,NAR_012,Narrative,academic,GPT,gpt-4o-mini,OpenAI,207,valid,-12.012021,-38.043934
+GPT_gpt-4o-mini_NAR_013,NAR_013,Narrative,academic,GPT,gpt-4o-mini,OpenAI,205,valid,15.131854,-27.431759
+GPT_gpt-4o-mini_NAR_014,NAR_014,Narrative,academic,GPT,gpt-4o-mini,OpenAI,211,valid,0.9604211,2.2473903
+GPT_gpt-4o-mini_NAR_015,NAR_015,Narrative,academic,GPT,gpt-4o-mini,OpenAI,210,valid,20.624887,-4.5325694
+GPT_gpt-4o-mini_NAR_016,NAR_016,Narrative,academic,GPT,gpt-4o-mini,OpenAI,208,valid,18.482094,-35.35748
+GPT_gpt-4o-mini_NAR_017,NAR_017,Narrative,academic,GPT,gpt-4o-mini,OpenAI,209,valid,17.405804,-20.5813
+GPT_gpt-4o-mini_NAR_018,NAR_018,Narrative,academic,GPT,gpt-4o-mini,OpenAI,206,valid,29.02148,-17.327305
+GPT_gpt-4o-mini_NAR_019,NAR_019,Narrative,academic,GPT,gpt-4o-mini,OpenAI,202,valid,14.443206,-3.9986436
+GPT_gpt-4o-mini_NAR_020,NAR_020,Narrative,academic,GPT,gpt-4o-mini,OpenAI,207,valid,1.5393167,-2.364033
+GPT_gpt-4o-mini_NAR_021,NAR_021,Narrative,business,GPT,gpt-4o-mini,OpenAI,204,valid,-34.970257,2.4394207
+GPT_gpt-4o-mini_NAR_022,NAR_022,Narrative,business,GPT,gpt-4o-mini,OpenAI,207,valid,0.63906187,10.893595
+GPT_gpt-4o-mini_NAR_023,NAR_023,Narrative,business,GPT,gpt-4o-mini,OpenAI,212,valid,-11.046069,-18.192696
+GPT_gpt-4o-mini_NAR_024,NAR_024,Narrative,business,GPT,gpt-4o-mini,OpenAI,206,valid,-46.01639,6.3476415
+GPT_gpt-4o-mini_NAR_025,NAR_025,Narrative,business,GPT,gpt-4o-mini,OpenAI,206,valid,0.925575,12.748623
+GPT_gpt-4o-mini_NAR_026,NAR_026,Narrative,business,GPT,gpt-4o-mini,OpenAI,211,valid,-2.937536,-24.424387
+GPT_gpt-4o-mini_NAR_027,NAR_027,Narrative,business,GPT,gpt-4o-mini,OpenAI,207,valid,-28.547121,-17.623703
+GPT_gpt-4o-mini_NAR_028,NAR_028,Narrative,business,GPT,gpt-4o-mini,OpenAI,207,valid,-23.832115,-22.295174
+GPT_gpt-4o-mini_NAR_029,NAR_029,Narrative,business,GPT,gpt-4o-mini,OpenAI,217,valid,-1.9270033,-31.220695
+GPT_gpt-4o-mini_NAR_030,NAR_030,Narrative,business,GPT,gpt-4o-mini,OpenAI,214,valid,-10.576121,-14.671724
+GPT_gpt-4o-mini_NAR_031,NAR_031,Narrative,career,GPT,gpt-4o-mini,OpenAI,209,valid,-1.3465933,2.092198
+GPT_gpt-4o-mini_NAR_032,NAR_032,Narrative,career,GPT,gpt-4o-mini,OpenAI,212,valid,-2.9384232,0.06487042
+GPT_gpt-4o-mini_NAR_033,NAR_033,Narrative,career,GPT,gpt-4o-mini,OpenAI,211,valid,3.9807663,-2.670249
+GPT_gpt-4o-mini_NAR_034,NAR_034,Narrative,career,GPT,gpt-4o-mini,OpenAI,195,valid,38.097202,1.8636798
+GPT_gpt-4o-mini_NAR_035,NAR_035,Narrative,career,GPT,gpt-4o-mini,OpenAI,211,valid,1.5631194,-3.1527467
+GPT_gpt-4o-mini_NAR_036,NAR_036,Narrative,career,GPT,gpt-4o-mini,OpenAI,214,valid,6.5672774,-6.770752
+GPT_gpt-4o-mini_NAR_037,NAR_037,Narrative,career,GPT,gpt-4o-mini,OpenAI,216,valid,-1.3398199,8.812208
+GPT_gpt-4o-mini_NAR_038,NAR_038,Narrative,career,GPT,gpt-4o-mini,OpenAI,209,valid,0.9626694,9.603767
+GPT_gpt-4o-mini_NAR_039,NAR_039,Narrative,career,GPT,gpt-4o-mini,OpenAI,208,valid,-1.2948885,2.2410758
+GPT_gpt-4o-mini_NAR_040,NAR_040,Narrative,career,GPT,gpt-4o-mini,OpenAI,209,valid,2.9193513,13.378052
+GPT_gpt-4o-mini_NAR_041,NAR_041,Narrative,personal,GPT,gpt-4o-mini,OpenAI,206,valid,-17.157606,24.511278
+GPT_gpt-4o-mini_NAR_042,NAR_042,Narrative,personal,GPT,gpt-4o-mini,OpenAI,214,valid,-16.100258,25.366262
+GPT_gpt-4o-mini_NAR_043,NAR_043,Narrative,personal,GPT,gpt-4o-mini,OpenAI,205,valid,-10.434558,24.227573
+GPT_gpt-4o-mini_NAR_044,NAR_044,Narrative,personal,GPT,gpt-4o-mini,OpenAI,203,valid,-15.509643,10.492627
+GPT_gpt-4o-mini_NAR_045,NAR_045,Narrative,personal,GPT,gpt-4o-mini,OpenAI,209,valid,-14.319645,5.8335247
+GPT_gpt-4o-mini_NAR_046,NAR_046,Narrative,personal,GPT,gpt-4o-mini,OpenAI,207,valid,-20.158438,18.791258
+GPT_gpt-4o-mini_NAR_047,NAR_047,Narrative,personal,GPT,gpt-4o-mini,OpenAI,214,valid,-19.578726,16.227095
+GPT_gpt-4o-mini_NAR_048,NAR_048,Narrative,personal,GPT,gpt-4o-mini,OpenAI,205,valid,-5.799102,-13.608226
+GPT_gpt-4o-mini_NAR_049,NAR_049,Narrative,personal,GPT,gpt-4o-mini,OpenAI,206,valid,-30.131472,19.319859
+GPT_gpt-4o-mini_NAR_050,NAR_050,Narrative,personal,GPT,gpt-4o-mini,OpenAI,208,valid,-7.0947676,8.310171
+GPT_gpt-4o-mini_DES_001,DES_001,Descriptive,academic,GPT,gpt-4o-mini,OpenAI,219,valid,11.2850685,7.488326
+GPT_gpt-4o-mini_DES_002,DES_002,Descriptive,academic,GPT,gpt-4o-mini,OpenAI,203,valid,17.252775,8.614571
+GPT_gpt-4o-mini_DES_003,DES_003,Descriptive,academic,GPT,gpt-4o-mini,OpenAI,206,valid,14.339503,11.421455
+GPT_gpt-4o-mini_DES_004,DES_004,Descriptive,academic,GPT,gpt-4o-mini,OpenAI,207,valid,9.067383,9.295931
+GPT_gpt-4o-mini_DES_005,DES_005,Descriptive,academic,GPT,gpt-4o-mini,OpenAI,218,valid,34.04313,18.540855
+GPT_gpt-4o-mini_DES_006,DES_006,Descriptive,academic,GPT,gpt-4o-mini,OpenAI,204,valid,19.019943,23.329988
+GPT_gpt-4o-mini_DES_007,DES_007,Descriptive,academic,GPT,gpt-4o-mini,OpenAI,205,valid,19.396984,11.116517
+GPT_gpt-4o-mini_DES_008,DES_008,Descriptive,academic,GPT,gpt-4o-mini,OpenAI,212,valid,21.89777,13.790329
+GPT_gpt-4o-mini_DES_009,DES_009,Descriptive,academic,GPT,gpt-4o-mini,OpenAI,209,valid,9.204643,11.598766
+GPT_gpt-4o-mini_DES_010,DES_010,Descriptive,academic,GPT,gpt-4o-mini,OpenAI,206,valid,16.915005,4.38142
+GPT_gpt-4o-mini_DES_011,DES_011,Descriptive,academic,GPT,gpt-4o-mini,OpenAI,206,valid,-12.437715,-39.683556
+GPT_gpt-4o-mini_DES_012,DES_012,Descriptive,academic,GPT,gpt-4o-mini,OpenAI,205,valid,-14.503142,-38.468964
+GPT_gpt-4o-mini_DES_013,DES_013,Descriptive,academic,GPT,gpt-4o-mini,OpenAI,202,valid,22.91789,-30.253468
+GPT_gpt-4o-mini_DES_014,DES_014,Descriptive,academic,GPT,gpt-4o-mini,OpenAI,204,valid,32.03544,-16.504532
+GPT_gpt-4o-mini_DES_015,DES_015,Descriptive,academic,GPT,gpt-4o-mini,OpenAI,214,valid,30.099943,-19.33593
+GPT_gpt-4o-mini_DES_016,DES_016,Descriptive,academic,GPT,gpt-4o-mini,OpenAI,214,valid,18.68163,-0.6182294
+GPT_gpt-4o-mini_DES_017,DES_017,Descriptive,academic,GPT,gpt-4o-mini,OpenAI,203,valid,26.244633,-27.400568
+GPT_gpt-4o-mini_DES_018,DES_018,Descriptive,academic,GPT,gpt-4o-mini,OpenAI,208,valid,22.459822,-35.358448
+GPT_gpt-4o-mini_DES_019,DES_019,Descriptive,academic,GPT,gpt-4o-mini,OpenAI,202,valid,25.084415,-32.395374
+GPT_gpt-4o-mini_DES_020,DES_020,Descriptive,academic,GPT,gpt-4o-mini,OpenAI,206,valid,19.3845,-17.96029
+GPT_gpt-4o-mini_DES_021,DES_021,Descriptive,business,GPT,gpt-4o-mini,OpenAI,202,valid,-35.130497,-0.057746332
+GPT_gpt-4o-mini_DES_022,DES_022,Descriptive,business,GPT,gpt-4o-mini,OpenAI,209,valid,-31.241602,2.2552044
+GPT_gpt-4o-mini_DES_023,DES_023,Descriptive,business,GPT,gpt-4o-mini,OpenAI,203,valid,-20.495272,-27.933504
+GPT_gpt-4o-mini_DES_024,DES_024,Descriptive,business,GPT,gpt-4o-mini,OpenAI,207,valid,-45.29165,7.288717
+GPT_gpt-4o-mini_DES_025,DES_025,Descriptive,business,GPT,gpt-4o-mini,OpenAI,209,valid,-43.668205,9.191949
+GPT_gpt-4o-mini_DES_026,DES_026,Descriptive,business,GPT,gpt-4o-mini,OpenAI,212,valid,-14.262891,-14.714237
+GPT_gpt-4o-mini_DES_027,DES_027,Descriptive,business,GPT,gpt-4o-mini,OpenAI,206,valid,0.84923387,25.610533
+GPT_gpt-4o-mini_DES_028,DES_028,Descriptive,business,GPT,gpt-4o-mini,OpenAI,200,valid,-23.411955,-25.802412
+GPT_gpt-4o-mini_DES_029,DES_029,Descriptive,business,GPT,gpt-4o-mini,OpenAI,204,valid,-1.277113,-32.647373
+GPT_gpt-4o-mini_DES_030,DES_030,Descriptive,business,GPT,gpt-4o-mini,OpenAI,207,valid,-20.62724,-19.182673
+GPT_gpt-4o-mini_DES_031,DES_031,Descriptive,career,GPT,gpt-4o-mini,OpenAI,207,valid,7.8403926,4.2875433
+GPT_gpt-4o-mini_DES_032,DES_032,Descriptive,career,GPT,gpt-4o-mini,OpenAI,215,valid,9.344775,-0.47727668
+GPT_gpt-4o-mini_DES_033,DES_033,Descriptive,career,GPT,gpt-4o-mini,OpenAI,204,valid,12.09225,3.2521603
+GPT_gpt-4o-mini_DES_034,DES_034,Descriptive,career,GPT,gpt-4o-mini,OpenAI,189,valid,38.51728,3.0570526
+GPT_gpt-4o-mini_DES_035,DES_035,Descriptive,career,GPT,gpt-4o-mini,OpenAI,200,valid,3.7311535,-13.981975
+GPT_gpt-4o-mini_DES_036,DES_036,Descriptive,career,GPT,gpt-4o-mini,OpenAI,205,valid,-13.785925,-10.264074
+GPT_gpt-4o-mini_DES_037,DES_037,Descriptive,career,GPT,gpt-4o-mini,OpenAI,203,valid,5.6125774,-13.168275
+GPT_gpt-4o-mini_DES_038,DES_038,Descriptive,career,GPT,gpt-4o-mini,OpenAI,211,valid,9.125398,6.8678637
+GPT_gpt-4o-mini_DES_039,DES_039,Descriptive,career,GPT,gpt-4o-mini,OpenAI,209,valid,-13.5554495,7.081535
+GPT_gpt-4o-mini_DES_040,DES_040,Descriptive,career,GPT,gpt-4o-mini,OpenAI,204,valid,0.5158864,-16.585613
+GPT_gpt-4o-mini_DES_041,DES_041,Descriptive,personal,GPT,gpt-4o-mini,OpenAI,205,valid,-9.308657,20.255575
+GPT_gpt-4o-mini_DES_042,DES_042,Descriptive,personal,GPT,gpt-4o-mini,OpenAI,206,valid,-15.935289,21.919788
+GPT_gpt-4o-mini_DES_043,DES_043,Descriptive,personal,GPT,gpt-4o-mini,OpenAI,209,valid,-7.6969604,22.351269
+GPT_gpt-4o-mini_DES_044,DES_044,Descriptive,personal,GPT,gpt-4o-mini,OpenAI,204,valid,-11.595205,14.977605
+GPT_gpt-4o-mini_DES_045,DES_045,Descriptive,personal,GPT,gpt-4o-mini,OpenAI,200,valid,2.1407712,35.06324
+GPT_gpt-4o-mini_DES_046,DES_046,Descriptive,personal,GPT,gpt-4o-mini,OpenAI,206,valid,-22.630867,15.972846
+GPT_gpt-4o-mini_DES_047,DES_047,Descriptive,personal,GPT,gpt-4o-mini,OpenAI,200,valid,24.202497,2.5753176
+GPT_gpt-4o-mini_DES_048,DES_048,Descriptive,personal,GPT,gpt-4o-mini,OpenAI,198,valid,-35.318184,21.403238
+GPT_gpt-4o-mini_DES_049,DES_049,Descriptive,personal,GPT,gpt-4o-mini,OpenAI,205,valid,-7.3771596,25.117636
+GPT_gpt-4o-mini_DES_050,DES_050,Descriptive,personal,GPT,gpt-4o-mini,OpenAI,206,valid,-10.578192,8.9984865
+GPT_gpt-4o-mini_ARG_001,ARG_001,Argumentative,academic,GPT,gpt-4o-mini,OpenAI,218,valid,20.227295,27.963837
+GPT_gpt-4o-mini_ARG_002,ARG_002,Argumentative,academic,GPT,gpt-4o-mini,OpenAI,213,valid,22.668514,24.567135
+GPT_gpt-4o-mini_ARG_003,ARG_003,Argumentative,academic,GPT,gpt-4o-mini,OpenAI,208,valid,12.630528,27.00708
+GPT_gpt-4o-mini_ARG_004,ARG_004,Argumentative,academic,GPT,gpt-4o-mini,OpenAI,202,valid,26.917767,24.978365
+GPT_gpt-4o-mini_ARG_005,ARG_005,Argumentative,academic,GPT,gpt-4o-mini,OpenAI,208,valid,20.612434,25.569277
+GPT_gpt-4o-mini_ARG_006,ARG_006,Argumentative,academic,GPT,gpt-4o-mini,OpenAI,207,valid,21.88175,29.777464
+GPT_gpt-4o-mini_ARG_007,ARG_007,Argumentative,academic,GPT,gpt-4o-mini,OpenAI,204,valid,32.02531,11.672902
+GPT_gpt-4o-mini_ARG_008,ARG_008,Argumentative,academic,GPT,gpt-4o-mini,OpenAI,204,valid,18.509272,29.667505
+GPT_gpt-4o-mini_ARG_009,ARG_009,Argumentative,academic,GPT,gpt-4o-mini,OpenAI,206,valid,8.43479,26.563745
+GPT_gpt-4o-mini_ARG_010,ARG_010,Argumentative,academic,GPT,gpt-4o-mini,OpenAI,218,valid,14.743634,31.261976
+GPT_gpt-4o-mini_ARG_011,ARG_011,Argumentative,academic,GPT,gpt-4o-mini,OpenAI,205,valid,29.117395,-23.681623
+GPT_gpt-4o-mini_ARG_012,ARG_012,Argumentative,academic,GPT,gpt-4o-mini,OpenAI,201,valid,31.232609,-28.706854
+GPT_gpt-4o-mini_ARG_013,ARG_013,Argumentative,academic,GPT,gpt-4o-mini,OpenAI,220,valid,23.272747,-16.436014
+GPT_gpt-4o-mini_ARG_014,ARG_014,Argumentative,academic,GPT,gpt-4o-mini,OpenAI,206,valid,37.495697,-16.26292
+GPT_gpt-4o-mini_ARG_015,ARG_015,Argumentative,academic,GPT,gpt-4o-mini,OpenAI,212,valid,13.557194,-14.949343
+GPT_gpt-4o-mini_ARG_016,ARG_016,Argumentative,academic,GPT,gpt-4o-mini,OpenAI,208,valid,33.850426,-8.681479
+GPT_gpt-4o-mini_ARG_017,ARG_017,Argumentative,academic,GPT,gpt-4o-mini,OpenAI,214,valid,33.198643,-19.010809
+GPT_gpt-4o-mini_ARG_018,ARG_018,Argumentative,academic,GPT,gpt-4o-mini,OpenAI,215,valid,11.615069,-12.918699
+GPT_gpt-4o-mini_ARG_019,ARG_019,Argumentative,academic,GPT,gpt-4o-mini,OpenAI,220,valid,25.281828,-22.419483
+GPT_gpt-4o-mini_ARG_020,ARG_020,Argumentative,academic,GPT,gpt-4o-mini,OpenAI,209,valid,18.88274,-14.382634
+GPT_gpt-4o-mini_ARG_021,ARG_021,Argumentative,business,GPT,gpt-4o-mini,OpenAI,207,valid,-37.43921,-0.7202957
+GPT_gpt-4o-mini_ARG_022,ARG_022,Argumentative,business,GPT,gpt-4o-mini,OpenAI,206,valid,-39.63443,-1.3187983
+GPT_gpt-4o-mini_ARG_023,ARG_023,Argumentative,business,GPT,gpt-4o-mini,OpenAI,203,valid,-39.706757,-7.168174
+GPT_gpt-4o-mini_ARG_024,ARG_024,Argumentative,business,GPT,gpt-4o-mini,OpenAI,212,valid,-45.199745,1.9673743
+GPT_gpt-4o-mini_ARG_025,ARG_025,Argumentative,business,GPT,gpt-4o-mini,OpenAI,213,valid,-42.97057,5.2253585
+GPT_gpt-4o-mini_ARG_026,ARG_026,Argumentative,business,GPT,gpt-4o-mini,OpenAI,208,valid,-20.641373,-14.881458
+GPT_gpt-4o-mini_ARG_027,ARG_027,Argumentative,business,GPT,gpt-4o-mini,OpenAI,213,valid,-24.505793,-18.399107
+GPT_gpt-4o-mini_ARG_028,ARG_028,Argumentative,business,GPT,gpt-4o-mini,OpenAI,208,valid,-28.543648,-15.643998
+GPT_gpt-4o-mini_ARG_029,ARG_029,Argumentative,business,GPT,gpt-4o-mini,OpenAI,220,valid,-32.88941,-15.168448
+GPT_gpt-4o-mini_ARG_030,ARG_030,Argumentative,business,GPT,gpt-4o-mini,OpenAI,220,valid,1.573716,-33.27004
+GPT_gpt-4o-mini_ARG_031,ARG_031,Argumentative,career,GPT,gpt-4o-mini,OpenAI,207,valid,-18.436804,-5.097709
+GPT_gpt-4o-mini_ARG_032,ARG_032,Argumentative,career,GPT,gpt-4o-mini,OpenAI,208,valid,-20.797588,-9.378077
+GPT_gpt-4o-mini_ARG_033,ARG_033,Argumentative,career,GPT,gpt-4o-mini,OpenAI,215,valid,9.99188,-17.971344
+GPT_gpt-4o-mini_ARG_034,ARG_034,Argumentative,career,GPT,gpt-4o-mini,OpenAI,216,valid,9.438524,-13.866078
+GPT_gpt-4o-mini_ARG_035,ARG_035,Argumentative,career,GPT,gpt-4o-mini,OpenAI,205,valid,-20.73067,0.94521713
+GPT_gpt-4o-mini_ARG_036,ARG_036,Argumentative,career,GPT,gpt-4o-mini,OpenAI,209,valid,31.659988,0.17406684
+GPT_gpt-4o-mini_ARG_037,ARG_037,Argumentative,career,GPT,gpt-4o-mini,OpenAI,214,valid,9.035298,-7.7390127
+GPT_gpt-4o-mini_ARG_038,ARG_038,Argumentative,career,GPT,gpt-4o-mini,OpenAI,209,valid,-16.226494,-8.501222
+GPT_gpt-4o-mini_ARG_039,ARG_039,Argumentative,career,GPT,gpt-4o-mini,OpenAI,212,valid,-13.959821,-4.5213904
+GPT_gpt-4o-mini_ARG_040,ARG_040,Argumentative,career,GPT,gpt-4o-mini,OpenAI,203,valid,3.297187,21.918806
+GPT_gpt-4o-mini_ARG_041,ARG_041,Argumentative,personal,GPT,gpt-4o-mini,OpenAI,207,valid,-20.293056,32.470062
+GPT_gpt-4o-mini_ARG_042,ARG_042,Argumentative,personal,GPT,gpt-4o-mini,OpenAI,208,valid,-17.619562,32.081936
+GPT_gpt-4o-mini_ARG_043,ARG_043,Argumentative,personal,GPT,gpt-4o-mini,OpenAI,204,valid,-13.644122,35.040504
+GPT_gpt-4o-mini_ARG_044,ARG_044,Argumentative,personal,GPT,gpt-4o-mini,OpenAI,197,valid,-17.021767,34.598156
+GPT_gpt-4o-mini_ARG_045,ARG_045,Argumentative,personal,GPT,gpt-4o-mini,OpenAI,217,valid,-23.773819,-1.8810886
+GPT_gpt-4o-mini_ARG_046,ARG_046,Argumentative,personal,GPT,gpt-4o-mini,OpenAI,208,valid,-28.925758,-11.68504
+GPT_gpt-4o-mini_ARG_047,ARG_047,Argumentative,personal,GPT,gpt-4o-mini,OpenAI,207,valid,-25.695326,-9.619439
+GPT_gpt-4o-mini_ARG_048,ARG_048,Argumentative,personal,GPT,gpt-4o-mini,OpenAI,212,valid,-35.176495,16.149328
+GPT_gpt-4o-mini_ARG_049,ARG_049,Argumentative,personal,GPT,gpt-4o-mini,OpenAI,216,valid,-17.399666,-1.4364007
+GPT_gpt-4o-mini_ARG_050,ARG_050,Argumentative,personal,GPT,gpt-4o-mini,OpenAI,211,valid,-4.9495583,15.148056
+GPT_gpt-4o-mini_DIA_001,DIA_001,Dialogue,academic,GPT,gpt-4o-mini,OpenAI,212,valid,16.944202,25.53802
+GPT_gpt-4o-mini_DIA_002,DIA_002,Dialogue,academic,GPT,gpt-4o-mini,OpenAI,212,valid,31.706709,22.64174
+GPT_gpt-4o-mini_DIA_003,DIA_003,Dialogue,academic,GPT,gpt-4o-mini,OpenAI,208,valid,28.498852,14.216678
+GPT_gpt-4o-mini_DIA_004,DIA_004,Dialogue,academic,GPT,gpt-4o-mini,OpenAI,206,valid,25.400618,9.245989
+GPT_gpt-4o-mini_DIA_005,DIA_005,Dialogue,academic,GPT,gpt-4o-mini,OpenAI,211,valid,22.690468,20.18205
+GPT_gpt-4o-mini_DIA_006,DIA_006,Dialogue,academic,GPT,gpt-4o-mini,OpenAI,210,valid,23.868444,27.668768
+GPT_gpt-4o-mini_DIA_007,DIA_007,Dialogue,academic,GPT,gpt-4o-mini,OpenAI,216,valid,14.833616,25.170841
+GPT_gpt-4o-mini_DIA_008,DIA_008,Dialogue,academic,GPT,gpt-4o-mini,OpenAI,209,valid,27.027582,18.535843
+GPT_gpt-4o-mini_DIA_009,DIA_009,Dialogue,academic,GPT,gpt-4o-mini,OpenAI,216,valid,42.4036,-5.273161
+GPT_gpt-4o-mini_DIA_010,DIA_010,Dialogue,academic,GPT,gpt-4o-mini,OpenAI,214,valid,31.757866,25.411737
+GPT_gpt-4o-mini_DIA_011,DIA_011,Dialogue,academic,GPT,gpt-4o-mini,OpenAI,213,valid,22.091448,-27.169317
+GPT_gpt-4o-mini_DIA_012,DIA_012,Dialogue,academic,GPT,gpt-4o-mini,OpenAI,214,valid,-9.508854,-38.651585
+GPT_gpt-4o-mini_DIA_013,DIA_013,Dialogue,academic,GPT,gpt-4o-mini,OpenAI,206,valid,9.969436,-32.36013
+GPT_gpt-4o-mini_DIA_014,DIA_014,Dialogue,academic,GPT,gpt-4o-mini,OpenAI,202,valid,32.84542,-28.415459
+GPT_gpt-4o-mini_DIA_015,DIA_015,Dialogue,academic,GPT,gpt-4o-mini,OpenAI,206,valid,22.609678,-7.1392703
+GPT_gpt-4o-mini_DIA_016,DIA_016,Dialogue,academic,GPT,gpt-4o-mini,OpenAI,215,valid,20.808462,-33.892197
+GPT_gpt-4o-mini_DIA_017,DIA_017,Dialogue,academic,GPT,gpt-4o-mini,OpenAI,211,valid,34.18038,-22.610073
+GPT_gpt-4o-mini_DIA_018,DIA_018,Dialogue,academic,GPT,gpt-4o-mini,OpenAI,213,valid,24.44107,-24.490955
+GPT_gpt-4o-mini_DIA_019,DIA_019,Dialogue,academic,GPT,gpt-4o-mini,OpenAI,208,valid,28.754768,-33.809685
+GPT_gpt-4o-mini_DIA_020,DIA_020,Dialogue,academic,GPT,gpt-4o-mini,OpenAI,216,valid,22.29425,-20.847027
+GPT_gpt-4o-mini_DIA_021,DIA_021,Dialogue,business,GPT,gpt-4o-mini,OpenAI,216,valid,-36.547718,0.9822369
+GPT_gpt-4o-mini_DIA_022,DIA_022,Dialogue,business,GPT,gpt-4o-mini,OpenAI,220,valid,-33.74079,-4.602489
+GPT_gpt-4o-mini_DIA_023,DIA_023,Dialogue,business,GPT,gpt-4o-mini,OpenAI,218,valid,-16.825327,-24.431477
+GPT_gpt-4o-mini_DIA_024,DIA_024,Dialogue,business,GPT,gpt-4o-mini,OpenAI,204,valid,-49.00806,8.801329
+GPT_gpt-4o-mini_DIA_025,DIA_025,Dialogue,business,GPT,gpt-4o-mini,OpenAI,210,valid,-44.86423,4.7265496
+GPT_gpt-4o-mini_DIA_026,DIA_026,Dialogue,business,GPT,gpt-4o-mini,OpenAI,215,valid,-15.965573,-20.86731
+GPT_gpt-4o-mini_DIA_027,DIA_027,Dialogue,business,GPT,gpt-4o-mini,OpenAI,209,valid,-1.668182,-26.773357
+GPT_gpt-4o-mini_DIA_028,DIA_028,Dialogue,business,GPT,gpt-4o-mini,OpenAI,216,valid,-29.925533,-17.05413
+GPT_gpt-4o-mini_DIA_029,DIA_029,Dialogue,business,GPT,gpt-4o-mini,OpenAI,217,valid,-21.366236,-23.83984
+GPT_gpt-4o-mini_DIA_030,DIA_030,Dialogue,business,GPT,gpt-4o-mini,OpenAI,218,valid,1.6803209,-31.262358
+GPT_gpt-4o-mini_DIA_031,DIA_031,Dialogue,career,GPT,gpt-4o-mini,OpenAI,212,valid,-3.6307592,-8.178842
+GPT_gpt-4o-mini_DIA_032,DIA_032,Dialogue,career,GPT,gpt-4o-mini,OpenAI,220,valid,-9.685929,-24.36745
+GPT_gpt-4o-mini_DIA_033,DIA_033,Dialogue,career,GPT,gpt-4o-mini,OpenAI,208,valid,7.918509,-23.326773
+GPT_gpt-4o-mini_DIA_034,DIA_034,Dialogue,career,GPT,gpt-4o-mini,OpenAI,191,valid,36.482594,1.1075708
+GPT_gpt-4o-mini_DIA_035,DIA_035,Dialogue,career,GPT,gpt-4o-mini,OpenAI,214,valid,6.686951,-15.665735
+GPT_gpt-4o-mini_DIA_036,DIA_036,Dialogue,career,GPT,gpt-4o-mini,OpenAI,209,valid,0.70807934,-8.327628
+GPT_gpt-4o-mini_DIA_037,DIA_037,Dialogue,career,GPT,gpt-4o-mini,OpenAI,216,valid,-6.8293357,-7.487461
+GPT_gpt-4o-mini_DIA_038,DIA_038,Dialogue,career,GPT,gpt-4o-mini,OpenAI,220,valid,-11.835378,-1.0527047
+GPT_gpt-4o-mini_DIA_039,DIA_039,Dialogue,career,GPT,gpt-4o-mini,OpenAI,216,valid,-7.0486646,-9.765074
+GPT_gpt-4o-mini_DIA_040,DIA_040,Dialogue,career,GPT,gpt-4o-mini,OpenAI,216,valid,3.3677087,19.928167
+GPT_gpt-4o-mini_DIA_041,DIA_041,Dialogue,personal,GPT,gpt-4o-mini,OpenAI,215,valid,-19.0895,28.42151
+GPT_gpt-4o-mini_DIA_042,DIA_042,Dialogue,personal,GPT,gpt-4o-mini,OpenAI,217,valid,-17.83068,29.484068
+GPT_gpt-4o-mini_DIA_043,DIA_043,Dialogue,personal,GPT,gpt-4o-mini,OpenAI,213,valid,-13.0797,29.528296
+GPT_gpt-4o-mini_DIA_044,DIA_044,Dialogue,personal,GPT,gpt-4o-mini,OpenAI,220,valid,-18.623238,3.759352
+GPT_gpt-4o-mini_DIA_045,DIA_045,Dialogue,personal,GPT,gpt-4o-mini,OpenAI,212,valid,2.671326,37.289974
+GPT_gpt-4o-mini_DIA_046,DIA_046,Dialogue,personal,GPT,gpt-4o-mini,OpenAI,209,valid,-20.956995,13.526517
+GPT_gpt-4o-mini_DIA_047,DIA_047,Dialogue,personal,GPT,gpt-4o-mini,OpenAI,215,valid,-3.702683,-13.834894
+GPT_gpt-4o-mini_DIA_048,DIA_048,Dialogue,personal,GPT,gpt-4o-mini,OpenAI,214,valid,-34.137836,19.389614
+GPT_gpt-4o-mini_DIA_049,DIA_049,Dialogue,personal,GPT,gpt-4o-mini,OpenAI,206,valid,-10.70172,5.353397
+GPT_gpt-4o-mini_DIA_050,DIA_050,Dialogue,personal,GPT,gpt-4o-mini,OpenAI,208,valid,-5.774681,13.140388
+Claude_claude-haiku-4-5-20251001_NAR_001,NAR_001,Narrative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,203,valid,15.413154,18.331507
+Claude_claude-haiku-4-5-20251001_NAR_002,NAR_002,Narrative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid,14.058054,-2.0820084
+Claude_claude-haiku-4-5-20251001_NAR_003,NAR_003,Narrative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,205,valid,-2.3069708,6.810728
+Claude_claude-haiku-4-5-20251001_NAR_004,NAR_004,Narrative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,210,valid,2.2987146,11.079499
+Claude_claude-haiku-4-5-20251001_NAR_005,NAR_005,Narrative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,213,valid,15.518481,14.076051
+Claude_claude-haiku-4-5-20251001_NAR_006,NAR_006,Narrative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,215,valid,20.985981,19.616879
+Claude_claude-haiku-4-5-20251001_NAR_007,NAR_007,Narrative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,212,valid,14.767329,20.197924
+Claude_claude-haiku-4-5-20251001_NAR_008,NAR_008,Narrative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,211,valid,-1.3002229,7.251083
+Claude_claude-haiku-4-5-20251001_NAR_009,NAR_009,Narrative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,208,valid,17.570646,21.005823
+Claude_claude-haiku-4-5-20251001_NAR_010,NAR_010,Narrative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,210,valid,15.390274,22.995224
+Claude_claude-haiku-4-5-20251001_NAR_011,NAR_011,Narrative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,204,valid,19.758776,-25.94927
+Claude_claude-haiku-4-5-20251001_NAR_012,NAR_012,Narrative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,213,valid,-10.857954,-38.30354
+Claude_claude-haiku-4-5-20251001_NAR_013,NAR_013,Narrative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,214,valid,15.879088,-27.482843
+Claude_claude-haiku-4-5-20251001_NAR_014,NAR_014,Narrative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid,2.2424812,1.8229551
+Claude_claude-haiku-4-5-20251001_NAR_015,NAR_015,Narrative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,214,valid,21.588587,-5.2560043
+Claude_claude-haiku-4-5-20251001_NAR_016,NAR_016,Narrative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,219,valid,19.830744,-35.086662
+Claude_claude-haiku-4-5-20251001_NAR_017,NAR_017,Narrative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,219,valid,19.010593,-25.139853
+Claude_claude-haiku-4-5-20251001_NAR_018,NAR_018,Narrative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid,28.044683,-17.705936
+Claude_claude-haiku-4-5-20251001_NAR_019,NAR_019,Narrative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,210,valid,14.524313,-3.3259864
+Claude_claude-haiku-4-5-20251001_NAR_020,NAR_020,Narrative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,212,valid,19.585096,-25.607023
+Claude_claude-haiku-4-5-20251001_NAR_021,NAR_021,Narrative,business,Claude,claude-haiku-4-5-20251001,Anthropic,211,valid,-35.009434,3.3388627
+Claude_claude-haiku-4-5-20251001_NAR_022,NAR_022,Narrative,business,Claude,claude-haiku-4-5-20251001,Anthropic,203,valid,-7.891252,-2.5797217
+Claude_claude-haiku-4-5-20251001_NAR_023,NAR_023,Narrative,business,Claude,claude-haiku-4-5-20251001,Anthropic,212,valid,-11.769713,-19.612688
+Claude_claude-haiku-4-5-20251001_NAR_024,NAR_024,Narrative,business,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid,-46.59065,5.7923117
+Claude_claude-haiku-4-5-20251001_NAR_025,NAR_025,Narrative,business,Claude,claude-haiku-4-5-20251001,Anthropic,211,valid,-8.614944,-17.14469
+Claude_claude-haiku-4-5-20251001_NAR_026,NAR_026,Narrative,business,Claude,claude-haiku-4-5-20251001,Anthropic,199,valid,-2.6360369,-24.534834
+Claude_claude-haiku-4-5-20251001_NAR_027,NAR_027,Narrative,business,Claude,claude-haiku-4-5-20251001,Anthropic,206,valid,-27.42421,-17.366777
+Claude_claude-haiku-4-5-20251001_NAR_028,NAR_028,Narrative,business,Claude,claude-haiku-4-5-20251001,Anthropic,219,valid,-23.780157,-21.80798
+Claude_claude-haiku-4-5-20251001_NAR_029,NAR_029,Narrative,business,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid,-0.92186743,-30.827515
+Claude_claude-haiku-4-5-20251001_NAR_030,NAR_030,Narrative,business,Claude,claude-haiku-4-5-20251001,Anthropic,208,valid,-17.810537,-17.174713
+Claude_claude-haiku-4-5-20251001_NAR_031,NAR_031,Narrative,career,Claude,claude-haiku-4-5-20251001,Anthropic,214,valid,-3.0939887,-1.6585699
+Claude_claude-haiku-4-5-20251001_NAR_032,NAR_032,Narrative,career,Claude,claude-haiku-4-5-20251001,Anthropic,216,valid,-3.4846585,-2.2696521
+Claude_claude-haiku-4-5-20251001_NAR_033,NAR_033,Narrative,career,Claude,claude-haiku-4-5-20251001,Anthropic,211,valid,3.6758826,-2.9074583
+Claude_claude-haiku-4-5-20251001_NAR_034,NAR_034,Narrative,career,Claude,claude-haiku-4-5-20251001,Anthropic,215,valid,-17.658955,10.827887
+Claude_claude-haiku-4-5-20251001_NAR_035,NAR_035,Narrative,career,Claude,claude-haiku-4-5-20251001,Anthropic,217,valid,2.3288684,-4.1880994
+Claude_claude-haiku-4-5-20251001_NAR_036,NAR_036,Narrative,career,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid,6.925257,-7.186626
+Claude_claude-haiku-4-5-20251001_NAR_037,NAR_037,Narrative,career,Claude,claude-haiku-4-5-20251001,Anthropic,219,valid,-2.2157705,-2.191868
+Claude_claude-haiku-4-5-20251001_NAR_038,NAR_038,Narrative,career,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid,0.31671646,9.774255
+Claude_claude-haiku-4-5-20251001_NAR_039,NAR_039,Narrative,career,Claude,claude-haiku-4-5-20251001,Anthropic,216,valid,-2.9724898,-1.9514445
+Claude_claude-haiku-4-5-20251001_NAR_040,NAR_040,Narrative,career,Claude,claude-haiku-4-5-20251001,Anthropic,212,valid,2.422393,13.010433
+Claude_claude-haiku-4-5-20251001_NAR_041,NAR_041,Narrative,personal,Claude,claude-haiku-4-5-20251001,Anthropic,201,valid,-17.371794,25.491835
+Claude_claude-haiku-4-5-20251001_NAR_042,NAR_042,Narrative,personal,Claude,claude-haiku-4-5-20251001,Anthropic,218,valid,-16.194046,25.947987
+Claude_claude-haiku-4-5-20251001_NAR_043,NAR_043,Narrative,personal,Claude,claude-haiku-4-5-20251001,Anthropic,208,valid,-13.788559,25.998901
+Claude_claude-haiku-4-5-20251001_NAR_044,NAR_044,Narrative,personal,Claude,claude-haiku-4-5-20251001,Anthropic,196,valid,-15.616029,10.241289
+Claude_claude-haiku-4-5-20251001_NAR_045,NAR_045,Narrative,personal,Claude,claude-haiku-4-5-20251001,Anthropic,212,valid,-16.277,4.828892
+Claude_claude-haiku-4-5-20251001_NAR_046,NAR_046,Narrative,personal,Claude,claude-haiku-4-5-20251001,Anthropic,215,valid,-20.353338,19.723389
+Claude_claude-haiku-4-5-20251001_NAR_047,NAR_047,Narrative,personal,Claude,claude-haiku-4-5-20251001,Anthropic,200,valid,-19.648151,15.191133
+Claude_claude-haiku-4-5-20251001_NAR_048,NAR_048,Narrative,personal,Claude,claude-haiku-4-5-20251001,Anthropic,214,valid,-5.939315,-13.632894
+Claude_claude-haiku-4-5-20251001_NAR_049,NAR_049,Narrative,personal,Claude,claude-haiku-4-5-20251001,Anthropic,210,valid,-30.029314,19.262676
+Claude_claude-haiku-4-5-20251001_NAR_050,NAR_050,Narrative,personal,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid,-6.35291,9.345903
+Claude_claude-haiku-4-5-20251001_DES_001,DES_001,Descriptive,academic,Claude,claude-haiku-4-5-20251001,Anthropic,212,valid,12.44503,7.0009613
+Claude_claude-haiku-4-5-20251001_DES_002,DES_002,Descriptive,academic,Claude,claude-haiku-4-5-20251001,Anthropic,217,valid,17.928497,7.9748626
+Claude_claude-haiku-4-5-20251001_DES_003,DES_003,Descriptive,academic,Claude,claude-haiku-4-5-20251001,Anthropic,200,valid,14.506886,10.871978
+Claude_claude-haiku-4-5-20251001_DES_004,DES_004,Descriptive,academic,Claude,claude-haiku-4-5-20251001,Anthropic,206,valid,10.55086,8.316233
+Claude_claude-haiku-4-5-20251001_DES_005,DES_005,Descriptive,academic,Claude,claude-haiku-4-5-20251001,Anthropic,208,valid,34.174473,18.442778
+Claude_claude-haiku-4-5-20251001_DES_006,DES_006,Descriptive,academic,Claude,claude-haiku-4-5-20251001,Anthropic,217,valid,19.295456,24.247211
+Claude_claude-haiku-4-5-20251001_DES_007,DES_007,Descriptive,academic,Claude,claude-haiku-4-5-20251001,Anthropic,212,valid,20.875837,11.672631
+Claude_claude-haiku-4-5-20251001_DES_008,DES_008,Descriptive,academic,Claude,claude-haiku-4-5-20251001,Anthropic,201,valid,22.150455,14.247291
+Claude_claude-haiku-4-5-20251001_DES_009,DES_009,Descriptive,academic,Claude,claude-haiku-4-5-20251001,Anthropic,216,valid,7.872895,13.305856
+Claude_claude-haiku-4-5-20251001_DES_010,DES_010,Descriptive,academic,Claude,claude-haiku-4-5-20251001,Anthropic,218,valid,17.881237,4.1283574
+Claude_claude-haiku-4-5-20251001_DES_011,DES_011,Descriptive,academic,Claude,claude-haiku-4-5-20251001,Anthropic,196,valid,-12.17755,-39.80996
+Claude_claude-haiku-4-5-20251001_DES_012,DES_012,Descriptive,academic,Claude,claude-haiku-4-5-20251001,Anthropic,197,valid,-14.30971,-38.91483
+Claude_claude-haiku-4-5-20251001_DES_013,DES_013,Descriptive,academic,Claude,claude-haiku-4-5-20251001,Anthropic,201,valid,23.704922,-28.878597
+Claude_claude-haiku-4-5-20251001_DES_014,DES_014,Descriptive,academic,Claude,claude-haiku-4-5-20251001,Anthropic,219,valid,32.48362,-16.286388
+Claude_claude-haiku-4-5-20251001_DES_015,DES_015,Descriptive,academic,Claude,claude-haiku-4-5-20251001,Anthropic,209,valid,30.12053,-21.232433
+Claude_claude-haiku-4-5-20251001_DES_016,DES_016,Descriptive,academic,Claude,claude-haiku-4-5-20251001,Anthropic,207,valid,19.280678,-2.3241365
+Claude_claude-haiku-4-5-20251001_DES_017,DES_017,Descriptive,academic,Claude,claude-haiku-4-5-20251001,Anthropic,207,valid,26.683657,-26.223143
+Claude_claude-haiku-4-5-20251001_DES_018,DES_018,Descriptive,academic,Claude,claude-haiku-4-5-20251001,Anthropic,212,valid,21.460176,-35.14247
+Claude_claude-haiku-4-5-20251001_DES_019,DES_019,Descriptive,academic,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid,25.85573,-32.287903
+Claude_claude-haiku-4-5-20251001_DES_020,DES_020,Descriptive,academic,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid,28.986696,-13.661208
+Claude_claude-haiku-4-5-20251001_DES_021,DES_021,Descriptive,business,Claude,claude-haiku-4-5-20251001,Anthropic,217,valid,-35.959816,-0.24644843
+Claude_claude-haiku-4-5-20251001_DES_022,DES_022,Descriptive,business,Claude,claude-haiku-4-5-20251001,Anthropic,206,valid,-32.574993,3.3206255
+Claude_claude-haiku-4-5-20251001_DES_023,DES_023,Descriptive,business,Claude,claude-haiku-4-5-20251001,Anthropic,210,valid,-20.010422,-27.993216
+Claude_claude-haiku-4-5-20251001_DES_024,DES_024,Descriptive,business,Claude,claude-haiku-4-5-20251001,Anthropic,213,valid,-45.726383,7.731229
+Claude_claude-haiku-4-5-20251001_DES_025,DES_025,Descriptive,business,Claude,claude-haiku-4-5-20251001,Anthropic,203,valid,-43.583588,9.597195
+Claude_claude-haiku-4-5-20251001_DES_026,DES_026,Descriptive,business,Claude,claude-haiku-4-5-20251001,Anthropic,195,valid,-15.175105,-14.654389
+Claude_claude-haiku-4-5-20251001_DES_027,DES_027,Descriptive,business,Claude,claude-haiku-4-5-20251001,Anthropic,209,valid,1.2837794,26.013905
+Claude_claude-haiku-4-5-20251001_DES_028,DES_028,Descriptive,business,Claude,claude-haiku-4-5-20251001,Anthropic,209,valid,-22.868355,-25.980505
+Claude_claude-haiku-4-5-20251001_DES_029,DES_029,Descriptive,business,Claude,claude-haiku-4-5-20251001,Anthropic,210,valid,-1.0995106,-33.592754
+Claude_claude-haiku-4-5-20251001_DES_030,DES_030,Descriptive,business,Claude,claude-haiku-4-5-20251001,Anthropic,207,valid,-20.582764,-18.359167
+Claude_claude-haiku-4-5-20251001_DES_031,DES_031,Descriptive,career,Claude,claude-haiku-4-5-20251001,Anthropic,212,valid,7.939245,3.1226907
+Claude_claude-haiku-4-5-20251001_DES_032,DES_032,Descriptive,career,Claude,claude-haiku-4-5-20251001,Anthropic,210,valid,9.523117,-0.11082979
+Claude_claude-haiku-4-5-20251001_DES_033,DES_033,Descriptive,career,Claude,claude-haiku-4-5-20251001,Anthropic,206,valid,11.269991,3.0387433
+Claude_claude-haiku-4-5-20251001_DES_034,DES_034,Descriptive,career,Claude,claude-haiku-4-5-20251001,Anthropic,190,valid,37.67162,2.8956327
+Claude_claude-haiku-4-5-20251001_DES_035,DES_035,Descriptive,career,Claude,claude-haiku-4-5-20251001,Anthropic,203,valid,4.1646643,-13.989694
+Claude_claude-haiku-4-5-20251001_DES_036,DES_036,Descriptive,career,Claude,claude-haiku-4-5-20251001,Anthropic,201,valid,-14.050719,-10.263562
+Claude_claude-haiku-4-5-20251001_DES_037,DES_037,Descriptive,career,Claude,claude-haiku-4-5-20251001,Anthropic,214,valid,5.875194,-13.835136
+Claude_claude-haiku-4-5-20251001_DES_038,DES_038,Descriptive,career,Claude,claude-haiku-4-5-20251001,Anthropic,205,valid,9.754324,6.7473097
+Claude_claude-haiku-4-5-20251001_DES_039,DES_039,Descriptive,career,Claude,claude-haiku-4-5-20251001,Anthropic,206,valid,-3.827021,-1.3960751
+Claude_claude-haiku-4-5-20251001_DES_040,DES_040,Descriptive,career,Claude,claude-haiku-4-5-20251001,Anthropic,208,valid,0.88475454,-16.02494
+Claude_claude-haiku-4-5-20251001_DES_041,DES_041,Descriptive,personal,Claude,claude-haiku-4-5-20251001,Anthropic,215,valid,-9.378537,20.057074
+Claude_claude-haiku-4-5-20251001_DES_042,DES_042,Descriptive,personal,Claude,claude-haiku-4-5-20251001,Anthropic,207,valid,-16.93159,26.210073
+Claude_claude-haiku-4-5-20251001_DES_043,DES_043,Descriptive,personal,Claude,claude-haiku-4-5-20251001,Anthropic,209,valid,-8.129758,23.251648
+Claude_claude-haiku-4-5-20251001_DES_044,DES_044,Descriptive,personal,Claude,claude-haiku-4-5-20251001,Anthropic,214,valid,-11.413891,14.022262
+Claude_claude-haiku-4-5-20251001_DES_045,DES_045,Descriptive,personal,Claude,claude-haiku-4-5-20251001,Anthropic,218,valid,2.570506,35.57869
+Claude_claude-haiku-4-5-20251001_DES_046,DES_046,Descriptive,personal,Claude,claude-haiku-4-5-20251001,Anthropic,207,valid,-22.94265,15.917775
+Claude_claude-haiku-4-5-20251001_DES_047,DES_047,Descriptive,personal,Claude,claude-haiku-4-5-20251001,Anthropic,183,valid,23.808418,2.8857718
+Claude_claude-haiku-4-5-20251001_DES_048,DES_048,Descriptive,personal,Claude,claude-haiku-4-5-20251001,Anthropic,199,valid,-34.834084,21.357924
+Claude_claude-haiku-4-5-20251001_DES_049,DES_049,Descriptive,personal,Claude,claude-haiku-4-5-20251001,Anthropic,197,valid,-6.8334894,25.967512
+Claude_claude-haiku-4-5-20251001_DES_050,DES_050,Descriptive,personal,Claude,claude-haiku-4-5-20251001,Anthropic,217,valid,-10.41627,8.502892
+Claude_claude-haiku-4-5-20251001_ARG_001,ARG_001,Argumentative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,218,valid,19.550303,26.655146
+Claude_claude-haiku-4-5-20251001_ARG_002,ARG_002,Argumentative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,218,valid,22.814098,23.8372
+Claude_claude-haiku-4-5-20251001_ARG_003,ARG_003,Argumentative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,213,valid,11.744548,27.485611
+Claude_claude-haiku-4-5-20251001_ARG_004,ARG_004,Argumentative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,212,valid,26.617998,25.668604
+Claude_claude-haiku-4-5-20251001_ARG_005,ARG_005,Argumentative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid,21.927881,25.94775
+Claude_claude-haiku-4-5-20251001_ARG_006,ARG_006,Argumentative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid,22.010273,29.103004
+Claude_claude-haiku-4-5-20251001_ARG_007,ARG_007,Argumentative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,215,valid,32.43367,11.532458
+Claude_claude-haiku-4-5-20251001_ARG_008,ARG_008,Argumentative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,209,valid,18.897942,29.641727
+Claude_claude-haiku-4-5-20251001_ARG_009,ARG_009,Argumentative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,216,valid,7.9535627,26.88722
+Claude_claude-haiku-4-5-20251001_ARG_010,ARG_010,Argumentative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,218,valid,14.782697,31.289944
+Claude_claude-haiku-4-5-20251001_ARG_011,ARG_011,Argumentative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,216,valid,29.079456,-22.900127
+Claude_claude-haiku-4-5-20251001_ARG_012,ARG_012,Argumentative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid,30.741602,-28.483475
+Claude_claude-haiku-4-5-20251001_ARG_013,ARG_013,Argumentative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid,23.439453,-16.817135
+Claude_claude-haiku-4-5-20251001_ARG_014,ARG_014,Argumentative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,209,valid,37.65204,-15.71109
+Claude_claude-haiku-4-5-20251001_ARG_015,ARG_015,Argumentative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,215,valid,13.428891,-15.101015
+Claude_claude-haiku-4-5-20251001_ARG_016,ARG_016,Argumentative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid,33.46761,-8.457551
+Claude_claude-haiku-4-5-20251001_ARG_017,ARG_017,Argumentative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,215,valid,32.912434,-19.136242
+Claude_claude-haiku-4-5-20251001_ARG_018,ARG_018,Argumentative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,214,valid,11.449933,-13.201686
+Claude_claude-haiku-4-5-20251001_ARG_019,ARG_019,Argumentative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid,25.986147,-21.968828
+Claude_claude-haiku-4-5-20251001_ARG_020,ARG_020,Argumentative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,213,valid,18.731562,-13.988968
+Claude_claude-haiku-4-5-20251001_ARG_021,ARG_021,Argumentative,business,Claude,claude-haiku-4-5-20251001,Anthropic,209,valid,-37.29482,-0.25751555
+Claude_claude-haiku-4-5-20251001_ARG_022,ARG_022,Argumentative,business,Claude,claude-haiku-4-5-20251001,Anthropic,196,valid,-39.736916,-1.6764756
+Claude_claude-haiku-4-5-20251001_ARG_023,ARG_023,Argumentative,business,Claude,claude-haiku-4-5-20251001,Anthropic,213,valid,-39.85488,-6.8650756
+Claude_claude-haiku-4-5-20251001_ARG_024,ARG_024,Argumentative,business,Claude,claude-haiku-4-5-20251001,Anthropic,201,valid,-44.925133,1.9137957
+Claude_claude-haiku-4-5-20251001_ARG_025,ARG_025,Argumentative,business,Claude,claude-haiku-4-5-20251001,Anthropic,202,valid,-43.47247,5.262628
+Claude_claude-haiku-4-5-20251001_ARG_026,ARG_026,Argumentative,business,Claude,claude-haiku-4-5-20251001,Anthropic,217,valid,-20.757826,-14.28268
+Claude_claude-haiku-4-5-20251001_ARG_027,ARG_027,Argumentative,business,Claude,claude-haiku-4-5-20251001,Anthropic,214,valid,-24.053583,-18.20986
+Claude_claude-haiku-4-5-20251001_ARG_028,ARG_028,Argumentative,business,Claude,claude-haiku-4-5-20251001,Anthropic,207,valid,-28.436836,-15.383243
+Claude_claude-haiku-4-5-20251001_ARG_029,ARG_029,Argumentative,business,Claude,claude-haiku-4-5-20251001,Anthropic,214,valid,-33.264126,-14.583035
+Claude_claude-haiku-4-5-20251001_ARG_030,ARG_030,Argumentative,business,Claude,claude-haiku-4-5-20251001,Anthropic,214,valid,1.8784719,-32.555576
+Claude_claude-haiku-4-5-20251001_ARG_031,ARG_031,Argumentative,career,Claude,claude-haiku-4-5-20251001,Anthropic,214,valid,-18.3111,-4.5665812
+Claude_claude-haiku-4-5-20251001_ARG_032,ARG_032,Argumentative,career,Claude,claude-haiku-4-5-20251001,Anthropic,209,valid,-20.510544,-9.446803
+Claude_claude-haiku-4-5-20251001_ARG_033,ARG_033,Argumentative,career,Claude,claude-haiku-4-5-20251001,Anthropic,216,valid,10.450228,-17.976322
+Claude_claude-haiku-4-5-20251001_ARG_034,ARG_034,Argumentative,career,Claude,claude-haiku-4-5-20251001,Anthropic,211,valid,9.650616,-13.557402
+Claude_claude-haiku-4-5-20251001_ARG_035,ARG_035,Argumentative,career,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid,-20.627663,0.8573465
+Claude_claude-haiku-4-5-20251001_ARG_036,ARG_036,Argumentative,career,Claude,claude-haiku-4-5-20251001,Anthropic,207,valid,31.561518,-0.16508032
+Claude_claude-haiku-4-5-20251001_ARG_037,ARG_037,Argumentative,career,Claude,claude-haiku-4-5-20251001,Anthropic,211,valid,8.828232,-8.127691
+Claude_claude-haiku-4-5-20251001_ARG_038,ARG_038,Argumentative,career,Claude,claude-haiku-4-5-20251001,Anthropic,215,valid,-16.274694,-8.293195
+Claude_claude-haiku-4-5-20251001_ARG_039,ARG_039,Argumentative,career,Claude,claude-haiku-4-5-20251001,Anthropic,218,valid,-13.645894,-3.6466694
+Claude_claude-haiku-4-5-20251001_ARG_040,ARG_040,Argumentative,career,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid,3.729981,21.940712
+Claude_claude-haiku-4-5-20251001_ARG_041,ARG_041,Argumentative,personal,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid,-20.517515,32.114655
+Claude_claude-haiku-4-5-20251001_ARG_042,ARG_042,Argumentative,personal,Claude,claude-haiku-4-5-20251001,Anthropic,212,valid,-17.84589,32.31004
+Claude_claude-haiku-4-5-20251001_ARG_043,ARG_043,Argumentative,personal,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid,-14.163549,34.44496
+Claude_claude-haiku-4-5-20251001_ARG_044,ARG_044,Argumentative,personal,Claude,claude-haiku-4-5-20251001,Anthropic,213,valid,-17.667719,34.995693
+Claude_claude-haiku-4-5-20251001_ARG_045,ARG_045,Argumentative,personal,Claude,claude-haiku-4-5-20251001,Anthropic,216,valid,-23.475843,-1.6900259
+Claude_claude-haiku-4-5-20251001_ARG_046,ARG_046,Argumentative,personal,Claude,claude-haiku-4-5-20251001,Anthropic,204,valid,-29.205076,-12.009986
+Claude_claude-haiku-4-5-20251001_ARG_047,ARG_047,Argumentative,personal,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid,-25.260416,-9.328458
+Claude_claude-haiku-4-5-20251001_ARG_048,ARG_048,Argumentative,personal,Claude,claude-haiku-4-5-20251001,Anthropic,214,valid,-35.368156,15.445062
+Claude_claude-haiku-4-5-20251001_ARG_049,ARG_049,Argumentative,personal,Claude,claude-haiku-4-5-20251001,Anthropic,215,valid,-17.345827,-1.5498965
+Claude_claude-haiku-4-5-20251001_ARG_050,ARG_050,Argumentative,personal,Claude,claude-haiku-4-5-20251001,Anthropic,210,valid,-5.4818573,15.86083
+Claude_claude-haiku-4-5-20251001_DIA_001,DIA_001,Dialogue,academic,Claude,claude-haiku-4-5-20251001,Anthropic,206,valid,17.144527,26.35471
+Claude_claude-haiku-4-5-20251001_DIA_002,DIA_002,Dialogue,academic,Claude,claude-haiku-4-5-20251001,Anthropic,209,valid,31.172642,22.4927
+Claude_claude-haiku-4-5-20251001_DIA_003,DIA_003,Dialogue,academic,Claude,claude-haiku-4-5-20251001,Anthropic,215,valid,29.169634,14.53649
+Claude_claude-haiku-4-5-20251001_DIA_004,DIA_004,Dialogue,academic,Claude,claude-haiku-4-5-20251001,Anthropic,211,valid,26.028593,9.314933
+Claude_claude-haiku-4-5-20251001_DIA_005,DIA_005,Dialogue,academic,Claude,claude-haiku-4-5-20251001,Anthropic,204,valid,22.098547,20.79428
+Claude_claude-haiku-4-5-20251001_DIA_006,DIA_006,Dialogue,academic,Claude,claude-haiku-4-5-20251001,Anthropic,202,valid,25.20326,28.09481
+Claude_claude-haiku-4-5-20251001_DIA_007,DIA_007,Dialogue,academic,Claude,claude-haiku-4-5-20251001,Anthropic,207,valid,15.07136,25.503696
+Claude_claude-haiku-4-5-20251001_DIA_008,DIA_008,Dialogue,academic,Claude,claude-haiku-4-5-20251001,Anthropic,215,valid,28.028257,19.608294
+Claude_claude-haiku-4-5-20251001_DIA_009,DIA_009,Dialogue,academic,Claude,claude-haiku-4-5-20251001,Anthropic,205,valid,42.294262,-5.2391734
+Claude_claude-haiku-4-5-20251001_DIA_010,DIA_010,Dialogue,academic,Claude,claude-haiku-4-5-20251001,Anthropic,208,valid,31.62179,25.341963
+Claude_claude-haiku-4-5-20251001_DIA_011,DIA_011,Dialogue,academic,Claude,claude-haiku-4-5-20251001,Anthropic,195,valid,21.73475,-26.182495
+Claude_claude-haiku-4-5-20251001_DIA_012,DIA_012,Dialogue,academic,Claude,claude-haiku-4-5-20251001,Anthropic,199,valid,-8.179969,-38.495083
+Claude_claude-haiku-4-5-20251001_DIA_013,DIA_013,Dialogue,academic,Claude,claude-haiku-4-5-20251001,Anthropic,216,valid,10.412697,-32.654472
+Claude_claude-haiku-4-5-20251001_DIA_014,DIA_014,Dialogue,academic,Claude,claude-haiku-4-5-20251001,Anthropic,215,valid,32.725414,-29.334877
+Claude_claude-haiku-4-5-20251001_DIA_015,DIA_015,Dialogue,academic,Claude,claude-haiku-4-5-20251001,Anthropic,205,valid,22.877352,-6.845643
+Claude_claude-haiku-4-5-20251001_DIA_016,DIA_016,Dialogue,academic,Claude,claude-haiku-4-5-20251001,Anthropic,206,valid,20.16377,-33.43581
+Claude_claude-haiku-4-5-20251001_DIA_017,DIA_017,Dialogue,academic,Claude,claude-haiku-4-5-20251001,Anthropic,212,valid,34.5504,-22.752958
+Claude_claude-haiku-4-5-20251001_DIA_018,DIA_018,Dialogue,academic,Claude,claude-haiku-4-5-20251001,Anthropic,210,valid,24.072847,-25.001162
+Claude_claude-haiku-4-5-20251001_DIA_019,DIA_019,Dialogue,academic,Claude,claude-haiku-4-5-20251001,Anthropic,217,valid,29.304564,-33.963436
+Claude_claude-haiku-4-5-20251001_DIA_020,DIA_020,Dialogue,academic,Claude,claude-haiku-4-5-20251001,Anthropic,210,valid,22.39759,-20.949083
+Claude_claude-haiku-4-5-20251001_DIA_021,DIA_021,Dialogue,business,Claude,claude-haiku-4-5-20251001,Anthropic,208,valid,-36.752285,1.5545107
+Claude_claude-haiku-4-5-20251001_DIA_022,DIA_022,Dialogue,business,Claude,claude-haiku-4-5-20251001,Anthropic,211,valid,-31.529099,-5.495815
+Claude_claude-haiku-4-5-20251001_DIA_023,DIA_023,Dialogue,business,Claude,claude-haiku-4-5-20251001,Anthropic,192,valid,-16.459227,-23.96037
+Claude_claude-haiku-4-5-20251001_DIA_024,DIA_024,Dialogue,business,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid,-49.447624,8.844976
+Claude_claude-haiku-4-5-20251001_DIA_025,DIA_025,Dialogue,business,Claude,claude-haiku-4-5-20251001,Anthropic,196,valid,-46.203487,3.9189425
+Claude_claude-haiku-4-5-20251001_DIA_026,DIA_026,Dialogue,business,Claude,claude-haiku-4-5-20251001,Anthropic,193,valid,-15.828539,-21.392138
+Claude_claude-haiku-4-5-20251001_DIA_027,DIA_027,Dialogue,business,Claude,claude-haiku-4-5-20251001,Anthropic,206,valid,-1.6900285,-26.65742
+Claude_claude-haiku-4-5-20251001_DIA_028,DIA_028,Dialogue,business,Claude,claude-haiku-4-5-20251001,Anthropic,203,valid,-29.706268,-17.133968
+Claude_claude-haiku-4-5-20251001_DIA_029,DIA_029,Dialogue,business,Claude,claude-haiku-4-5-20251001,Anthropic,202,valid,-20.727936,-23.27133
+Claude_claude-haiku-4-5-20251001_DIA_030,DIA_030,Dialogue,business,Claude,claude-haiku-4-5-20251001,Anthropic,207,valid,2.7924404,-31.120853
+Claude_claude-haiku-4-5-20251001_DIA_031,DIA_031,Dialogue,career,Claude,claude-haiku-4-5-20251001,Anthropic,213,valid,-3.616658,-8.233272
+Claude_claude-haiku-4-5-20251001_DIA_032,DIA_032,Dialogue,career,Claude,claude-haiku-4-5-20251001,Anthropic,203,valid,-10.5516405,-24.811956
+Claude_claude-haiku-4-5-20251001_DIA_033,DIA_033,Dialogue,career,Claude,claude-haiku-4-5-20251001,Anthropic,214,valid,7.8688607,-23.094551
+Claude_claude-haiku-4-5-20251001_DIA_034,DIA_034,Dialogue,career,Claude,claude-haiku-4-5-20251001,Anthropic,197,valid,36.538513,1.1348958
+Claude_claude-haiku-4-5-20251001_DIA_035,DIA_035,Dialogue,career,Claude,claude-haiku-4-5-20251001,Anthropic,201,valid,6.7398114,-15.671976
+Claude_claude-haiku-4-5-20251001_DIA_036,DIA_036,Dialogue,career,Claude,claude-haiku-4-5-20251001,Anthropic,207,valid,0.23615591,-8.678048
+Claude_claude-haiku-4-5-20251001_DIA_037,DIA_037,Dialogue,career,Claude,claude-haiku-4-5-20251001,Anthropic,203,valid,-9.388108,-7.208953
+Claude_claude-haiku-4-5-20251001_DIA_038,DIA_038,Dialogue,career,Claude,claude-haiku-4-5-20251001,Anthropic,210,valid,-11.951621,-1.5469061
+Claude_claude-haiku-4-5-20251001_DIA_039,DIA_039,Dialogue,career,Claude,claude-haiku-4-5-20251001,Anthropic,209,valid,-8.504837,-9.976562
+Claude_claude-haiku-4-5-20251001_DIA_040,DIA_040,Dialogue,career,Claude,claude-haiku-4-5-20251001,Anthropic,208,valid,3.4570754,19.499134
+Claude_claude-haiku-4-5-20251001_DIA_041,DIA_041,Dialogue,personal,Claude,claude-haiku-4-5-20251001,Anthropic,202,valid,-18.749847,27.644453
+Claude_claude-haiku-4-5-20251001_DIA_042,DIA_042,Dialogue,personal,Claude,claude-haiku-4-5-20251001,Anthropic,201,valid,-17.589888,28.669842
+Claude_claude-haiku-4-5-20251001_DIA_043,DIA_043,Dialogue,personal,Claude,claude-haiku-4-5-20251001,Anthropic,201,valid,-13.046021,29.782028
+Claude_claude-haiku-4-5-20251001_DIA_044,DIA_044,Dialogue,personal,Claude,claude-haiku-4-5-20251001,Anthropic,203,valid,-18.723152,4.4806376
+Claude_claude-haiku-4-5-20251001_DIA_045,DIA_045,Dialogue,personal,Claude,claude-haiku-4-5-20251001,Anthropic,197,valid,2.7231538,36.803
+Claude_claude-haiku-4-5-20251001_DIA_046,DIA_046,Dialogue,personal,Claude,claude-haiku-4-5-20251001,Anthropic,198,valid,-20.322617,13.510247
+Claude_claude-haiku-4-5-20251001_DIA_047,DIA_047,Dialogue,personal,Claude,claude-haiku-4-5-20251001,Anthropic,206,valid,-3.9226131,-13.282183
+Claude_claude-haiku-4-5-20251001_DIA_048,DIA_048,Dialogue,personal,Claude,claude-haiku-4-5-20251001,Anthropic,205,valid,-33.439655,19.154202
+Claude_claude-haiku-4-5-20251001_DIA_049,DIA_049,Dialogue,personal,Claude,claude-haiku-4-5-20251001,Anthropic,198,valid,-10.62763,4.988294
+Claude_claude-haiku-4-5-20251001_DIA_050,DIA_050,Dialogue,personal,Claude,claude-haiku-4-5-20251001,Anthropic,186,valid,-6.096738,12.185538
+DeepSeek_deepseek-chat_NAR_001,NAR_001,Narrative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,13.155052,16.952465
+DeepSeek_deepseek-chat_NAR_002,NAR_002,Narrative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,4.7093344,5.941613
+DeepSeek_deepseek-chat_NAR_003,NAR_003,Narrative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,10.944004,16.786692
+DeepSeek_deepseek-chat_NAR_004,NAR_004,Narrative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,6.3508706,10.98344
+DeepSeek_deepseek-chat_NAR_005,NAR_005,Narrative,academic,DeepSeek,deepseek-chat,DeepSeek,211,valid,15.414381,12.950427
+DeepSeek_deepseek-chat_NAR_006,NAR_006,Narrative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,20.017612,19.5244
+DeepSeek_deepseek-chat_NAR_007,NAR_007,Narrative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,12.929923,17.662224
+DeepSeek_deepseek-chat_NAR_008,NAR_008,Narrative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,-0.2932596,5.3516407
+DeepSeek_deepseek-chat_NAR_009,NAR_009,Narrative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,17.09459,18.275219
+DeepSeek_deepseek-chat_NAR_010,NAR_010,Narrative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,13.035878,21.206623
+DeepSeek_deepseek-chat_NAR_011,NAR_011,Narrative,academic,DeepSeek,deepseek-chat,DeepSeek,216,valid,20.823114,-29.302137
+DeepSeek_deepseek-chat_NAR_012,NAR_012,Narrative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,-13.681488,-36.914757
+DeepSeek_deepseek-chat_NAR_013,NAR_013,Narrative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,14.398052,-29.056965
+DeepSeek_deepseek-chat_NAR_014,NAR_014,Narrative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,2.3015287,2.9246683
+DeepSeek_deepseek-chat_NAR_015,NAR_015,Narrative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,21.16135,-3.505024
+DeepSeek_deepseek-chat_NAR_016,NAR_016,Narrative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,19.414444,-36.129642
+DeepSeek_deepseek-chat_NAR_017,NAR_017,Narrative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,19.640474,-22.63174
+DeepSeek_deepseek-chat_NAR_018,NAR_018,Narrative,academic,DeepSeek,deepseek-chat,DeepSeek,216,valid,27.958172,-18.038158
+DeepSeek_deepseek-chat_NAR_019,NAR_019,Narrative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,15.934623,-4.096346
+DeepSeek_deepseek-chat_NAR_020,NAR_020,Narrative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,19.826706,-27.416298
+DeepSeek_deepseek-chat_NAR_021,NAR_021,Narrative,business,DeepSeek,deepseek-chat,DeepSeek,204,valid,-34.846394,4.346955
+DeepSeek_deepseek-chat_NAR_022,NAR_022,Narrative,business,DeepSeek,deepseek-chat,DeepSeek,220,valid,-8.059196,-0.8351223
+DeepSeek_deepseek-chat_NAR_023,NAR_023,Narrative,business,DeepSeek,deepseek-chat,DeepSeek,220,valid,-10.659153,-18.19014
+DeepSeek_deepseek-chat_NAR_024,NAR_024,Narrative,business,DeepSeek,deepseek-chat,DeepSeek,219,valid,-47.643192,6.0333457
+DeepSeek_deepseek-chat_NAR_025,NAR_025,Narrative,business,DeepSeek,deepseek-chat,DeepSeek,220,valid,0.90895385,13.745424
+DeepSeek_deepseek-chat_NAR_026,NAR_026,Narrative,business,DeepSeek,deepseek-chat,DeepSeek,208,valid,-1.2722027,-23.757282
+DeepSeek_deepseek-chat_NAR_027,NAR_027,Narrative,business,DeepSeek,deepseek-chat,DeepSeek,220,valid,-2.6300702,-22.554132
+DeepSeek_deepseek-chat_NAR_028,NAR_028,Narrative,business,DeepSeek,deepseek-chat,DeepSeek,220,valid,10.739253,-3.2134578
+DeepSeek_deepseek-chat_NAR_029,NAR_029,Narrative,business,DeepSeek,deepseek-chat,DeepSeek,218,valid,0.19098249,-23.986523
+DeepSeek_deepseek-chat_NAR_030,NAR_030,Narrative,business,DeepSeek,deepseek-chat,DeepSeek,220,valid,-4.6518464,-20.238518
+DeepSeek_deepseek-chat_NAR_031,NAR_031,Narrative,career,DeepSeek,deepseek-chat,DeepSeek,220,valid,-2.3166223,-4.656608
+DeepSeek_deepseek-chat_NAR_032,NAR_032,Narrative,career,DeepSeek,deepseek-chat,DeepSeek,219,valid,0.17863956,-3.4754052
+DeepSeek_deepseek-chat_NAR_033,NAR_033,Narrative,career,DeepSeek,deepseek-chat,DeepSeek,220,valid,4.097148,-1.3559408
+DeepSeek_deepseek-chat_NAR_034,NAR_034,Narrative,career,DeepSeek,deepseek-chat,DeepSeek,220,valid,-17.506315,11.45805
+DeepSeek_deepseek-chat_NAR_035,NAR_035,Narrative,career,DeepSeek,deepseek-chat,DeepSeek,220,valid,0.14780363,-4.645789
+DeepSeek_deepseek-chat_NAR_036,NAR_036,Narrative,career,DeepSeek,deepseek-chat,DeepSeek,220,valid,7.0888453,-5.8694096
+DeepSeek_deepseek-chat_NAR_037,NAR_037,Narrative,career,DeepSeek,deepseek-chat,DeepSeek,220,valid,-6.380961,-5.2137394
+DeepSeek_deepseek-chat_NAR_038,NAR_038,Narrative,career,DeepSeek,deepseek-chat,DeepSeek,220,valid,2.8868158,9.512546
+DeepSeek_deepseek-chat_NAR_039,NAR_039,Narrative,career,DeepSeek,deepseek-chat,DeepSeek,220,valid,-5.744213,-2.277285
+DeepSeek_deepseek-chat_NAR_040,NAR_040,Narrative,career,DeepSeek,deepseek-chat,DeepSeek,220,valid,2.9512486,13.767053
+DeepSeek_deepseek-chat_NAR_041,NAR_041,Narrative,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid,-14.696277,21.322704
+DeepSeek_deepseek-chat_NAR_042,NAR_042,Narrative,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid,-12.139195,23.11153
+DeepSeek_deepseek-chat_NAR_043,NAR_043,Narrative,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid,-11.244928,23.38478
+DeepSeek_deepseek-chat_NAR_044,NAR_044,Narrative,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid,-15.214406,11.41263
+DeepSeek_deepseek-chat_NAR_045,NAR_045,Narrative,personal,DeepSeek,deepseek-chat,DeepSeek,217,valid,-12.790713,11.217885
+DeepSeek_deepseek-chat_NAR_046,NAR_046,Narrative,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid,-11.173378,22.036789
+DeepSeek_deepseek-chat_NAR_047,NAR_047,Narrative,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid,-18.855356,16.388689
+DeepSeek_deepseek-chat_NAR_048,NAR_048,Narrative,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid,-6.691685,0.81464696
+DeepSeek_deepseek-chat_NAR_049,NAR_049,Narrative,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid,-31.44043,19.58661
+DeepSeek_deepseek-chat_NAR_050,NAR_050,Narrative,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid,-5.86438,8.823846
+DeepSeek_deepseek-chat_DES_001,DES_001,Descriptive,academic,DeepSeek,deepseek-chat,DeepSeek,222,too_long,12.430728,7.96069
+DeepSeek_deepseek-chat_DES_002,DES_002,Descriptive,academic,DeepSeek,deepseek-chat,DeepSeek,209,valid,18.025446,9.392981
+DeepSeek_deepseek-chat_DES_003,DES_003,Descriptive,academic,DeepSeek,deepseek-chat,DeepSeek,200,valid,15.390116,11.253417
+DeepSeek_deepseek-chat_DES_004,DES_004,Descriptive,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,10.320217,9.598312
+DeepSeek_deepseek-chat_DES_005,DES_005,Descriptive,academic,DeepSeek,deepseek-chat,DeepSeek,223,too_long,33.452847,19.151241
+DeepSeek_deepseek-chat_DES_006,DES_006,Descriptive,academic,DeepSeek,deepseek-chat,DeepSeek,205,valid,20.14951,22.753468
+DeepSeek_deepseek-chat_DES_007,DES_007,Descriptive,academic,DeepSeek,deepseek-chat,DeepSeek,218,valid,19.898817,11.41519
+DeepSeek_deepseek-chat_DES_008,DES_008,Descriptive,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,20.634985,13.76275
+DeepSeek_deepseek-chat_DES_009,DES_009,Descriptive,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,8.922264,13.16455
+DeepSeek_deepseek-chat_DES_010,DES_010,Descriptive,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,16.945377,3.520259
+DeepSeek_deepseek-chat_DES_011,DES_011,Descriptive,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,-12.288037,-40.371876
+DeepSeek_deepseek-chat_DES_012,DES_012,Descriptive,academic,DeepSeek,deepseek-chat,DeepSeek,217,valid,-14.370627,-37.356167
+DeepSeek_deepseek-chat_DES_013,DES_013,Descriptive,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,23.46484,-30.363813
+DeepSeek_deepseek-chat_DES_014,DES_014,Descriptive,academic,DeepSeek,deepseek-chat,DeepSeek,217,valid,31.70057,-16.212727
+DeepSeek_deepseek-chat_DES_015,DES_015,Descriptive,academic,DeepSeek,deepseek-chat,DeepSeek,213,valid,30.097536,-20.170898
+DeepSeek_deepseek-chat_DES_016,DES_016,Descriptive,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,19.92037,-0.95884055
+DeepSeek_deepseek-chat_DES_017,DES_017,Descriptive,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,26.026106,-27.779877
+DeepSeek_deepseek-chat_DES_018,DES_018,Descriptive,academic,DeepSeek,deepseek-chat,DeepSeek,198,valid,22.72743,-35.4898
+DeepSeek_deepseek-chat_DES_019,DES_019,Descriptive,academic,DeepSeek,deepseek-chat,DeepSeek,218,valid,26.214025,-31.777962
+DeepSeek_deepseek-chat_DES_020,DES_020,Descriptive,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,29.29652,-15.248676
+DeepSeek_deepseek-chat_DES_021,DES_021,Descriptive,business,DeepSeek,deepseek-chat,DeepSeek,220,valid,-33.179413,-0.85970414
+DeepSeek_deepseek-chat_DES_022,DES_022,Descriptive,business,DeepSeek,deepseek-chat,DeepSeek,220,valid,-30.800463,3.3370328
+DeepSeek_deepseek-chat_DES_023,DES_023,Descriptive,business,DeepSeek,deepseek-chat,DeepSeek,220,valid,-21.034157,-28.573404
+DeepSeek_deepseek-chat_DES_024,DES_024,Descriptive,business,DeepSeek,deepseek-chat,DeepSeek,209,valid,-46.108765,8.725607
+DeepSeek_deepseek-chat_DES_025,DES_025,Descriptive,business,DeepSeek,deepseek-chat,DeepSeek,220,valid,-43.20056,10.516655
+DeepSeek_deepseek-chat_DES_026,DES_026,Descriptive,business,DeepSeek,deepseek-chat,DeepSeek,220,valid,-13.824152,-15.339362
+DeepSeek_deepseek-chat_DES_027,DES_027,Descriptive,business,DeepSeek,deepseek-chat,DeepSeek,220,valid,1.4153643,25.452284
+DeepSeek_deepseek-chat_DES_028,DES_028,Descriptive,business,DeepSeek,deepseek-chat,DeepSeek,220,valid,-24.068232,-25.635794
+DeepSeek_deepseek-chat_DES_029,DES_029,Descriptive,business,DeepSeek,deepseek-chat,DeepSeek,219,valid,-1.9325104,-32.72022
+DeepSeek_deepseek-chat_DES_030,DES_030,Descriptive,business,DeepSeek,deepseek-chat,DeepSeek,220,valid,-19.067842,-19.02315
+DeepSeek_deepseek-chat_DES_031,DES_031,Descriptive,career,DeepSeek,deepseek-chat,DeepSeek,210,valid,7.939313,3.4314625
+DeepSeek_deepseek-chat_DES_032,DES_032,Descriptive,career,DeepSeek,deepseek-chat,DeepSeek,220,valid,10.014693,-0.6693228
+DeepSeek_deepseek-chat_DES_033,DES_033,Descriptive,career,DeepSeek,deepseek-chat,DeepSeek,207,valid,11.284618,3.948855
+DeepSeek_deepseek-chat_DES_034,DES_034,Descriptive,career,DeepSeek,deepseek-chat,DeepSeek,213,valid,38.27576,2.7972682
+DeepSeek_deepseek-chat_DES_035,DES_035,Descriptive,career,DeepSeek,deepseek-chat,DeepSeek,220,valid,3.5301414,-12.847188
+DeepSeek_deepseek-chat_DES_036,DES_036,Descriptive,career,DeepSeek,deepseek-chat,DeepSeek,220,valid,-12.862322,-10.52342
+DeepSeek_deepseek-chat_DES_037,DES_037,Descriptive,career,DeepSeek,deepseek-chat,DeepSeek,220,valid,6.1928887,-12.534436
+DeepSeek_deepseek-chat_DES_038,DES_038,Descriptive,career,DeepSeek,deepseek-chat,DeepSeek,220,valid,8.604032,7.6748056
+DeepSeek_deepseek-chat_DES_039,DES_039,Descriptive,career,DeepSeek,deepseek-chat,DeepSeek,221,too_long,-5.429359,-0.5841456
+DeepSeek_deepseek-chat_DES_040,DES_040,Descriptive,career,DeepSeek,deepseek-chat,DeepSeek,220,valid,1.0212466,-16.786482
+DeepSeek_deepseek-chat_DES_041,DES_041,Descriptive,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid,-8.877333,19.637499
+DeepSeek_deepseek-chat_DES_042,DES_042,Descriptive,personal,DeepSeek,deepseek-chat,DeepSeek,215,valid,-15.465645,20.295666
+DeepSeek_deepseek-chat_DES_043,DES_043,Descriptive,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid,-7.518885,22.275558
+DeepSeek_deepseek-chat_DES_044,DES_044,Descriptive,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid,-12.550438,14.568164
+DeepSeek_deepseek-chat_DES_045,DES_045,Descriptive,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid,1.4886457,35.162483
+DeepSeek_deepseek-chat_DES_046,DES_046,Descriptive,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid,-21.480635,16.533012
+DeepSeek_deepseek-chat_DES_047,DES_047,Descriptive,personal,DeepSeek,deepseek-chat,DeepSeek,193,valid,24.536674,2.7516296
+DeepSeek_deepseek-chat_DES_048,DES_048,Descriptive,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid,-35.17768,22.09678
+DeepSeek_deepseek-chat_DES_049,DES_049,Descriptive,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid,-6.3353996,25.834114
+DeepSeek_deepseek-chat_DES_050,DES_050,Descriptive,personal,DeepSeek,deepseek-chat,DeepSeek,214,valid,-12.253382,10.8699465
+DeepSeek_deepseek-chat_ARG_001,ARG_001,Argumentative,academic,DeepSeek,deepseek-chat,DeepSeek,221,too_long,18.114931,28.493702
+DeepSeek_deepseek-chat_ARG_002,ARG_002,Argumentative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,23.270733,25.019129
+DeepSeek_deepseek-chat_ARG_003,ARG_003,Argumentative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,12.777415,26.465553
+DeepSeek_deepseek-chat_ARG_004,ARG_004,Argumentative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,27.052433,24.6963
+DeepSeek_deepseek-chat_ARG_005,ARG_005,Argumentative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,21.190971,26.45712
+DeepSeek_deepseek-chat_ARG_006,ARG_006,Argumentative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,22.215534,28.736885
+DeepSeek_deepseek-chat_ARG_007,ARG_007,Argumentative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,32.470757,10.938368
+DeepSeek_deepseek-chat_ARG_008,ARG_008,Argumentative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,18.848707,30.533875
+DeepSeek_deepseek-chat_ARG_009,ARG_009,Argumentative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,8.310979,27.425215
+DeepSeek_deepseek-chat_ARG_010,ARG_010,Argumentative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,15.24131,31.586882
+DeepSeek_deepseek-chat_ARG_011,ARG_011,Argumentative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,29.902462,-23.40713
+DeepSeek_deepseek-chat_ARG_012,ARG_012,Argumentative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,30.502241,-28.52242
+DeepSeek_deepseek-chat_ARG_013,ARG_013,Argumentative,academic,DeepSeek,deepseek-chat,DeepSeek,211,valid,23.95053,-17.516493
+DeepSeek_deepseek-chat_ARG_014,ARG_014,Argumentative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,36.989616,-16.472073
+DeepSeek_deepseek-chat_ARG_015,ARG_015,Argumentative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,14.372656,-15.54805
+DeepSeek_deepseek-chat_ARG_016,ARG_016,Argumentative,academic,DeepSeek,deepseek-chat,DeepSeek,219,valid,33.27946,-7.863806
+DeepSeek_deepseek-chat_ARG_017,ARG_017,Argumentative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,32.51426,-18.951464
+DeepSeek_deepseek-chat_ARG_018,ARG_018,Argumentative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,12.042257,-12.465156
+DeepSeek_deepseek-chat_ARG_019,ARG_019,Argumentative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,26.150429,-22.21665
+DeepSeek_deepseek-chat_ARG_020,ARG_020,Argumentative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,19.443905,-14.585053
+DeepSeek_deepseek-chat_ARG_021,ARG_021,Argumentative,business,DeepSeek,deepseek-chat,DeepSeek,220,valid,-37.902565,-0.25230622
+DeepSeek_deepseek-chat_ARG_022,ARG_022,Argumentative,business,DeepSeek,deepseek-chat,DeepSeek,220,valid,-39.05431,-2.5189579
+DeepSeek_deepseek-chat_ARG_023,ARG_023,Argumentative,business,DeepSeek,deepseek-chat,DeepSeek,220,valid,-40.62074,-7.4051485
+DeepSeek_deepseek-chat_ARG_024,ARG_024,Argumentative,business,DeepSeek,deepseek-chat,DeepSeek,220,valid,-45.586357,2.6797295
+DeepSeek_deepseek-chat_ARG_025,ARG_025,Argumentative,business,DeepSeek,deepseek-chat,DeepSeek,220,valid,-43.25832,4.4662085
+DeepSeek_deepseek-chat_ARG_026,ARG_026,Argumentative,business,DeepSeek,deepseek-chat,DeepSeek,220,valid,-21.292953,-14.729883
+DeepSeek_deepseek-chat_ARG_027,ARG_027,Argumentative,business,DeepSeek,deepseek-chat,DeepSeek,220,valid,-23.583248,-17.93576
+DeepSeek_deepseek-chat_ARG_028,ARG_028,Argumentative,business,DeepSeek,deepseek-chat,DeepSeek,220,valid,-27.240488,-16.166485
+DeepSeek_deepseek-chat_ARG_029,ARG_029,Argumentative,business,DeepSeek,deepseek-chat,DeepSeek,220,valid,-33.013176,-14.461419
+DeepSeek_deepseek-chat_ARG_030,ARG_030,Argumentative,business,DeepSeek,deepseek-chat,DeepSeek,220,valid,1.3321874,-32.495316
+DeepSeek_deepseek-chat_ARG_031,ARG_031,Argumentative,career,DeepSeek,deepseek-chat,DeepSeek,220,valid,-18.218323,-5.1899543
+DeepSeek_deepseek-chat_ARG_032,ARG_032,Argumentative,career,DeepSeek,deepseek-chat,DeepSeek,220,valid,-20.273415,-8.66934
+DeepSeek_deepseek-chat_ARG_033,ARG_033,Argumentative,career,DeepSeek,deepseek-chat,DeepSeek,220,valid,10.859285,-18.387018
+DeepSeek_deepseek-chat_ARG_034,ARG_034,Argumentative,career,DeepSeek,deepseek-chat,DeepSeek,220,valid,9.031105,-13.203883
+DeepSeek_deepseek-chat_ARG_035,ARG_035,Argumentative,career,DeepSeek,deepseek-chat,DeepSeek,220,valid,-20.927893,1.779935
+DeepSeek_deepseek-chat_ARG_036,ARG_036,Argumentative,career,DeepSeek,deepseek-chat,DeepSeek,221,too_long,32.332653,0.284857
+DeepSeek_deepseek-chat_ARG_037,ARG_037,Argumentative,career,DeepSeek,deepseek-chat,DeepSeek,220,valid,8.462744,-7.3662415
+DeepSeek_deepseek-chat_ARG_038,ARG_038,Argumentative,career,DeepSeek,deepseek-chat,DeepSeek,221,too_long,-16.799688,-8.536838
+DeepSeek_deepseek-chat_ARG_039,ARG_039,Argumentative,career,DeepSeek,deepseek-chat,DeepSeek,220,valid,-13.571117,-3.7956028
+DeepSeek_deepseek-chat_ARG_040,ARG_040,Argumentative,career,DeepSeek,deepseek-chat,DeepSeek,220,valid,3.9961495,21.633736
+DeepSeek_deepseek-chat_ARG_041,ARG_041,Argumentative,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid,-19.710928,32.083443
+DeepSeek_deepseek-chat_ARG_042,ARG_042,Argumentative,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid,-17.033508,32.62914
+DeepSeek_deepseek-chat_ARG_043,ARG_043,Argumentative,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid,-13.436184,34.389446
+DeepSeek_deepseek-chat_ARG_044,ARG_044,Argumentative,personal,DeepSeek,deepseek-chat,DeepSeek,219,valid,-16.858686,35.033314
+DeepSeek_deepseek-chat_ARG_045,ARG_045,Argumentative,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid,-24.137966,-2.0039163
+DeepSeek_deepseek-chat_ARG_046,ARG_046,Argumentative,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid,-28.477049,-12.084617
+DeepSeek_deepseek-chat_ARG_047,ARG_047,Argumentative,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid,-24.891136,-9.561709
+DeepSeek_deepseek-chat_ARG_048,ARG_048,Argumentative,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid,-35.31762,15.153642
+DeepSeek_deepseek-chat_ARG_049,ARG_049,Argumentative,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid,-16.386469,-1.2931652
+DeepSeek_deepseek-chat_ARG_050,ARG_050,Argumentative,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid,-5.2809067,15.751432
+DeepSeek_deepseek-chat_DIA_001,DIA_001,Dialogue,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,18.47699,26.918432
+DeepSeek_deepseek-chat_DIA_002,DIA_002,Dialogue,academic,DeepSeek,deepseek-chat,DeepSeek,218,valid,30.091846,22.398445
+DeepSeek_deepseek-chat_DIA_003,DIA_003,Dialogue,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,28.244707,13.863437
+DeepSeek_deepseek-chat_DIA_004,DIA_004,Dialogue,academic,DeepSeek,deepseek-chat,DeepSeek,218,valid,24.397602,8.859053
+DeepSeek_deepseek-chat_DIA_005,DIA_005,Dialogue,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,21.691475,20.381927
+DeepSeek_deepseek-chat_DIA_006,DIA_006,Dialogue,academic,DeepSeek,deepseek-chat,DeepSeek,221,too_long,23.984446,26.400986
+DeepSeek_deepseek-chat_DIA_007,DIA_007,Dialogue,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,12.778831,22.651583
+DeepSeek_deepseek-chat_DIA_008,DIA_008,Dialogue,academic,DeepSeek,deepseek-chat,DeepSeek,221,too_long,27.261204,19.464655
+DeepSeek_deepseek-chat_DIA_009,DIA_009,Dialogue,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,42.497738,-5.712679
+DeepSeek_deepseek-chat_DIA_010,DIA_010,Dialogue,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,30.19028,26.050945
+DeepSeek_deepseek-chat_DIA_011,DIA_011,Dialogue,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,22.307697,-24.131195
+DeepSeek_deepseek-chat_DIA_012,DIA_012,Dialogue,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,-9.283869,-36.72404
+DeepSeek_deepseek-chat_DIA_013,DIA_013,Dialogue,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,10.94395,-33.276398
+DeepSeek_deepseek-chat_DIA_014,DIA_014,Dialogue,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,33.23495,-28.59465
+DeepSeek_deepseek-chat_DIA_015,DIA_015,Dialogue,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,22.994293,-6.0482597
+DeepSeek_deepseek-chat_DIA_016,DIA_016,Dialogue,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,18.97217,-34.080368
+DeepSeek_deepseek-chat_DIA_017,DIA_017,Dialogue,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,35.094265,-22.655933
+DeepSeek_deepseek-chat_DIA_018,DIA_018,Dialogue,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,23.054642,-24.760206
+DeepSeek_deepseek-chat_DIA_019,DIA_019,Dialogue,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,28.56768,-34.228752
+DeepSeek_deepseek-chat_DIA_020,DIA_020,Dialogue,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid,21.607458,-20.522146
+DeepSeek_deepseek-chat_DIA_021,DIA_021,Dialogue,business,DeepSeek,deepseek-chat,DeepSeek,220,valid,-37.776722,1.9786296
+DeepSeek_deepseek-chat_DIA_022,DIA_022,Dialogue,business,DeepSeek,deepseek-chat,DeepSeek,221,too_long,-31.55085,-4.7082863
+DeepSeek_deepseek-chat_DIA_023,DIA_023,Dialogue,business,DeepSeek,deepseek-chat,DeepSeek,221,too_long,-15.365797,-24.579588
+DeepSeek_deepseek-chat_DIA_024,DIA_024,Dialogue,business,DeepSeek,deepseek-chat,DeepSeek,221,too_long,-48.8241,9.336813
+DeepSeek_deepseek-chat_DIA_025,DIA_025,Dialogue,business,DeepSeek,deepseek-chat,DeepSeek,220,valid,-47.14497,4.266254
+DeepSeek_deepseek-chat_DIA_026,DIA_026,Dialogue,business,DeepSeek,deepseek-chat,DeepSeek,220,valid,-15.369177,-19.643763
+DeepSeek_deepseek-chat_DIA_027,DIA_027,Dialogue,business,DeepSeek,deepseek-chat,DeepSeek,220,valid,-3.0344965,-27.383888
+DeepSeek_deepseek-chat_DIA_028,DIA_028,Dialogue,business,DeepSeek,deepseek-chat,DeepSeek,220,valid,-30.224398,-17.407665
+DeepSeek_deepseek-chat_DIA_029,DIA_029,Dialogue,business,DeepSeek,deepseek-chat,DeepSeek,219,valid,-21.469528,-24.515602
+DeepSeek_deepseek-chat_DIA_030,DIA_030,Dialogue,business,DeepSeek,deepseek-chat,DeepSeek,220,valid,0.5483348,-29.791435
+DeepSeek_deepseek-chat_DIA_031,DIA_031,Dialogue,career,DeepSeek,deepseek-chat,DeepSeek,220,valid,-2.925138,-6.613523
+DeepSeek_deepseek-chat_DIA_032,DIA_032,Dialogue,career,DeepSeek,deepseek-chat,DeepSeek,220,valid,-9.471911,-24.533073
+DeepSeek_deepseek-chat_DIA_033,DIA_033,Dialogue,career,DeepSeek,deepseek-chat,DeepSeek,221,too_long,8.0846405,-24.37428
+DeepSeek_deepseek-chat_DIA_034,DIA_034,Dialogue,career,DeepSeek,deepseek-chat,DeepSeek,204,valid,36.605865,1.8974614
+DeepSeek_deepseek-chat_DIA_035,DIA_035,Dialogue,career,DeepSeek,deepseek-chat,DeepSeek,220,valid,7.1491394,-11.835313
+DeepSeek_deepseek-chat_DIA_036,DIA_036,Dialogue,career,DeepSeek,deepseek-chat,DeepSeek,220,valid,0.7468704,-9.498074
+DeepSeek_deepseek-chat_DIA_037,DIA_037,Dialogue,career,DeepSeek,deepseek-chat,DeepSeek,220,valid,-6.938914,-6.3956842
+DeepSeek_deepseek-chat_DIA_038,DIA_038,Dialogue,career,DeepSeek,deepseek-chat,DeepSeek,220,valid,-11.708408,-0.1895591
+DeepSeek_deepseek-chat_DIA_039,DIA_039,Dialogue,career,DeepSeek,deepseek-chat,DeepSeek,220,valid,-8.73079,-10.33552
+DeepSeek_deepseek-chat_DIA_040,DIA_040,Dialogue,career,DeepSeek,deepseek-chat,DeepSeek,220,valid,2.9609082,18.633863
+DeepSeek_deepseek-chat_DIA_041,DIA_041,Dialogue,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid,-18.492746,27.34047
+DeepSeek_deepseek-chat_DIA_042,DIA_042,Dialogue,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid,-16.354385,28.241371
+DeepSeek_deepseek-chat_DIA_043,DIA_043,Dialogue,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid,-12.887982,28.803423
+DeepSeek_deepseek-chat_DIA_044,DIA_044,Dialogue,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid,-18.33137,4.357624
+DeepSeek_deepseek-chat_DIA_045,DIA_045,Dialogue,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid,1.3822606,36.86817
+DeepSeek_deepseek-chat_DIA_046,DIA_046,Dialogue,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid,-21.724579,13.804029
+DeepSeek_deepseek-chat_DIA_047,DIA_047,Dialogue,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid,-3.7202597,-12.759883
+DeepSeek_deepseek-chat_DIA_048,DIA_048,Dialogue,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid,-33.901913,19.380688
+DeepSeek_deepseek-chat_DIA_049,DIA_049,Dialogue,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid,-9.99424,5.97849
+DeepSeek_deepseek-chat_DIA_050,DIA_050,Dialogue,personal,DeepSeek,deepseek-chat,DeepSeek,211,valid,-6.430235,12.771473
+Mistral_mistral-small-latest_NAR_001,NAR_001,Narrative,academic,Mistral,mistral-small-latest,Mistral AI,220,valid,14.482948,17.625395
+Mistral_mistral-small-latest_NAR_002,NAR_002,Narrative,academic,Mistral,mistral-small-latest,Mistral AI,190,valid,4.5123096,5.7830267
+Mistral_mistral-small-latest_NAR_003,NAR_003,Narrative,academic,Mistral,mistral-small-latest,Mistral AI,198,valid,0.4640972,6.9314966
+Mistral_mistral-small-latest_NAR_004,NAR_004,Narrative,academic,Mistral,mistral-small-latest,Mistral AI,220,valid,3.9934332,10.214234
+Mistral_mistral-small-latest_NAR_005,NAR_005,Narrative,academic,Mistral,mistral-small-latest,Mistral AI,220,valid,14.327314,16.874132
+Mistral_mistral-small-latest_NAR_006,NAR_006,Narrative,academic,Mistral,mistral-small-latest,Mistral AI,192,valid,20.679384,17.70305
+Mistral_mistral-small-latest_NAR_007,NAR_007,Narrative,academic,Mistral,mistral-small-latest,Mistral AI,217,valid,14.571035,19.980528
+Mistral_mistral-small-latest_NAR_008,NAR_008,Narrative,academic,Mistral,mistral-small-latest,Mistral AI,191,valid,-0.7402548,5.8662114
+Mistral_mistral-small-latest_NAR_009,NAR_009,Narrative,academic,Mistral,mistral-small-latest,Mistral AI,215,valid,16.22848,16.352583
+Mistral_mistral-small-latest_NAR_010,NAR_010,Narrative,academic,Mistral,mistral-small-latest,Mistral AI,220,valid,13.628816,19.369192
+Mistral_mistral-small-latest_NAR_011,NAR_011,Narrative,academic,Mistral,mistral-small-latest,Mistral AI,216,valid,20.79091,-27.642147
+Mistral_mistral-small-latest_NAR_012,NAR_012,Narrative,academic,Mistral,mistral-small-latest,Mistral AI,214,valid,-13.033136,-36.59947
+Mistral_mistral-small-latest_NAR_013,NAR_013,Narrative,academic,Mistral,mistral-small-latest,Mistral AI,204,valid,16.448452,-27.389116
+Mistral_mistral-small-latest_NAR_014,NAR_014,Narrative,academic,Mistral,mistral-small-latest,Mistral AI,207,valid,1.5269964,2.1612446
+Mistral_mistral-small-latest_NAR_015,NAR_015,Narrative,academic,Mistral,mistral-small-latest,Mistral AI,220,valid,21.043623,-4.377432
+Mistral_mistral-small-latest_NAR_016,NAR_016,Narrative,academic,Mistral,mistral-small-latest,Mistral AI,208,valid,19.185753,-35.432262
+Mistral_mistral-small-latest_NAR_017,NAR_017,Narrative,academic,Mistral,mistral-small-latest,Mistral AI,194,valid,18.65342,-20.962578
+Mistral_mistral-small-latest_NAR_018,NAR_018,Narrative,academic,Mistral,mistral-small-latest,Mistral AI,203,valid,29.497126,-17.249573
+Mistral_mistral-small-latest_NAR_019,NAR_019,Narrative,academic,Mistral,mistral-small-latest,Mistral AI,220,valid,15.9523535,-3.6366994
+Mistral_mistral-small-latest_NAR_020,NAR_020,Narrative,academic,Mistral,mistral-small-latest,Mistral AI,198,valid,19.820372,-21.708637
+Mistral_mistral-small-latest_NAR_021,NAR_021,Narrative,business,Mistral,mistral-small-latest,Mistral AI,182,valid,-34.748188,3.9210353
+Mistral_mistral-small-latest_NAR_022,NAR_022,Narrative,business,Mistral,mistral-small-latest,Mistral AI,195,valid,-7.8906116,-1.6363256
+Mistral_mistral-small-latest_NAR_023,NAR_023,Narrative,business,Mistral,mistral-small-latest,Mistral AI,191,valid,-11.303684,-19.013332
+Mistral_mistral-small-latest_NAR_024,NAR_024,Narrative,business,Mistral,mistral-small-latest,Mistral AI,220,valid,-46.86825,6.5340023
+Mistral_mistral-small-latest_NAR_025,NAR_025,Narrative,business,Mistral,mistral-small-latest,Mistral AI,206,valid,-9.320458,-17.45334
+Mistral_mistral-small-latest_NAR_026,NAR_026,Narrative,business,Mistral,mistral-small-latest,Mistral AI,193,valid,-2.5788162,-23.749369
+Mistral_mistral-small-latest_NAR_027,NAR_027,Narrative,business,Mistral,mistral-small-latest,Mistral AI,189,valid,-28.714617,-18.75146
+Mistral_mistral-small-latest_NAR_028,NAR_028,Narrative,business,Mistral,mistral-small-latest,Mistral AI,193,valid,-23.935766,-22.135532
+Mistral_mistral-small-latest_NAR_029,NAR_029,Narrative,business,Mistral,mistral-small-latest,Mistral AI,216,valid,-0.69202054,-31.426018
+Mistral_mistral-small-latest_NAR_030,NAR_030,Narrative,business,Mistral,mistral-small-latest,Mistral AI,182,valid,-10.58438,-14.800449
+Mistral_mistral-small-latest_NAR_031,NAR_031,Narrative,career,Mistral,mistral-small-latest,Mistral AI,202,valid,-3.5111067,-5.1751075
+Mistral_mistral-small-latest_NAR_032,NAR_032,Narrative,career,Mistral,mistral-small-latest,Mistral AI,220,valid,-4.405391,-0.384722
+Mistral_mistral-small-latest_NAR_033,NAR_033,Narrative,career,Mistral,mistral-small-latest,Mistral AI,205,valid,4.676203,-2.4914563
+Mistral_mistral-small-latest_NAR_034,NAR_034,Narrative,career,Mistral,mistral-small-latest,Mistral AI,216,valid,-17.589317,11.20638
+Mistral_mistral-small-latest_NAR_035,NAR_035,Narrative,career,Mistral,mistral-small-latest,Mistral AI,189,valid,3.7863057,-5.248277
+Mistral_mistral-small-latest_NAR_036,NAR_036,Narrative,career,Mistral,mistral-small-latest,Mistral AI,204,valid,6.907014,-7.1448364
+Mistral_mistral-small-latest_NAR_037,NAR_037,Narrative,career,Mistral,mistral-small-latest,Mistral AI,204,valid,-5.214211,-5.1482143
+Mistral_mistral-small-latest_NAR_038,NAR_038,Narrative,career,Mistral,mistral-small-latest,Mistral AI,183,valid,1.0132065,10.220484
+Mistral_mistral-small-latest_NAR_039,NAR_039,Narrative,career,Mistral,mistral-small-latest,Mistral AI,216,valid,-2.819813,-5.231282
+Mistral_mistral-small-latest_NAR_040,NAR_040,Narrative,career,Mistral,mistral-small-latest,Mistral AI,209,valid,3.2086377,12.80768
+Mistral_mistral-small-latest_NAR_041,NAR_041,Narrative,personal,Mistral,mistral-small-latest,Mistral AI,204,valid,-15.49026,23.249504
+Mistral_mistral-small-latest_NAR_042,NAR_042,Narrative,personal,Mistral,mistral-small-latest,Mistral AI,203,valid,-15.556682,26.354746
+Mistral_mistral-small-latest_NAR_043,NAR_043,Narrative,personal,Mistral,mistral-small-latest,Mistral AI,199,valid,-0.09896987,12.280313
+Mistral_mistral-small-latest_NAR_044,NAR_044,Narrative,personal,Mistral,mistral-small-latest,Mistral AI,218,valid,-15.786558,10.604569
+Mistral_mistral-small-latest_NAR_045,NAR_045,Narrative,personal,Mistral,mistral-small-latest,Mistral AI,185,valid,-16.013763,4.8883753
+Mistral_mistral-small-latest_NAR_046,NAR_046,Narrative,personal,Mistral,mistral-small-latest,Mistral AI,206,valid,-20.298271,19.611317
+Mistral_mistral-small-latest_NAR_047,NAR_047,Narrative,personal,Mistral,mistral-small-latest,Mistral AI,212,valid,-20.657207,14.983814
+Mistral_mistral-small-latest_NAR_048,NAR_048,Narrative,personal,Mistral,mistral-small-latest,Mistral AI,184,valid,-6.310856,-13.173821
+Mistral_mistral-small-latest_NAR_049,NAR_049,Narrative,personal,Mistral,mistral-small-latest,Mistral AI,201,valid,-1.7825414,12.120285
+Mistral_mistral-small-latest_NAR_050,NAR_050,Narrative,personal,Mistral,mistral-small-latest,Mistral AI,208,valid,-6.051616,8.903496
+Mistral_mistral-small-latest_DES_001,DES_001,Descriptive,academic,Mistral,mistral-small-latest,Mistral AI,197,valid,12.01143,7.454495
+Mistral_mistral-small-latest_DES_002,DES_002,Descriptive,academic,Mistral,mistral-small-latest,Mistral AI,200,valid,17.157307,8.381565
+Mistral_mistral-small-latest_DES_003,DES_003,Descriptive,academic,Mistral,mistral-small-latest,Mistral AI,184,valid,14.618894,10.899903
+Mistral_mistral-small-latest_DES_004,DES_004,Descriptive,academic,Mistral,mistral-small-latest,Mistral AI,200,valid,10.253689,8.72845
+Mistral_mistral-small-latest_DES_005,DES_005,Descriptive,academic,Mistral,mistral-small-latest,Mistral AI,222,too_long,33.656303,19.379133
+Mistral_mistral-small-latest_DES_006,DES_006,Descriptive,academic,Mistral,mistral-small-latest,Mistral AI,180,valid,19.025103,23.193127
+Mistral_mistral-small-latest_DES_007,DES_007,Descriptive,academic,Mistral,mistral-small-latest,Mistral AI,201,valid,19.853642,10.700287
+Mistral_mistral-small-latest_DES_008,DES_008,Descriptive,academic,Mistral,mistral-small-latest,Mistral AI,208,valid,21.925861,14.069494
+Mistral_mistral-small-latest_DES_009,DES_009,Descriptive,academic,Mistral,mistral-small-latest,Mistral AI,203,valid,8.475834,12.678312
+Mistral_mistral-small-latest_DES_010,DES_010,Descriptive,academic,Mistral,mistral-small-latest,Mistral AI,196,valid,17.241476,3.6241412
+Mistral_mistral-small-latest_DES_011,DES_011,Descriptive,academic,Mistral,mistral-small-latest,Mistral AI,211,valid,-12.889663,-39.492805
+Mistral_mistral-small-latest_DES_012,DES_012,Descriptive,academic,Mistral,mistral-small-latest,Mistral AI,219,valid,-14.210823,-39.360016
+Mistral_mistral-small-latest_DES_013,DES_013,Descriptive,academic,Mistral,mistral-small-latest,Mistral AI,192,valid,23.812939,-30.138632
+Mistral_mistral-small-latest_DES_014,DES_014,Descriptive,academic,Mistral,mistral-small-latest,Mistral AI,215,valid,31.793049,-15.337763
+Mistral_mistral-small-latest_DES_015,DES_015,Descriptive,academic,Mistral,mistral-small-latest,Mistral AI,189,valid,30.312511,-20.790167
+Mistral_mistral-small-latest_DES_016,DES_016,Descriptive,academic,Mistral,mistral-small-latest,Mistral AI,208,valid,19.53877,-1.1558753
+Mistral_mistral-small-latest_DES_017,DES_017,Descriptive,academic,Mistral,mistral-small-latest,Mistral AI,184,valid,26.72672,-26.088522
+Mistral_mistral-small-latest_DES_018,DES_018,Descriptive,academic,Mistral,mistral-small-latest,Mistral AI,190,valid,21.203068,-35.13113
+Mistral_mistral-small-latest_DES_019,DES_019,Descriptive,academic,Mistral,mistral-small-latest,Mistral AI,189,valid,25.574936,-31.998318
+Mistral_mistral-small-latest_DES_020,DES_020,Descriptive,academic,Mistral,mistral-small-latest,Mistral AI,190,valid,29.223251,-13.811855
+Mistral_mistral-small-latest_DES_021,DES_021,Descriptive,business,Mistral,mistral-small-latest,Mistral AI,219,valid,-34.73515,-0.43322197
+Mistral_mistral-small-latest_DES_022,DES_022,Descriptive,business,Mistral,mistral-small-latest,Mistral AI,220,valid,-31.27736,3.1214774
+Mistral_mistral-small-latest_DES_023,DES_023,Descriptive,business,Mistral,mistral-small-latest,Mistral AI,207,valid,-20.835524,-27.784645
+Mistral_mistral-small-latest_DES_024,DES_024,Descriptive,business,Mistral,mistral-small-latest,Mistral AI,197,valid,-46.45161,7.7169423
+Mistral_mistral-small-latest_DES_025,DES_025,Descriptive,business,Mistral,mistral-small-latest,Mistral AI,182,valid,-43.788364,9.323613
+Mistral_mistral-small-latest_DES_026,DES_026,Descriptive,business,Mistral,mistral-small-latest,Mistral AI,190,valid,-15.153557,-14.610427
+Mistral_mistral-small-latest_DES_027,DES_027,Descriptive,business,Mistral,mistral-small-latest,Mistral AI,199,valid,1.301358,26.042276
+Mistral_mistral-small-latest_DES_028,DES_028,Descriptive,business,Mistral,mistral-small-latest,Mistral AI,208,valid,-22.985806,-25.884706
+Mistral_mistral-small-latest_DES_029,DES_029,Descriptive,business,Mistral,mistral-small-latest,Mistral AI,203,valid,-0.86484164,-33.663074
+Mistral_mistral-small-latest_DES_030,DES_030,Descriptive,business,Mistral,mistral-small-latest,Mistral AI,200,valid,-20.351658,-18.827047
+Mistral_mistral-small-latest_DES_031,DES_031,Descriptive,career,Mistral,mistral-small-latest,Mistral AI,197,valid,7.0255437,4.187596
+Mistral_mistral-small-latest_DES_032,DES_032,Descriptive,career,Mistral,mistral-small-latest,Mistral AI,214,valid,10.250845,-0.21476561
+Mistral_mistral-small-latest_DES_033,DES_033,Descriptive,career,Mistral,mistral-small-latest,Mistral AI,198,valid,11.420392,3.46702
+Mistral_mistral-small-latest_DES_034,DES_034,Descriptive,career,Mistral,mistral-small-latest,Mistral AI,191,valid,38.098633,3.2694633
+Mistral_mistral-small-latest_DES_035,DES_035,Descriptive,career,Mistral,mistral-small-latest,Mistral AI,207,valid,3.9026022,-13.1691065
+Mistral_mistral-small-latest_DES_036,DES_036,Descriptive,career,Mistral,mistral-small-latest,Mistral AI,196,valid,-14.026656,-10.726787
+Mistral_mistral-small-latest_DES_037,DES_037,Descriptive,career,Mistral,mistral-small-latest,Mistral AI,221,too_long,5.8728075,-12.7090225
+Mistral_mistral-small-latest_DES_038,DES_038,Descriptive,career,Mistral,mistral-small-latest,Mistral AI,209,valid,8.891851,6.90982
+Mistral_mistral-small-latest_DES_039,DES_039,Descriptive,career,Mistral,mistral-small-latest,Mistral AI,214,valid,-3.5086966,-4.7517886
+Mistral_mistral-small-latest_DES_040,DES_040,Descriptive,career,Mistral,mistral-small-latest,Mistral AI,183,valid,1.2041782,-16.453884
+Mistral_mistral-small-latest_DES_041,DES_041,Descriptive,personal,Mistral,mistral-small-latest,Mistral AI,215,valid,-9.490693,19.418863
+Mistral_mistral-small-latest_DES_042,DES_042,Descriptive,personal,Mistral,mistral-small-latest,Mistral AI,220,valid,-15.463655,21.938354
+Mistral_mistral-small-latest_DES_043,DES_043,Descriptive,personal,Mistral,mistral-small-latest,Mistral AI,212,valid,-7.3988986,22.787994
+Mistral_mistral-small-latest_DES_044,DES_044,Descriptive,personal,Mistral,mistral-small-latest,Mistral AI,183,valid,-11.89416,14.536801
+Mistral_mistral-small-latest_DES_045,DES_045,Descriptive,personal,Mistral,mistral-small-latest,Mistral AI,193,valid,1.6848761,35.645416
+Mistral_mistral-small-latest_DES_046,DES_046,Descriptive,personal,Mistral,mistral-small-latest,Mistral AI,217,valid,-21.833853,15.90368
+Mistral_mistral-small-latest_DES_047,DES_047,Descriptive,personal,Mistral,mistral-small-latest,Mistral AI,220,valid,24.426903,2.4653928
+Mistral_mistral-small-latest_DES_048,DES_048,Descriptive,personal,Mistral,mistral-small-latest,Mistral AI,184,valid,-35.42742,21.182314
+Mistral_mistral-small-latest_DES_049,DES_049,Descriptive,personal,Mistral,mistral-small-latest,Mistral AI,182,valid,-6.462819,25.231499
+Mistral_mistral-small-latest_DES_050,DES_050,Descriptive,personal,Mistral,mistral-small-latest,Mistral AI,220,valid,-10.970172,9.755471
+Mistral_mistral-small-latest_ARG_001,ARG_001,Argumentative,academic,Mistral,mistral-small-latest,Mistral AI,220,valid,20.225626,27.869038
+Mistral_mistral-small-latest_ARG_002,ARG_002,Argumentative,academic,Mistral,mistral-small-latest,Mistral AI,193,valid,23.261421,23.920092
+Mistral_mistral-small-latest_ARG_003,ARG_003,Argumentative,academic,Mistral,mistral-small-latest,Mistral AI,195,valid,12.350357,27.252897
+Mistral_mistral-small-latest_ARG_004,ARG_004,Argumentative,academic,Mistral,mistral-small-latest,Mistral AI,210,valid,26.46984,25.260508
+Mistral_mistral-small-latest_ARG_005,ARG_005,Argumentative,academic,Mistral,mistral-small-latest,Mistral AI,192,valid,21.059835,25.544464
+Mistral_mistral-small-latest_ARG_006,ARG_006,Argumentative,academic,Mistral,mistral-small-latest,Mistral AI,202,valid,21.644516,29.139227
+Mistral_mistral-small-latest_ARG_007,ARG_007,Argumentative,academic,Mistral,mistral-small-latest,Mistral AI,214,valid,32.813667,11.556711
+Mistral_mistral-small-latest_ARG_008,ARG_008,Argumentative,academic,Mistral,mistral-small-latest,Mistral AI,210,valid,18.263832,30.02815
+Mistral_mistral-small-latest_ARG_009,ARG_009,Argumentative,academic,Mistral,mistral-small-latest,Mistral AI,200,valid,7.725477,26.690092
+Mistral_mistral-small-latest_ARG_010,ARG_010,Argumentative,academic,Mistral,mistral-small-latest,Mistral AI,218,valid,14.698263,30.692358
+Mistral_mistral-small-latest_ARG_011,ARG_011,Argumentative,academic,Mistral,mistral-small-latest,Mistral AI,204,valid,29.465158,-23.513792
+Mistral_mistral-small-latest_ARG_012,ARG_012,Argumentative,academic,Mistral,mistral-small-latest,Mistral AI,217,valid,30.929153,-28.186323
+Mistral_mistral-small-latest_ARG_013,ARG_013,Argumentative,academic,Mistral,mistral-small-latest,Mistral AI,203,valid,23.646536,-17.029991
+Mistral_mistral-small-latest_ARG_014,ARG_014,Argumentative,academic,Mistral,mistral-small-latest,Mistral AI,187,valid,36.994183,-15.9304495
+Mistral_mistral-small-latest_ARG_015,ARG_015,Argumentative,academic,Mistral,mistral-small-latest,Mistral AI,208,valid,13.363571,-15.564506
+Mistral_mistral-small-latest_ARG_016,ARG_016,Argumentative,academic,Mistral,mistral-small-latest,Mistral AI,209,valid,33.562855,-8.923737
+Mistral_mistral-small-latest_ARG_017,ARG_017,Argumentative,academic,Mistral,mistral-small-latest,Mistral AI,220,valid,33.166492,-18.535877
+Mistral_mistral-small-latest_ARG_018,ARG_018,Argumentative,academic,Mistral,mistral-small-latest,Mistral AI,186,valid,11.837807,-12.146103
+Mistral_mistral-small-latest_ARG_019,ARG_019,Argumentative,academic,Mistral,mistral-small-latest,Mistral AI,199,valid,25.427004,-22.382305
+Mistral_mistral-small-latest_ARG_020,ARG_020,Argumentative,academic,Mistral,mistral-small-latest,Mistral AI,197,valid,19.055222,-14.313175
+Mistral_mistral-small-latest_ARG_021,ARG_021,Argumentative,business,Mistral,mistral-small-latest,Mistral AI,215,valid,-37.035206,-0.057281125
+Mistral_mistral-small-latest_ARG_022,ARG_022,Argumentative,business,Mistral,mistral-small-latest,Mistral AI,186,valid,-39.088436,-1.7349088
+Mistral_mistral-small-latest_ARG_023,ARG_023,Argumentative,business,Mistral,mistral-small-latest,Mistral AI,190,valid,-39.87146,-7.4609013
+Mistral_mistral-small-latest_ARG_024,ARG_024,Argumentative,business,Mistral,mistral-small-latest,Mistral AI,187,valid,-45.017853,2.4932857
+Mistral_mistral-small-latest_ARG_025,ARG_025,Argumentative,business,Mistral,mistral-small-latest,Mistral AI,184,valid,-42.98481,4.829285
+Mistral_mistral-small-latest_ARG_026,ARG_026,Argumentative,business,Mistral,mistral-small-latest,Mistral AI,193,valid,-20.782028,-14.444126
+Mistral_mistral-small-latest_ARG_027,ARG_027,Argumentative,business,Mistral,mistral-small-latest,Mistral AI,212,valid,-24.253813,-18.40153
+Mistral_mistral-small-latest_ARG_028,ARG_028,Argumentative,business,Mistral,mistral-small-latest,Mistral AI,221,too_long,-27.954166,-16.16034
+Mistral_mistral-small-latest_ARG_029,ARG_029,Argumentative,business,Mistral,mistral-small-latest,Mistral AI,181,valid,-33.274208,-15.049345
+Mistral_mistral-small-latest_ARG_030,ARG_030,Argumentative,business,Mistral,mistral-small-latest,Mistral AI,196,valid,1.6621985,-33.006927
+Mistral_mistral-small-latest_ARG_031,ARG_031,Argumentative,career,Mistral,mistral-small-latest,Mistral AI,198,valid,-18.88522,-4.5864816
+Mistral_mistral-small-latest_ARG_032,ARG_032,Argumentative,career,Mistral,mistral-small-latest,Mistral AI,216,valid,-20.340351,-9.113862
+Mistral_mistral-small-latest_ARG_033,ARG_033,Argumentative,career,Mistral,mistral-small-latest,Mistral AI,203,valid,10.337709,-17.639126
+Mistral_mistral-small-latest_ARG_034,ARG_034,Argumentative,career,Mistral,mistral-small-latest,Mistral AI,193,valid,9.568369,-12.883816
+Mistral_mistral-small-latest_ARG_035,ARG_035,Argumentative,career,Mistral,mistral-small-latest,Mistral AI,197,valid,-20.797657,1.2628928
+Mistral_mistral-small-latest_ARG_036,ARG_036,Argumentative,career,Mistral,mistral-small-latest,Mistral AI,219,valid,31.692486,-0.38458592
+Mistral_mistral-small-latest_ARG_037,ARG_037,Argumentative,career,Mistral,mistral-small-latest,Mistral AI,198,valid,8.324221,-7.764402
+Mistral_mistral-small-latest_ARG_038,ARG_038,Argumentative,career,Mistral,mistral-small-latest,Mistral AI,200,valid,-16.443981,-8.910853
+Mistral_mistral-small-latest_ARG_039,ARG_039,Argumentative,career,Mistral,mistral-small-latest,Mistral AI,205,valid,-14.07773,-4.467267
+Mistral_mistral-small-latest_ARG_040,ARG_040,Argumentative,career,Mistral,mistral-small-latest,Mistral AI,203,valid,3.4602988,21.495314
+Mistral_mistral-small-latest_ARG_041,ARG_041,Argumentative,personal,Mistral,mistral-small-latest,Mistral AI,200,valid,-20.096817,32.423958
+Mistral_mistral-small-latest_ARG_042,ARG_042,Argumentative,personal,Mistral,mistral-small-latest,Mistral AI,204,valid,-17.432526,31.909317
+Mistral_mistral-small-latest_ARG_043,ARG_043,Argumentative,personal,Mistral,mistral-small-latest,Mistral AI,195,valid,-13.618893,34.779705
+Mistral_mistral-small-latest_ARG_044,ARG_044,Argumentative,personal,Mistral,mistral-small-latest,Mistral AI,199,valid,-17.54313,34.672916
+Mistral_mistral-small-latest_ARG_045,ARG_045,Argumentative,personal,Mistral,mistral-small-latest,Mistral AI,183,valid,-23.642542,-1.338662
+Mistral_mistral-small-latest_ARG_046,ARG_046,Argumentative,personal,Mistral,mistral-small-latest,Mistral AI,208,valid,-29.100956,-12.325397
+Mistral_mistral-small-latest_ARG_047,ARG_047,Argumentative,personal,Mistral,mistral-small-latest,Mistral AI,192,valid,-25.619064,-9.372666
+Mistral_mistral-small-latest_ARG_048,ARG_048,Argumentative,personal,Mistral,mistral-small-latest,Mistral AI,211,valid,-35.389965,16.106344
+Mistral_mistral-small-latest_ARG_049,ARG_049,Argumentative,personal,Mistral,mistral-small-latest,Mistral AI,192,valid,-16.791796,-1.730524
+Mistral_mistral-small-latest_ARG_050,ARG_050,Argumentative,personal,Mistral,mistral-small-latest,Mistral AI,189,valid,-4.7469573,15.754552
+Mistral_mistral-small-latest_DIA_001,DIA_001,Dialogue,academic,Mistral,mistral-small-latest,Mistral AI,219,valid,18.08836,25.860203
+Mistral_mistral-small-latest_DIA_002,DIA_002,Dialogue,academic,Mistral,mistral-small-latest,Mistral AI,200,valid,31.656631,22.73459
+Mistral_mistral-small-latest_DIA_003,DIA_003,Dialogue,academic,Mistral,mistral-small-latest,Mistral AI,187,valid,29.143822,14.562784
+Mistral_mistral-small-latest_DIA_004,DIA_004,Dialogue,academic,Mistral,mistral-small-latest,Mistral AI,186,valid,25.600573,8.95404
+Mistral_mistral-small-latest_DIA_005,DIA_005,Dialogue,academic,Mistral,mistral-small-latest,Mistral AI,208,valid,23.544518,21.517273
+Mistral_mistral-small-latest_DIA_006,DIA_006,Dialogue,academic,Mistral,mistral-small-latest,Mistral AI,206,valid,24.580927,27.560955
+Mistral_mistral-small-latest_DIA_007,DIA_007,Dialogue,academic,Mistral,mistral-small-latest,Mistral AI,217,valid,15.395835,25.029892
+Mistral_mistral-small-latest_DIA_008,DIA_008,Dialogue,academic,Mistral,mistral-small-latest,Mistral AI,219,valid,27.135386,18.443546
+Mistral_mistral-small-latest_DIA_009,DIA_009,Dialogue,academic,Mistral,mistral-small-latest,Mistral AI,190,valid,42.765343,-5.5986733
+Mistral_mistral-small-latest_DIA_010,DIA_010,Dialogue,academic,Mistral,mistral-small-latest,Mistral AI,220,valid,31.822351,25.202671
+Mistral_mistral-small-latest_DIA_011,DIA_011,Dialogue,academic,Mistral,mistral-small-latest,Mistral AI,200,valid,22.053915,-25.235682
+Mistral_mistral-small-latest_DIA_012,DIA_012,Dialogue,academic,Mistral,mistral-small-latest,Mistral AI,218,valid,-9.382636,-37.830044
+Mistral_mistral-small-latest_DIA_013,DIA_013,Dialogue,academic,Mistral,mistral-small-latest,Mistral AI,198,valid,10.643263,-32.882416
+Mistral_mistral-small-latest_DIA_014,DIA_014,Dialogue,academic,Mistral,mistral-small-latest,Mistral AI,220,valid,33.7265,-27.999104
+Mistral_mistral-small-latest_DIA_015,DIA_015,Dialogue,academic,Mistral,mistral-small-latest,Mistral AI,197,valid,23.448277,-6.758281
+Mistral_mistral-small-latest_DIA_016,DIA_016,Dialogue,academic,Mistral,mistral-small-latest,Mistral AI,217,valid,19.87357,-34.209183
+Mistral_mistral-small-latest_DIA_017,DIA_017,Dialogue,academic,Mistral,mistral-small-latest,Mistral AI,211,valid,34.704803,-23.087004
+Mistral_mistral-small-latest_DIA_018,DIA_018,Dialogue,academic,Mistral,mistral-small-latest,Mistral AI,195,valid,22.753317,-24.785305
+Mistral_mistral-small-latest_DIA_019,DIA_019,Dialogue,academic,Mistral,mistral-small-latest,Mistral AI,186,valid,29.06057,-34.854847
+Mistral_mistral-small-latest_DIA_020,DIA_020,Dialogue,academic,Mistral,mistral-small-latest,Mistral AI,209,valid,20.370268,-21.245378
+Mistral_mistral-small-latest_DIA_021,DIA_021,Dialogue,business,Mistral,mistral-small-latest,Mistral AI,193,valid,-37.207996,1.19307
+Mistral_mistral-small-latest_DIA_022,DIA_022,Dialogue,business,Mistral,mistral-small-latest,Mistral AI,219,valid,-31.630358,-5.3957167
+Mistral_mistral-small-latest_DIA_023,DIA_023,Dialogue,business,Mistral,mistral-small-latest,Mistral AI,212,valid,-16.070683,-24.130926
+Mistral_mistral-small-latest_DIA_024,DIA_024,Dialogue,business,Mistral,mistral-small-latest,Mistral AI,193,valid,-48.420525,9.714432
+Mistral_mistral-small-latest_DIA_025,DIA_025,Dialogue,business,Mistral,mistral-small-latest,Mistral AI,220,valid,-45.92411,4.337637
+Mistral_mistral-small-latest_DIA_026,DIA_026,Dialogue,business,Mistral,mistral-small-latest,Mistral AI,222,too_long,-16.189852,-22.922533
+Mistral_mistral-small-latest_DIA_027,DIA_027,Dialogue,business,Mistral,mistral-small-latest,Mistral AI,201,valid,-2.49138,-27.142733
+Mistral_mistral-small-latest_DIA_028,DIA_028,Dialogue,business,Mistral,mistral-small-latest,Mistral AI,196,valid,-29.873693,-16.56096
+Mistral_mistral-small-latest_DIA_029,DIA_029,Dialogue,business,Mistral,mistral-small-latest,Mistral AI,212,valid,-20.969448,-23.895742
+Mistral_mistral-small-latest_DIA_030,DIA_030,Dialogue,business,Mistral,mistral-small-latest,Mistral AI,220,valid,1.5079349,-31.229969
+Mistral_mistral-small-latest_DIA_031,DIA_031,Dialogue,career,Mistral,mistral-small-latest,Mistral AI,212,valid,-2.8815773,-6.420886
+Mistral_mistral-small-latest_DIA_032,DIA_032,Dialogue,career,Mistral,mistral-small-latest,Mistral AI,220,valid,-9.525465,-24.269709
+Mistral_mistral-small-latest_DIA_033,DIA_033,Dialogue,career,Mistral,mistral-small-latest,Mistral AI,222,too_long,8.340273,-24.407087
+Mistral_mistral-small-latest_DIA_034,DIA_034,Dialogue,career,Mistral,mistral-small-latest,Mistral AI,197,valid,37.4998,1.1582221
+Mistral_mistral-small-latest_DIA_035,DIA_035,Dialogue,career,Mistral,mistral-small-latest,Mistral AI,220,valid,6.8666663,-16.209269
+Mistral_mistral-small-latest_DIA_036,DIA_036,Dialogue,career,Mistral,mistral-small-latest,Mistral AI,220,valid,1.1006719,-8.697536
+Mistral_mistral-small-latest_DIA_037,DIA_037,Dialogue,career,Mistral,mistral-small-latest,Mistral AI,200,valid,-7.022452,-6.7794466
+Mistral_mistral-small-latest_DIA_038,DIA_038,Dialogue,career,Mistral,mistral-small-latest,Mistral AI,210,valid,-11.217485,-0.71228546
+Mistral_mistral-small-latest_DIA_039,DIA_039,Dialogue,career,Mistral,mistral-small-latest,Mistral AI,185,valid,-8.971505,-10.063354
+Mistral_mistral-small-latest_DIA_040,DIA_040,Dialogue,career,Mistral,mistral-small-latest,Mistral AI,203,valid,3.341622,19.291416
+Mistral_mistral-small-latest_DIA_041,DIA_041,Dialogue,personal,Mistral,mistral-small-latest,Mistral AI,196,valid,-19.632553,27.876625
+Mistral_mistral-small-latest_DIA_042,DIA_042,Dialogue,personal,Mistral,mistral-small-latest,Mistral AI,188,valid,-17.922789,29.073175
+Mistral_mistral-small-latest_DIA_043,DIA_043,Dialogue,personal,Mistral,mistral-small-latest,Mistral AI,220,valid,-12.869789,30.844873
+Mistral_mistral-small-latest_DIA_044,DIA_044,Dialogue,personal,Mistral,mistral-small-latest,Mistral AI,220,valid,-17.684582,4.4574103
+Mistral_mistral-small-latest_DIA_045,DIA_045,Dialogue,personal,Mistral,mistral-small-latest,Mistral AI,198,valid,2.2899182,37.57344
+Mistral_mistral-small-latest_DIA_046,DIA_046,Dialogue,personal,Mistral,mistral-small-latest,Mistral AI,220,valid,-22.03269,14.160245
+Mistral_mistral-small-latest_DIA_047,DIA_047,Dialogue,personal,Mistral,mistral-small-latest,Mistral AI,220,valid,-3.598687,-13.938363
+Mistral_mistral-small-latest_DIA_048,DIA_048,Dialogue,personal,Mistral,mistral-small-latest,Mistral AI,182,valid,-33.578564,20.012983
+Mistral_mistral-small-latest_DIA_049,DIA_049,Dialogue,personal,Mistral,mistral-small-latest,Mistral AI,204,valid,-10.165648,5.7928686
+Mistral_mistral-small-latest_DIA_050,DIA_050,Dialogue,personal,Mistral,mistral-small-latest,Mistral AI,193,valid,-6.4054637,12.7155075
+Gemini_gemini-2.5-flash_NAR_001,NAR_001,Narrative,academic,Gemini,gemini-2.5-flash,Google,218,valid,16.43041,19.74552
+Gemini_gemini-2.5-flash_NAR_002,NAR_002,Narrative,academic,Gemini,gemini-2.5-flash,Google,192,valid,3.6785326,6.1812906
+Gemini_gemini-2.5-flash_NAR_003,NAR_003,Narrative,academic,Gemini,gemini-2.5-flash,Google,218,valid,10.712846,16.651585
+Gemini_gemini-2.5-flash_NAR_004,NAR_004,Narrative,academic,Gemini,gemini-2.5-flash,Google,220,valid,6.482688,10.626272
+Gemini_gemini-2.5-flash_NAR_005,NAR_005,Narrative,academic,Gemini,gemini-2.5-flash,Google,208,valid,14.115297,14.539328
+Gemini_gemini-2.5-flash_NAR_006,NAR_006,Narrative,academic,Gemini,gemini-2.5-flash,Google,220,valid,18.390772,18.390581
+Gemini_gemini-2.5-flash_NAR_007,NAR_007,Narrative,academic,Gemini,gemini-2.5-flash,Google,201,valid,11.379503,19.345036
+Gemini_gemini-2.5-flash_NAR_008,NAR_008,Narrative,academic,Gemini,gemini-2.5-flash,Google,220,valid,-2.6932125,5.1603312
+Gemini_gemini-2.5-flash_NAR_009,NAR_009,Narrative,academic,Gemini,gemini-2.5-flash,Google,202,valid,17.935932,20.953735
+Gemini_gemini-2.5-flash_NAR_010,NAR_010,Narrative,academic,Gemini,gemini-2.5-flash,Google,210,valid,12.863385,21.274202
+Gemini_gemini-2.5-flash_NAR_011,NAR_011,Narrative,academic,Gemini,gemini-2.5-flash,Google,208,valid,20.824797,-28.234125
+Gemini_gemini-2.5-flash_NAR_012,NAR_012,Narrative,academic,Gemini,gemini-2.5-flash,Google,220,valid,-12.60222,-38.292126
+Gemini_gemini-2.5-flash_NAR_013,NAR_013,Narrative,academic,Gemini,gemini-2.5-flash,Google,220,valid,14.343728,-29.120918
+Gemini_gemini-2.5-flash_NAR_014,NAR_014,Narrative,academic,Gemini,gemini-2.5-flash,Google,216,valid,2.9404721,1.7121278
+Gemini_gemini-2.5-flash_NAR_015,NAR_015,Narrative,academic,Gemini,gemini-2.5-flash,Google,211,valid,21.346495,-4.496485
+Gemini_gemini-2.5-flash_NAR_016,NAR_016,Narrative,academic,Gemini,gemini-2.5-flash,Google,217,valid,20.349234,-35.816246
+Gemini_gemini-2.5-flash_NAR_017,NAR_017,Narrative,academic,Gemini,gemini-2.5-flash,Google,203,valid,18.305157,-20.840845
+Gemini_gemini-2.5-flash_NAR_018,NAR_018,Narrative,academic,Gemini,gemini-2.5-flash,Google,197,valid,29.37381,-18.110153
+Gemini_gemini-2.5-flash_NAR_019,NAR_019,Narrative,academic,Gemini,gemini-2.5-flash,Google,220,valid,15.809029,-4.2363434
+Gemini_gemini-2.5-flash_NAR_020,NAR_020,Narrative,academic,Gemini,gemini-2.5-flash,Google,217,valid,20.043236,-23.549267
+Gemini_gemini-2.5-flash_NAR_021,NAR_021,Narrative,business,Gemini,gemini-2.5-flash,Google,222,too_long,-34.14969,2.8034384
+Gemini_gemini-2.5-flash_NAR_022,NAR_022,Narrative,business,Gemini,gemini-2.5-flash,Google,213,valid,-5.915923,3.3118014
+Gemini_gemini-2.5-flash_NAR_023,NAR_023,Narrative,business,Gemini,gemini-2.5-flash,Google,220,valid,-5.9713326,3.700075
+Gemini_gemini-2.5-flash_NAR_024,NAR_024,Narrative,business,Gemini,gemini-2.5-flash,Google,203,valid,-46.418945,5.779375
+Gemini_gemini-2.5-flash_NAR_025,NAR_025,Narrative,business,Gemini,gemini-2.5-flash,Google,220,valid,0.42892787,20.43358
+Gemini_gemini-2.5-flash_NAR_026,NAR_026,Narrative,business,Gemini,gemini-2.5-flash,Google,195,valid,-2.3171496,-25.679695
+Gemini_gemini-2.5-flash_NAR_027,NAR_027,Narrative,business,Gemini,gemini-2.5-flash,Google,199,valid,-28.782146,-17.603163
+Gemini_gemini-2.5-flash_NAR_028,NAR_028,Narrative,business,Gemini,gemini-2.5-flash,Google,223,too_long,-22.75085,-21.634176
+Gemini_gemini-2.5-flash_NAR_029,NAR_029,Narrative,business,Gemini,gemini-2.5-flash,Google,208,valid,-0.8744929,-31.98689
+Gemini_gemini-2.5-flash_NAR_030,NAR_030,Narrative,business,Gemini,gemini-2.5-flash,Google,217,valid,-4.5756984,-20.51917
+Gemini_gemini-2.5-flash_NAR_031,NAR_031,Narrative,career,Gemini,gemini-2.5-flash,Google,220,valid,-1.1057757,-0.86607873
+Gemini_gemini-2.5-flash_NAR_032,NAR_032,Narrative,career,Gemini,gemini-2.5-flash,Google,220,valid,-4.1837125,3.2314322
+Gemini_gemini-2.5-flash_NAR_033,NAR_033,Narrative,career,Gemini,gemini-2.5-flash,Google,184,valid,4.082301,-2.1076276
+Gemini_gemini-2.5-flash_NAR_034,NAR_034,Narrative,career,Gemini,gemini-2.5-flash,Google,216,valid,-17.224674,13.498214
+Gemini_gemini-2.5-flash_NAR_035,NAR_035,Narrative,career,Gemini,gemini-2.5-flash,Google,215,valid,1.1360534,-4.805905
+Gemini_gemini-2.5-flash_NAR_036,NAR_036,Narrative,career,Gemini,gemini-2.5-flash,Google,220,valid,-0.8039231,-1.8810334
+Gemini_gemini-2.5-flash_NAR_037,NAR_037,Narrative,career,Gemini,gemini-2.5-flash,Google,209,valid,-4.0075073,2.6982732
+Gemini_gemini-2.5-flash_NAR_038,NAR_038,Narrative,career,Gemini,gemini-2.5-flash,Google,220,valid,-3.5597394,4.221551
+Gemini_gemini-2.5-flash_NAR_039,NAR_039,Narrative,career,Gemini,gemini-2.5-flash,Google,220,valid,-0.2990296,-0.17003393
+Gemini_gemini-2.5-flash_NAR_040,NAR_040,Narrative,career,Gemini,gemini-2.5-flash,Google,213,valid,3.9591513,13.984229
+Gemini_gemini-2.5-flash_NAR_041,NAR_041,Narrative,personal,Gemini,gemini-2.5-flash,Google,220,valid,-16.041237,16.722084
+Gemini_gemini-2.5-flash_NAR_042,NAR_042,Narrative,personal,Gemini,gemini-2.5-flash,Google,220,valid,-15.640095,25.597805
+Gemini_gemini-2.5-flash_NAR_043,NAR_043,Narrative,personal,Gemini,gemini-2.5-flash,Google,220,valid,-15.673604,17.730597
+Gemini_gemini-2.5-flash_NAR_044,NAR_044,Narrative,personal,Gemini,gemini-2.5-flash,Google,199,valid,-15.343585,16.129253
+Gemini_gemini-2.5-flash_NAR_045,NAR_045,Narrative,personal,Gemini,gemini-2.5-flash,Google,220,valid,-14.656931,4.337502
+Gemini_gemini-2.5-flash_NAR_046,NAR_046,Narrative,personal,Gemini,gemini-2.5-flash,Google,210,valid,-19.776428,18.735981
+Gemini_gemini-2.5-flash_NAR_047,NAR_047,Narrative,personal,Gemini,gemini-2.5-flash,Google,217,valid,-18.383713,15.75707
+Gemini_gemini-2.5-flash_NAR_048,NAR_048,Narrative,personal,Gemini,gemini-2.5-flash,Google,206,valid,-16.589508,15.206837
+Gemini_gemini-2.5-flash_NAR_049,NAR_049,Narrative,personal,Gemini,gemini-2.5-flash,Google,220,valid,-1.9676011,12.242265
+Gemini_gemini-2.5-flash_NAR_050,NAR_050,Narrative,personal,Gemini,gemini-2.5-flash,Google,212,valid,-6.8851485,8.835018
+Gemini_gemini-2.5-flash_DES_001,DES_001,Descriptive,academic,Gemini,gemini-2.5-flash,Google,201,valid,12.807455,7.282788
+Gemini_gemini-2.5-flash_DES_003,DES_003,Descriptive,academic,Gemini,gemini-2.5-flash,Google,194,valid,14.768829,11.9513235
+Gemini_gemini-2.5-flash_DES_004,DES_004,Descriptive,academic,Gemini,gemini-2.5-flash,Google,206,valid,8.458657,9.789508
+Gemini_gemini-2.5-flash_DES_005,DES_005,Descriptive,academic,Gemini,gemini-2.5-flash,Google,193,valid,34.124977,19.29559
+Gemini_gemini-2.5-flash_DES_006,DES_006,Descriptive,academic,Gemini,gemini-2.5-flash,Google,213,valid,19.810923,22.812382
+Gemini_gemini-2.5-flash_DES_007,DES_007,Descriptive,academic,Gemini,gemini-2.5-flash,Google,198,valid,19.269276,11.431977
+Gemini_gemini-2.5-flash_DES_008,DES_008,Descriptive,academic,Gemini,gemini-2.5-flash,Google,198,valid,20.586414,13.913073
+Gemini_gemini-2.5-flash_DES_009,DES_009,Descriptive,academic,Gemini,gemini-2.5-flash,Google,220,valid,8.078032,13.603252
+Gemini_gemini-2.5-flash_DES_010,DES_010,Descriptive,academic,Gemini,gemini-2.5-flash,Google,207,valid,16.904255,4.4515934
+Gemini_gemini-2.5-flash_DES_011,DES_011,Descriptive,academic,Gemini,gemini-2.5-flash,Google,198,valid,-12.804631,-40.60183
+Gemini_gemini-2.5-flash_DES_012,DES_012,Descriptive,academic,Gemini,gemini-2.5-flash,Google,196,valid,-14.713169,-37.63301
+Gemini_gemini-2.5-flash_DES_013,DES_013,Descriptive,academic,Gemini,gemini-2.5-flash,Google,220,valid,22.490187,-30.322397
+Gemini_gemini-2.5-flash_DES_014,DES_014,Descriptive,academic,Gemini,gemini-2.5-flash,Google,217,valid,31.713692,-16.870918
+Gemini_gemini-2.5-flash_DES_015,DES_015,Descriptive,academic,Gemini,gemini-2.5-flash,Google,215,valid,29.640871,-20.551558
+Gemini_gemini-2.5-flash_DES_016,DES_016,Descriptive,academic,Gemini,gemini-2.5-flash,Google,211,valid,19.852873,-1.2729911
+Gemini_gemini-2.5-flash_DES_017,DES_017,Descriptive,academic,Gemini,gemini-2.5-flash,Google,206,valid,26.334183,-27.453543
+Gemini_gemini-2.5-flash_DES_018,DES_018,Descriptive,academic,Gemini,gemini-2.5-flash,Google,213,valid,22.115503,-35.880253
+Gemini_gemini-2.5-flash_DES_019,DES_019,Descriptive,academic,Gemini,gemini-2.5-flash,Google,205,valid,25.518967,-31.639872
+Gemini_gemini-2.5-flash_DES_020,DES_020,Descriptive,academic,Gemini,gemini-2.5-flash,Google,220,valid,28.39352,-13.636931
+Gemini_gemini-2.5-flash_DES_021,DES_021,Descriptive,business,Gemini,gemini-2.5-flash,Google,198,valid,-34.658195,0.26177758
+Gemini_gemini-2.5-flash_DES_022,DES_022,Descriptive,business,Gemini,gemini-2.5-flash,Google,220,valid,-32.5429,3.2835243
+Gemini_gemini-2.5-flash_DES_023,DES_023,Descriptive,business,Gemini,gemini-2.5-flash,Google,196,valid,-21.285818,-27.986235
+Gemini_gemini-2.5-flash_DES_024,DES_024,Descriptive,business,Gemini,gemini-2.5-flash,Google,219,valid,-46.644554,8.369173
+Gemini_gemini-2.5-flash_DES_025,DES_025,Descriptive,business,Gemini,gemini-2.5-flash,Google,220,valid,-44.33552,10.023982
+Gemini_gemini-2.5-flash_DES_026,DES_026,Descriptive,business,Gemini,gemini-2.5-flash,Google,192,valid,-14.962832,-15.445265
+Gemini_gemini-2.5-flash_DES_027,DES_027,Descriptive,business,Gemini,gemini-2.5-flash,Google,207,valid,0.29494548,25.53657
+Gemini_gemini-2.5-flash_DES_028,DES_028,Descriptive,business,Gemini,gemini-2.5-flash,Google,220,valid,-23.716116,-25.310375
+Gemini_gemini-2.5-flash_DES_029,DES_029,Descriptive,business,Gemini,gemini-2.5-flash,Google,191,valid,-1.4785974,-33.10633
+Gemini_gemini-2.5-flash_DES_031,DES_031,Descriptive,career,Gemini,gemini-2.5-flash,Google,184,valid,7.907983,4.2335076
+Gemini_gemini-2.5-flash_DES_032,DES_032,Descriptive,career,Gemini,gemini-2.5-flash,Google,205,valid,9.858981,-0.71424913
+Gemini_gemini-2.5-flash_DES_033,DES_033,Descriptive,career,Gemini,gemini-2.5-flash,Google,218,valid,11.976223,3.6919274
+Gemini_gemini-2.5-flash_DES_034,DES_034,Descriptive,career,Gemini,gemini-2.5-flash,Google,209,valid,-18.554909,12.837227
+Gemini_gemini-2.5-flash_DES_035,DES_035,Descriptive,career,Gemini,gemini-2.5-flash,Google,220,valid,3.0358634,-14.1195965
+Gemini_gemini-2.5-flash_DES_036,DES_036,Descriptive,career,Gemini,gemini-2.5-flash,Google,220,valid,-13.4172945,-10.272934
+Gemini_gemini-2.5-flash_DES_037,DES_037,Descriptive,career,Gemini,gemini-2.5-flash,Google,206,valid,6.326212,-13.167708
+Gemini_gemini-2.5-flash_DES_038,DES_038,Descriptive,career,Gemini,gemini-2.5-flash,Google,193,valid,9.216914,7.466707
+Gemini_gemini-2.5-flash_DES_039,DES_039,Descriptive,career,Gemini,gemini-2.5-flash,Google,184,valid,-5.2525115,-0.47587878
+Gemini_gemini-2.5-flash_DES_040,DES_040,Descriptive,career,Gemini,gemini-2.5-flash,Google,182,valid,0.91697925,-17.052584
+Gemini_gemini-2.5-flash_DES_041,DES_041,Descriptive,personal,Gemini,gemini-2.5-flash,Google,199,valid,-8.580876,19.783127
+Gemini_gemini-2.5-flash_DES_042,DES_042,Descriptive,personal,Gemini,gemini-2.5-flash,Google,220,valid,-16.396051,21.85265
+Gemini_gemini-2.5-flash_DES_043,DES_043,Descriptive,personal,Gemini,gemini-2.5-flash,Google,183,valid,-8.122061,22.615635
+Gemini_gemini-2.5-flash_DES_044,DES_044,Descriptive,personal,Gemini,gemini-2.5-flash,Google,194,valid,-12.590848,14.43349
+Gemini_gemini-2.5-flash_DES_045,DES_045,Descriptive,personal,Gemini,gemini-2.5-flash,Google,197,valid,2.2101548,34.821804
+Gemini_gemini-2.5-flash_DES_046,DES_046,Descriptive,personal,Gemini,gemini-2.5-flash,Google,201,valid,-21.887615,15.989919
+Gemini_gemini-2.5-flash_DES_047,DES_047,Descriptive,personal,Gemini,gemini-2.5-flash,Google,205,valid,24.871319,2.893599
+Gemini_gemini-2.5-flash_DES_048,DES_048,Descriptive,personal,Gemini,gemini-2.5-flash,Google,188,valid,-35.302486,22.010355
+Gemini_gemini-2.5-flash_DES_049,DES_049,Descriptive,personal,Gemini,gemini-2.5-flash,Google,203,valid,-6.10531,25.81904
+Gemini_gemini-2.5-flash_DES_050,DES_050,Descriptive,personal,Gemini,gemini-2.5-flash,Google,220,valid,-16.74463,16.503778
+Gemini_gemini-2.5-flash_ARG_001,ARG_001,Argumentative,academic,Gemini,gemini-2.5-flash,Google,208,valid,19.650434,26.759678
+Gemini_gemini-2.5-flash_ARG_002,ARG_002,Argumentative,academic,Gemini,gemini-2.5-flash,Google,215,valid,23.199436,24.622
+Gemini_gemini-2.5-flash_ARG_003,ARG_003,Argumentative,academic,Gemini,gemini-2.5-flash,Google,207,valid,12.214034,27.059984
+Gemini_gemini-2.5-flash_ARG_004,ARG_004,Argumentative,academic,Gemini,gemini-2.5-flash,Google,200,valid,26.463842,24.580704
+Gemini_gemini-2.5-flash_ARG_005,ARG_005,Argumentative,academic,Gemini,gemini-2.5-flash,Google,204,valid,21.379358,26.093365
+Gemini_gemini-2.5-flash_ARG_006,ARG_006,Argumentative,academic,Gemini,gemini-2.5-flash,Google,220,valid,22.644222,29.303967
+Gemini_gemini-2.5-flash_ARG_007,ARG_007,Argumentative,academic,Gemini,gemini-2.5-flash,Google,201,valid,32.452854,12.08484
+Gemini_gemini-2.5-flash_ARG_008,ARG_008,Argumentative,academic,Gemini,gemini-2.5-flash,Google,183,valid,18.645885,30.52574
+Gemini_gemini-2.5-flash_ARG_009,ARG_009,Argumentative,academic,Gemini,gemini-2.5-flash,Google,188,valid,8.552972,26.80188
+Gemini_gemini-2.5-flash_ARG_010,ARG_010,Argumentative,academic,Gemini,gemini-2.5-flash,Google,206,valid,15.207922,30.651949
+Gemini_gemini-2.5-flash_ARG_011,ARG_011,Argumentative,academic,Gemini,gemini-2.5-flash,Google,220,valid,30.039188,-23.346668
+Gemini_gemini-2.5-flash_ARG_012,ARG_012,Argumentative,academic,Gemini,gemini-2.5-flash,Google,203,valid,30.585672,-29.067486
+Gemini_gemini-2.5-flash_ARG_013,ARG_013,Argumentative,academic,Gemini,gemini-2.5-flash,Google,206,valid,23.393723,-17.213976
+Gemini_gemini-2.5-flash_ARG_014,ARG_014,Argumentative,academic,Gemini,gemini-2.5-flash,Google,209,valid,37.12315,-15.887415
+Gemini_gemini-2.5-flash_ARG_015,ARG_015,Argumentative,academic,Gemini,gemini-2.5-flash,Google,201,valid,13.857648,-15.160273
+Gemini_gemini-2.5-flash_ARG_016,ARG_016,Argumentative,academic,Gemini,gemini-2.5-flash,Google,203,valid,33.074257,-9.019087
+Gemini_gemini-2.5-flash_ARG_017,ARG_017,Argumentative,academic,Gemini,gemini-2.5-flash,Google,220,valid,32.79007,-18.25586
+Gemini_gemini-2.5-flash_ARG_018,ARG_018,Argumentative,academic,Gemini,gemini-2.5-flash,Google,191,valid,12.544063,-12.609841
+Gemini_gemini-2.5-flash_ARG_019,ARG_019,Argumentative,academic,Gemini,gemini-2.5-flash,Google,220,valid,26.317036,-22.58195
+Gemini_gemini-2.5-flash_ARG_020,ARG_020,Argumentative,academic,Gemini,gemini-2.5-flash,Google,187,valid,19.429539,-13.919823
+Gemini_gemini-2.5-flash_ARG_021,ARG_021,Argumentative,business,Gemini,gemini-2.5-flash,Google,199,valid,-36.961536,-1.0700341
+Gemini_gemini-2.5-flash_ARG_022,ARG_022,Argumentative,business,Gemini,gemini-2.5-flash,Google,190,valid,-39.184105,-1.8425512
+Gemini_gemini-2.5-flash_ARG_023,ARG_023,Argumentative,business,Gemini,gemini-2.5-flash,Google,219,valid,-40.329784,-7.271423
+Gemini_gemini-2.5-flash_ARG_024,ARG_024,Argumentative,business,Gemini,gemini-2.5-flash,Google,208,valid,-44.73778,2.596651
+Gemini_gemini-2.5-flash_ARG_025,ARG_025,Argumentative,business,Gemini,gemini-2.5-flash,Google,195,valid,-43.706627,5.008307
+Gemini_gemini-2.5-flash_ARG_026,ARG_026,Argumentative,business,Gemini,gemini-2.5-flash,Google,195,valid,-20.963144,-15.219881
+Gemini_gemini-2.5-flash_ARG_027,ARG_027,Argumentative,business,Gemini,gemini-2.5-flash,Google,195,valid,-24.1524,-18.92372
+Gemini_gemini-2.5-flash_ARG_028,ARG_028,Argumentative,business,Gemini,gemini-2.5-flash,Google,220,valid,-27.558506,-15.582301
+Gemini_gemini-2.5-flash_ARG_029,ARG_029,Argumentative,business,Gemini,gemini-2.5-flash,Google,202,valid,-32.620853,-14.682657
+Gemini_gemini-2.5-flash_ARG_030,ARG_030,Argumentative,business,Gemini,gemini-2.5-flash,Google,220,valid,1.003874,-32.82061
+Gemini_gemini-2.5-flash_ARG_031,ARG_031,Argumentative,career,Gemini,gemini-2.5-flash,Google,211,valid,-18.073872,-4.720071
+Gemini_gemini-2.5-flash_ARG_032,ARG_032,Argumentative,career,Gemini,gemini-2.5-flash,Google,191,valid,-20.723389,-9.782507
+Gemini_gemini-2.5-flash_ARG_033,ARG_033,Argumentative,career,Gemini,gemini-2.5-flash,Google,194,valid,10.925614,-17.946766
+Gemini_gemini-2.5-flash_ARG_034,ARG_034,Argumentative,career,Gemini,gemini-2.5-flash,Google,206,valid,9.178616,-13.434461
+Gemini_gemini-2.5-flash_ARG_035,ARG_035,Argumentative,career,Gemini,gemini-2.5-flash,Google,195,valid,-20.35389,1.5381522
+Gemini_gemini-2.5-flash_ARG_036,ARG_036,Argumentative,career,Gemini,gemini-2.5-flash,Google,200,valid,32.08965,-0.1599556
+Gemini_gemini-2.5-flash_ARG_037,ARG_037,Argumentative,career,Gemini,gemini-2.5-flash,Google,213,valid,8.936177,-7.1434574
+Gemini_gemini-2.5-flash_ARG_038,ARG_038,Argumentative,career,Gemini,gemini-2.5-flash,Google,182,valid,-15.855714,-8.741857
+Gemini_gemini-2.5-flash_ARG_039,ARG_039,Argumentative,career,Gemini,gemini-2.5-flash,Google,195,valid,-13.785879,-4.652184
+Gemini_gemini-2.5-flash_ARG_040,ARG_040,Argumentative,career,Gemini,gemini-2.5-flash,Google,214,valid,2.7821765,21.567902
+Gemini_gemini-2.5-flash_ARG_041,ARG_041,Argumentative,personal,Gemini,gemini-2.5-flash,Google,199,valid,-20.162096,31.656736
+Gemini_gemini-2.5-flash_ARG_042,ARG_042,Argumentative,personal,Gemini,gemini-2.5-flash,Google,200,valid,-16.817585,32.134117
+Gemini_gemini-2.5-flash_ARG_043,ARG_043,Argumentative,personal,Gemini,gemini-2.5-flash,Google,204,valid,-14.036417,34.911774
+Gemini_gemini-2.5-flash_ARG_044,ARG_044,Argumentative,personal,Gemini,gemini-2.5-flash,Google,210,valid,-17.224861,35.216583
+Gemini_gemini-2.5-flash_ARG_045,ARG_045,Argumentative,personal,Gemini,gemini-2.5-flash,Google,198,valid,-23.986788,-1.3524071
+Gemini_gemini-2.5-flash_ARG_046,ARG_046,Argumentative,personal,Gemini,gemini-2.5-flash,Google,202,valid,-28.954151,-12.439068
+Gemini_gemini-2.5-flash_ARG_047,ARG_047,Argumentative,personal,Gemini,gemini-2.5-flash,Google,200,valid,-25.448534,-9.992915
+Gemini_gemini-2.5-flash_ARG_048,ARG_048,Argumentative,personal,Gemini,gemini-2.5-flash,Google,189,valid,-34.97599,15.859718
+Gemini_gemini-2.5-flash_ARG_049,ARG_049,Argumentative,personal,Gemini,gemini-2.5-flash,Google,196,valid,-17.111544,-1.8564662
+Gemini_gemini-2.5-flash_ARG_050,ARG_050,Argumentative,personal,Gemini,gemini-2.5-flash,Google,191,valid,-4.82225,15.83309
+Gemini_gemini-2.5-flash_DIA_001,DIA_001,Dialogue,academic,Gemini,gemini-2.5-flash,Google,220,valid,17.160887,25.837494
+Gemini_gemini-2.5-flash_DIA_002,DIA_002,Dialogue,academic,Gemini,gemini-2.5-flash,Google,220,valid,29.797167,21.942072
+Gemini_gemini-2.5-flash_DIA_003,DIA_003,Dialogue,academic,Gemini,gemini-2.5-flash,Google,220,valid,27.461699,13.9469
+Gemini_gemini-2.5-flash_DIA_004,DIA_004,Dialogue,academic,Gemini,gemini-2.5-flash,Google,221,too_long,25.482971,9.536083
+Gemini_gemini-2.5-flash_DIA_005,DIA_005,Dialogue,academic,Gemini,gemini-2.5-flash,Google,218,valid,23.094334,21.239502
+Gemini_gemini-2.5-flash_DIA_006,DIA_006,Dialogue,academic,Gemini,gemini-2.5-flash,Google,220,valid,24.716217,27.487774
+Gemini_gemini-2.5-flash_DIA_007,DIA_007,Dialogue,academic,Gemini,gemini-2.5-flash,Google,220,valid,14.302254,24.531044
+Gemini_gemini-2.5-flash_DIA_008,DIA_008,Dialogue,academic,Gemini,gemini-2.5-flash,Google,220,valid,27.68601,19.361301
+Gemini_gemini-2.5-flash_DIA_009,DIA_009,Dialogue,academic,Gemini,gemini-2.5-flash,Google,220,valid,42.896748,-4.8651233
+Gemini_gemini-2.5-flash_DIA_010,DIA_010,Dialogue,academic,Gemini,gemini-2.5-flash,Google,220,valid,30.676336,25.387283
+Gemini_gemini-2.5-flash_DIA_011,DIA_011,Dialogue,academic,Gemini,gemini-2.5-flash,Google,220,valid,23.49318,-28.282862
+Gemini_gemini-2.5-flash_DIA_012,DIA_012,Dialogue,academic,Gemini,gemini-2.5-flash,Google,220,valid,-9.250735,-38.336483
+Gemini_gemini-2.5-flash_DIA_013,DIA_013,Dialogue,academic,Gemini,gemini-2.5-flash,Google,224,too_long,10.18856,-31.717485
+Gemini_gemini-2.5-flash_DIA_014,DIA_014,Dialogue,academic,Gemini,gemini-2.5-flash,Google,211,valid,33.04045,-29.091457
+Gemini_gemini-2.5-flash_DIA_015,DIA_015,Dialogue,academic,Gemini,gemini-2.5-flash,Google,220,valid,23.1683,-5.912469
+Gemini_gemini-2.5-flash_DIA_016,DIA_016,Dialogue,academic,Gemini,gemini-2.5-flash,Google,220,valid,20.625412,-34.497635
+Gemini_gemini-2.5-flash_DIA_017,DIA_017,Dialogue,academic,Gemini,gemini-2.5-flash,Google,194,valid,34.616257,-22.084621
+Gemini_gemini-2.5-flash_DIA_018,DIA_018,Dialogue,academic,Gemini,gemini-2.5-flash,Google,220,valid,24.640766,-24.330702
+Gemini_gemini-2.5-flash_DIA_019,DIA_019,Dialogue,academic,Gemini,gemini-2.5-flash,Google,220,valid,29.034798,-34.270855
+Gemini_gemini-2.5-flash_DIA_020,DIA_020,Dialogue,academic,Gemini,gemini-2.5-flash,Google,200,valid,22.674139,-20.937565
+Gemini_gemini-2.5-flash_DIA_021,DIA_021,Dialogue,business,Gemini,gemini-2.5-flash,Google,220,valid,-36.037777,1.4674919
+Gemini_gemini-2.5-flash_DIA_022,DIA_022,Dialogue,business,Gemini,gemini-2.5-flash,Google,220,valid,-33.810795,-4.4325128
+Gemini_gemini-2.5-flash_DIA_023,DIA_023,Dialogue,business,Gemini,gemini-2.5-flash,Google,220,valid,-16.511509,-25.170355
+Gemini_gemini-2.5-flash_DIA_024,DIA_024,Dialogue,business,Gemini,gemini-2.5-flash,Google,220,valid,-48.13925,8.769416
+Gemini_gemini-2.5-flash_DIA_025,DIA_025,Dialogue,business,Gemini,gemini-2.5-flash,Google,224,too_long,-45.39691,5.9837213
+Gemini_gemini-2.5-flash_DIA_026,DIA_026,Dialogue,business,Gemini,gemini-2.5-flash,Google,221,too_long,-16.344955,-21.476114
+Gemini_gemini-2.5-flash_DIA_027,DIA_027,Dialogue,business,Gemini,gemini-2.5-flash,Google,220,valid,-0.6714149,-26.781301
+Gemini_gemini-2.5-flash_DIA_028,DIA_028,Dialogue,business,Gemini,gemini-2.5-flash,Google,204,valid,-28.700966,-16.327332
+Gemini_gemini-2.5-flash_DIA_029,DIA_029,Dialogue,business,Gemini,gemini-2.5-flash,Google,220,valid,-20.720499,-24.59296
+Gemini_gemini-2.5-flash_DIA_030,DIA_030,Dialogue,business,Gemini,gemini-2.5-flash,Google,220,valid,1.0567429,-29.89464
+Gemini_gemini-2.5-flash_DIA_031,DIA_031,Dialogue,career,Gemini,gemini-2.5-flash,Google,220,valid,-2.8196054,-8.127854
+Gemini_gemini-2.5-flash_DIA_032,DIA_032,Dialogue,career,Gemini,gemini-2.5-flash,Google,220,valid,-10.900246,-25.139442
+Gemini_gemini-2.5-flash_DIA_033,DIA_033,Dialogue,career,Gemini,gemini-2.5-flash,Google,230,too_long,8.199775,-24.233124
+Gemini_gemini-2.5-flash_DIA_034,DIA_034,Dialogue,career,Gemini,gemini-2.5-flash,Google,222,too_long,37.44135,0.6379445
+Gemini_gemini-2.5-flash_DIA_035,DIA_035,Dialogue,career,Gemini,gemini-2.5-flash,Google,220,valid,7.882399,-15.244105
+Gemini_gemini-2.5-flash_DIA_036,DIA_036,Dialogue,career,Gemini,gemini-2.5-flash,Google,218,valid,0.6560723,-8.97723
+Gemini_gemini-2.5-flash_DIA_037,DIA_037,Dialogue,career,Gemini,gemini-2.5-flash,Google,220,valid,-8.256866,-6.9217668
+Gemini_gemini-2.5-flash_DIA_038,DIA_038,Dialogue,career,Gemini,gemini-2.5-flash,Google,220,valid,-0.8381683,10.547959
+Gemini_gemini-2.5-flash_DIA_039,DIA_039,Dialogue,career,Gemini,gemini-2.5-flash,Google,220,valid,-7.880193,-10.00249
+Gemini_gemini-2.5-flash_DIA_040,DIA_040,Dialogue,career,Gemini,gemini-2.5-flash,Google,216,valid,2.294057,20.459167
+Gemini_gemini-2.5-flash_DIA_041,DIA_041,Dialogue,personal,Gemini,gemini-2.5-flash,Google,220,valid,-18.768711,27.039762
+Gemini_gemini-2.5-flash_DIA_042,DIA_042,Dialogue,personal,Gemini,gemini-2.5-flash,Google,220,valid,-17.321857,29.874918
+Gemini_gemini-2.5-flash_DIA_043,DIA_043,Dialogue,personal,Gemini,gemini-2.5-flash,Google,220,valid,-12.748614,29.011803
+Gemini_gemini-2.5-flash_DIA_044,DIA_044,Dialogue,personal,Gemini,gemini-2.5-flash,Google,220,valid,-19.142231,4.521703
+Gemini_gemini-2.5-flash_DIA_045,DIA_045,Dialogue,personal,Gemini,gemini-2.5-flash,Google,220,valid,2.6920102,37.777412
+Gemini_gemini-2.5-flash_DIA_046,DIA_046,Dialogue,personal,Gemini,gemini-2.5-flash,Google,191,valid,-20.967188,13.332424
+Gemini_gemini-2.5-flash_DIA_047,DIA_047,Dialogue,personal,Gemini,gemini-2.5-flash,Google,220,valid,-3.7060554,-12.609515
+Gemini_gemini-2.5-flash_DIA_048,DIA_048,Dialogue,personal,Gemini,gemini-2.5-flash,Google,220,valid,-33.08253,19.358492
+Gemini_gemini-2.5-flash_DIA_049,DIA_049,Dialogue,personal,Gemini,gemini-2.5-flash,Google,220,valid,-10.988048,5.2383466
+Gemini_gemini-2.5-flash_DIA_050,DIA_050,Dialogue,personal,Gemini,gemini-2.5-flash,Google,218,valid,-5.3785634,12.363417
+Gemini_gemini-2.5-flash_DES_002,DES_002,Descriptive,academic,Gemini,gemini-2.5-flash,Google,218,valid,18.622578,9.354035
+Gemini_gemini-2.5-flash_DES_030,DES_030,Descriptive,business,Gemini,gemini-2.5-flash,Google,211,valid,-20.043268,-18.849134

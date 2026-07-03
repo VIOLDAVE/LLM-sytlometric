@@ -1,0 +1,16 @@
+feature,importance
+stylo_word_count,0.0758319097027349
+stylo_avg_word_length,0.0414163868318717
+stylo_character_count,0.0413544018232973
+stylo_sentence_length_std,0.0393808008957078
+stylo_comma_per_100_words,0.0377271844064632
+stylo_punctuation_per_100_words,0.0374992144732833
+stylo_function_word_count,0.0354033006098399
+stylo_type_token_ratio,0.0344452598675606
+stylo_long_sentence_ratio,0.0342492598244006
+stylo_comma_count,0.0327648073186467
+stylo_period_per_100_words,0.0327645482445753
+stylo_ai_marker_ratio,0.0322128054548917
+stylo_function_word_ratio,0.03167409430563
+stylo_avg_sentence_length,0.0295829753433479
+stylo_punctuation_count,0.0283308730917632

@@ -1,0 +1,9 @@
+item,value
+Random baseline,0.2
+Best classifier,logistic_regression
+Best feature set,all_stylometric_features
+Best accuracy,0.781
+Best macro F1,0.78
+Best weighted F1,0.78
+Best structure/format accuracy,0.745
+Best content-oriented accuracy,0.602

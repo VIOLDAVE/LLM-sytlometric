@@ -1,0 +1,11 @@
+feature,total_pairwise_tests,significant_pairwise_tests,mean_absolute_difference,share_significant
+stylo_comma_count,10,10,3.474,1.0
+stylo_function_word_count,10,9,9.199999999999998,0.9
+stylo_sentence_length_std,10,9,1.7306934990170948,0.9
+stylo_comma_per_100_words,10,9,1.5334499888322988,0.9
+stylo_avg_word_length,10,9,0.45972647532270355,0.9
+stylo_long_sentence_ratio,10,9,0.14701091086005266,0.9
+stylo_word_count,10,8,6.339999999999998,0.8
+stylo_sentence_length_max,10,8,5.7509999999999994,0.8
+stylo_function_word_ratio,10,8,0.0382324051013355,0.8
+stylo_sentence_length_range,10,7,5.2170000000000005,0.7

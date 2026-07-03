@@ -1,0 +1,7 @@
+finding,value
+Embedding rows,1000
+Embedding dimensions,384
+Highest silhouette label,theme
+Highest silhouette score,0.0685244128108024
+Model-family silhouette score,-0.0075385062955319
+Main interpretation,Semantic embeddings show weak model-family clustering; theme shows the strongest but still weak structure.

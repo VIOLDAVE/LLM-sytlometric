@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment folders
+style/
+venv/
+.venv/
+.LLM/
+
+# Environment variables and API keys
+.env
+*.key
+*.pem
+
+# macOS
+.DS_Store
+
+# Outputs and temporary files
+outputs/models/
+*.pkl
+*.joblib
+*.tmp
+*.log
+
+# IDE
+.vscode/
+.idea/

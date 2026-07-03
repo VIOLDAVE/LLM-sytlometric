@@ -1,0 +1,5 @@
+feature_set,best_accuracy,mean_accuracy,best_macro_f1,mean_macro_f1,n_models,n_features
+all_stylometric_features,0.781,0.78,0.7804353126283985,0.7783293449274553,2,43
+structure_format_features,0.745,0.7335,0.7416363171124785,0.7306286957692558,2,26
+content_oriented_features,0.602,0.5865,0.5986011449270155,0.5803686272843748,2,17
+without_structure_format_features,0.602,0.5854999999999999,0.5986011449270155,0.5796908934979748,2,17

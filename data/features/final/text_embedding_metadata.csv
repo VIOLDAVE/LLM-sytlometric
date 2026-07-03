@@ -1,0 +1,1001 @@
+text_id,prompt_id,genre,theme,model_family,model_name,provider,clean_word_count,clean_length_status
+GPT_gpt-4o-mini_NAR_001,NAR_001,Narrative,academic,GPT,gpt-4o-mini,OpenAI,217,valid
+GPT_gpt-4o-mini_NAR_002,NAR_002,Narrative,academic,GPT,gpt-4o-mini,OpenAI,209,valid
+GPT_gpt-4o-mini_NAR_003,NAR_003,Narrative,academic,GPT,gpt-4o-mini,OpenAI,204,valid
+GPT_gpt-4o-mini_NAR_004,NAR_004,Narrative,academic,GPT,gpt-4o-mini,OpenAI,207,valid
+GPT_gpt-4o-mini_NAR_005,NAR_005,Narrative,academic,GPT,gpt-4o-mini,OpenAI,208,valid
+GPT_gpt-4o-mini_NAR_006,NAR_006,Narrative,academic,GPT,gpt-4o-mini,OpenAI,205,valid
+GPT_gpt-4o-mini_NAR_007,NAR_007,Narrative,academic,GPT,gpt-4o-mini,OpenAI,218,valid
+GPT_gpt-4o-mini_NAR_008,NAR_008,Narrative,academic,GPT,gpt-4o-mini,OpenAI,205,valid
+GPT_gpt-4o-mini_NAR_009,NAR_009,Narrative,academic,GPT,gpt-4o-mini,OpenAI,212,valid
+GPT_gpt-4o-mini_NAR_010,NAR_010,Narrative,academic,GPT,gpt-4o-mini,OpenAI,207,valid
+GPT_gpt-4o-mini_NAR_011,NAR_011,Narrative,academic,GPT,gpt-4o-mini,OpenAI,210,valid
+GPT_gpt-4o-mini_NAR_012,NAR_012,Narrative,academic,GPT,gpt-4o-mini,OpenAI,207,valid
+GPT_gpt-4o-mini_NAR_013,NAR_013,Narrative,academic,GPT,gpt-4o-mini,OpenAI,205,valid
+GPT_gpt-4o-mini_NAR_014,NAR_014,Narrative,academic,GPT,gpt-4o-mini,OpenAI,211,valid
+GPT_gpt-4o-mini_NAR_015,NAR_015,Narrative,academic,GPT,gpt-4o-mini,OpenAI,210,valid
+GPT_gpt-4o-mini_NAR_016,NAR_016,Narrative,academic,GPT,gpt-4o-mini,OpenAI,208,valid
+GPT_gpt-4o-mini_NAR_017,NAR_017,Narrative,academic,GPT,gpt-4o-mini,OpenAI,209,valid
+GPT_gpt-4o-mini_NAR_018,NAR_018,Narrative,academic,GPT,gpt-4o-mini,OpenAI,206,valid
+GPT_gpt-4o-mini_NAR_019,NAR_019,Narrative,academic,GPT,gpt-4o-mini,OpenAI,202,valid
+GPT_gpt-4o-mini_NAR_020,NAR_020,Narrative,academic,GPT,gpt-4o-mini,OpenAI,207,valid
+GPT_gpt-4o-mini_NAR_021,NAR_021,Narrative,business,GPT,gpt-4o-mini,OpenAI,204,valid
+GPT_gpt-4o-mini_NAR_022,NAR_022,Narrative,business,GPT,gpt-4o-mini,OpenAI,207,valid
+GPT_gpt-4o-mini_NAR_023,NAR_023,Narrative,business,GPT,gpt-4o-mini,OpenAI,212,valid
+GPT_gpt-4o-mini_NAR_024,NAR_024,Narrative,business,GPT,gpt-4o-mini,OpenAI,206,valid
+GPT_gpt-4o-mini_NAR_025,NAR_025,Narrative,business,GPT,gpt-4o-mini,OpenAI,206,valid
+GPT_gpt-4o-mini_NAR_026,NAR_026,Narrative,business,GPT,gpt-4o-mini,OpenAI,211,valid
+GPT_gpt-4o-mini_NAR_027,NAR_027,Narrative,business,GPT,gpt-4o-mini,OpenAI,207,valid
+GPT_gpt-4o-mini_NAR_028,NAR_028,Narrative,business,GPT,gpt-4o-mini,OpenAI,207,valid
+GPT_gpt-4o-mini_NAR_029,NAR_029,Narrative,business,GPT,gpt-4o-mini,OpenAI,217,valid
+GPT_gpt-4o-mini_NAR_030,NAR_030,Narrative,business,GPT,gpt-4o-mini,OpenAI,214,valid
+GPT_gpt-4o-mini_NAR_031,NAR_031,Narrative,career,GPT,gpt-4o-mini,OpenAI,209,valid
+GPT_gpt-4o-mini_NAR_032,NAR_032,Narrative,career,GPT,gpt-4o-mini,OpenAI,212,valid
+GPT_gpt-4o-mini_NAR_033,NAR_033,Narrative,career,GPT,gpt-4o-mini,OpenAI,211,valid
+GPT_gpt-4o-mini_NAR_034,NAR_034,Narrative,career,GPT,gpt-4o-mini,OpenAI,195,valid
+GPT_gpt-4o-mini_NAR_035,NAR_035,Narrative,career,GPT,gpt-4o-mini,OpenAI,211,valid
+GPT_gpt-4o-mini_NAR_036,NAR_036,Narrative,career,GPT,gpt-4o-mini,OpenAI,214,valid
+GPT_gpt-4o-mini_NAR_037,NAR_037,Narrative,career,GPT,gpt-4o-mini,OpenAI,216,valid
+GPT_gpt-4o-mini_NAR_038,NAR_038,Narrative,career,GPT,gpt-4o-mini,OpenAI,209,valid
+GPT_gpt-4o-mini_NAR_039,NAR_039,Narrative,career,GPT,gpt-4o-mini,OpenAI,208,valid
+GPT_gpt-4o-mini_NAR_040,NAR_040,Narrative,career,GPT,gpt-4o-mini,OpenAI,209,valid
+GPT_gpt-4o-mini_NAR_041,NAR_041,Narrative,personal,GPT,gpt-4o-mini,OpenAI,206,valid
+GPT_gpt-4o-mini_NAR_042,NAR_042,Narrative,personal,GPT,gpt-4o-mini,OpenAI,214,valid
+GPT_gpt-4o-mini_NAR_043,NAR_043,Narrative,personal,GPT,gpt-4o-mini,OpenAI,205,valid
+GPT_gpt-4o-mini_NAR_044,NAR_044,Narrative,personal,GPT,gpt-4o-mini,OpenAI,203,valid
+GPT_gpt-4o-mini_NAR_045,NAR_045,Narrative,personal,GPT,gpt-4o-mini,OpenAI,209,valid
+GPT_gpt-4o-mini_NAR_046,NAR_046,Narrative,personal,GPT,gpt-4o-mini,OpenAI,207,valid
+GPT_gpt-4o-mini_NAR_047,NAR_047,Narrative,personal,GPT,gpt-4o-mini,OpenAI,214,valid
+GPT_gpt-4o-mini_NAR_048,NAR_048,Narrative,personal,GPT,gpt-4o-mini,OpenAI,205,valid
+GPT_gpt-4o-mini_NAR_049,NAR_049,Narrative,personal,GPT,gpt-4o-mini,OpenAI,206,valid
+GPT_gpt-4o-mini_NAR_050,NAR_050,Narrative,personal,GPT,gpt-4o-mini,OpenAI,208,valid
+GPT_gpt-4o-mini_DES_001,DES_001,Descriptive,academic,GPT,gpt-4o-mini,OpenAI,219,valid
+GPT_gpt-4o-mini_DES_002,DES_002,Descriptive,academic,GPT,gpt-4o-mini,OpenAI,203,valid
+GPT_gpt-4o-mini_DES_003,DES_003,Descriptive,academic,GPT,gpt-4o-mini,OpenAI,206,valid
+GPT_gpt-4o-mini_DES_004,DES_004,Descriptive,academic,GPT,gpt-4o-mini,OpenAI,207,valid
+GPT_gpt-4o-mini_DES_005,DES_005,Descriptive,academic,GPT,gpt-4o-mini,OpenAI,218,valid
+GPT_gpt-4o-mini_DES_006,DES_006,Descriptive,academic,GPT,gpt-4o-mini,OpenAI,204,valid
+GPT_gpt-4o-mini_DES_007,DES_007,Descriptive,academic,GPT,gpt-4o-mini,OpenAI,205,valid
+GPT_gpt-4o-mini_DES_008,DES_008,Descriptive,academic,GPT,gpt-4o-mini,OpenAI,212,valid
+GPT_gpt-4o-mini_DES_009,DES_009,Descriptive,academic,GPT,gpt-4o-mini,OpenAI,209,valid
+GPT_gpt-4o-mini_DES_010,DES_010,Descriptive,academic,GPT,gpt-4o-mini,OpenAI,206,valid
+GPT_gpt-4o-mini_DES_011,DES_011,Descriptive,academic,GPT,gpt-4o-mini,OpenAI,206,valid
+GPT_gpt-4o-mini_DES_012,DES_012,Descriptive,academic,GPT,gpt-4o-mini,OpenAI,205,valid
+GPT_gpt-4o-mini_DES_013,DES_013,Descriptive,academic,GPT,gpt-4o-mini,OpenAI,202,valid
+GPT_gpt-4o-mini_DES_014,DES_014,Descriptive,academic,GPT,gpt-4o-mini,OpenAI,204,valid
+GPT_gpt-4o-mini_DES_015,DES_015,Descriptive,academic,GPT,gpt-4o-mini,OpenAI,214,valid
+GPT_gpt-4o-mini_DES_016,DES_016,Descriptive,academic,GPT,gpt-4o-mini,OpenAI,214,valid
+GPT_gpt-4o-mini_DES_017,DES_017,Descriptive,academic,GPT,gpt-4o-mini,OpenAI,203,valid
+GPT_gpt-4o-mini_DES_018,DES_018,Descriptive,academic,GPT,gpt-4o-mini,OpenAI,208,valid
+GPT_gpt-4o-mini_DES_019,DES_019,Descriptive,academic,GPT,gpt-4o-mini,OpenAI,202,valid
+GPT_gpt-4o-mini_DES_020,DES_020,Descriptive,academic,GPT,gpt-4o-mini,OpenAI,206,valid
+GPT_gpt-4o-mini_DES_021,DES_021,Descriptive,business,GPT,gpt-4o-mini,OpenAI,202,valid
+GPT_gpt-4o-mini_DES_022,DES_022,Descriptive,business,GPT,gpt-4o-mini,OpenAI,209,valid
+GPT_gpt-4o-mini_DES_023,DES_023,Descriptive,business,GPT,gpt-4o-mini,OpenAI,203,valid
+GPT_gpt-4o-mini_DES_024,DES_024,Descriptive,business,GPT,gpt-4o-mini,OpenAI,207,valid
+GPT_gpt-4o-mini_DES_025,DES_025,Descriptive,business,GPT,gpt-4o-mini,OpenAI,209,valid
+GPT_gpt-4o-mini_DES_026,DES_026,Descriptive,business,GPT,gpt-4o-mini,OpenAI,212,valid
+GPT_gpt-4o-mini_DES_027,DES_027,Descriptive,business,GPT,gpt-4o-mini,OpenAI,206,valid
+GPT_gpt-4o-mini_DES_028,DES_028,Descriptive,business,GPT,gpt-4o-mini,OpenAI,200,valid
+GPT_gpt-4o-mini_DES_029,DES_029,Descriptive,business,GPT,gpt-4o-mini,OpenAI,204,valid
+GPT_gpt-4o-mini_DES_030,DES_030,Descriptive,business,GPT,gpt-4o-mini,OpenAI,207,valid
+GPT_gpt-4o-mini_DES_031,DES_031,Descriptive,career,GPT,gpt-4o-mini,OpenAI,207,valid
+GPT_gpt-4o-mini_DES_032,DES_032,Descriptive,career,GPT,gpt-4o-mini,OpenAI,215,valid
+GPT_gpt-4o-mini_DES_033,DES_033,Descriptive,career,GPT,gpt-4o-mini,OpenAI,204,valid
+GPT_gpt-4o-mini_DES_034,DES_034,Descriptive,career,GPT,gpt-4o-mini,OpenAI,189,valid
+GPT_gpt-4o-mini_DES_035,DES_035,Descriptive,career,GPT,gpt-4o-mini,OpenAI,200,valid
+GPT_gpt-4o-mini_DES_036,DES_036,Descriptive,career,GPT,gpt-4o-mini,OpenAI,205,valid
+GPT_gpt-4o-mini_DES_037,DES_037,Descriptive,career,GPT,gpt-4o-mini,OpenAI,203,valid
+GPT_gpt-4o-mini_DES_038,DES_038,Descriptive,career,GPT,gpt-4o-mini,OpenAI,211,valid
+GPT_gpt-4o-mini_DES_039,DES_039,Descriptive,career,GPT,gpt-4o-mini,OpenAI,209,valid
+GPT_gpt-4o-mini_DES_040,DES_040,Descriptive,career,GPT,gpt-4o-mini,OpenAI,204,valid
+GPT_gpt-4o-mini_DES_041,DES_041,Descriptive,personal,GPT,gpt-4o-mini,OpenAI,205,valid
+GPT_gpt-4o-mini_DES_042,DES_042,Descriptive,personal,GPT,gpt-4o-mini,OpenAI,206,valid
+GPT_gpt-4o-mini_DES_043,DES_043,Descriptive,personal,GPT,gpt-4o-mini,OpenAI,209,valid
+GPT_gpt-4o-mini_DES_044,DES_044,Descriptive,personal,GPT,gpt-4o-mini,OpenAI,204,valid
+GPT_gpt-4o-mini_DES_045,DES_045,Descriptive,personal,GPT,gpt-4o-mini,OpenAI,200,valid
+GPT_gpt-4o-mini_DES_046,DES_046,Descriptive,personal,GPT,gpt-4o-mini,OpenAI,206,valid
+GPT_gpt-4o-mini_DES_047,DES_047,Descriptive,personal,GPT,gpt-4o-mini,OpenAI,200,valid
+GPT_gpt-4o-mini_DES_048,DES_048,Descriptive,personal,GPT,gpt-4o-mini,OpenAI,198,valid
+GPT_gpt-4o-mini_DES_049,DES_049,Descriptive,personal,GPT,gpt-4o-mini,OpenAI,205,valid
+GPT_gpt-4o-mini_DES_050,DES_050,Descriptive,personal,GPT,gpt-4o-mini,OpenAI,206,valid
+GPT_gpt-4o-mini_ARG_001,ARG_001,Argumentative,academic,GPT,gpt-4o-mini,OpenAI,218,valid
+GPT_gpt-4o-mini_ARG_002,ARG_002,Argumentative,academic,GPT,gpt-4o-mini,OpenAI,213,valid
+GPT_gpt-4o-mini_ARG_003,ARG_003,Argumentative,academic,GPT,gpt-4o-mini,OpenAI,208,valid
+GPT_gpt-4o-mini_ARG_004,ARG_004,Argumentative,academic,GPT,gpt-4o-mini,OpenAI,202,valid
+GPT_gpt-4o-mini_ARG_005,ARG_005,Argumentative,academic,GPT,gpt-4o-mini,OpenAI,208,valid
+GPT_gpt-4o-mini_ARG_006,ARG_006,Argumentative,academic,GPT,gpt-4o-mini,OpenAI,207,valid
+GPT_gpt-4o-mini_ARG_007,ARG_007,Argumentative,academic,GPT,gpt-4o-mini,OpenAI,204,valid
+GPT_gpt-4o-mini_ARG_008,ARG_008,Argumentative,academic,GPT,gpt-4o-mini,OpenAI,204,valid
+GPT_gpt-4o-mini_ARG_009,ARG_009,Argumentative,academic,GPT,gpt-4o-mini,OpenAI,206,valid
+GPT_gpt-4o-mini_ARG_010,ARG_010,Argumentative,academic,GPT,gpt-4o-mini,OpenAI,218,valid
+GPT_gpt-4o-mini_ARG_011,ARG_011,Argumentative,academic,GPT,gpt-4o-mini,OpenAI,205,valid
+GPT_gpt-4o-mini_ARG_012,ARG_012,Argumentative,academic,GPT,gpt-4o-mini,OpenAI,201,valid
+GPT_gpt-4o-mini_ARG_013,ARG_013,Argumentative,academic,GPT,gpt-4o-mini,OpenAI,220,valid
+GPT_gpt-4o-mini_ARG_014,ARG_014,Argumentative,academic,GPT,gpt-4o-mini,OpenAI,206,valid
+GPT_gpt-4o-mini_ARG_015,ARG_015,Argumentative,academic,GPT,gpt-4o-mini,OpenAI,212,valid
+GPT_gpt-4o-mini_ARG_016,ARG_016,Argumentative,academic,GPT,gpt-4o-mini,OpenAI,208,valid
+GPT_gpt-4o-mini_ARG_017,ARG_017,Argumentative,academic,GPT,gpt-4o-mini,OpenAI,214,valid
+GPT_gpt-4o-mini_ARG_018,ARG_018,Argumentative,academic,GPT,gpt-4o-mini,OpenAI,215,valid
+GPT_gpt-4o-mini_ARG_019,ARG_019,Argumentative,academic,GPT,gpt-4o-mini,OpenAI,220,valid
+GPT_gpt-4o-mini_ARG_020,ARG_020,Argumentative,academic,GPT,gpt-4o-mini,OpenAI,209,valid
+GPT_gpt-4o-mini_ARG_021,ARG_021,Argumentative,business,GPT,gpt-4o-mini,OpenAI,207,valid
+GPT_gpt-4o-mini_ARG_022,ARG_022,Argumentative,business,GPT,gpt-4o-mini,OpenAI,206,valid
+GPT_gpt-4o-mini_ARG_023,ARG_023,Argumentative,business,GPT,gpt-4o-mini,OpenAI,203,valid
+GPT_gpt-4o-mini_ARG_024,ARG_024,Argumentative,business,GPT,gpt-4o-mini,OpenAI,212,valid
+GPT_gpt-4o-mini_ARG_025,ARG_025,Argumentative,business,GPT,gpt-4o-mini,OpenAI,213,valid
+GPT_gpt-4o-mini_ARG_026,ARG_026,Argumentative,business,GPT,gpt-4o-mini,OpenAI,208,valid
+GPT_gpt-4o-mini_ARG_027,ARG_027,Argumentative,business,GPT,gpt-4o-mini,OpenAI,213,valid
+GPT_gpt-4o-mini_ARG_028,ARG_028,Argumentative,business,GPT,gpt-4o-mini,OpenAI,208,valid
+GPT_gpt-4o-mini_ARG_029,ARG_029,Argumentative,business,GPT,gpt-4o-mini,OpenAI,220,valid
+GPT_gpt-4o-mini_ARG_030,ARG_030,Argumentative,business,GPT,gpt-4o-mini,OpenAI,220,valid
+GPT_gpt-4o-mini_ARG_031,ARG_031,Argumentative,career,GPT,gpt-4o-mini,OpenAI,207,valid
+GPT_gpt-4o-mini_ARG_032,ARG_032,Argumentative,career,GPT,gpt-4o-mini,OpenAI,208,valid
+GPT_gpt-4o-mini_ARG_033,ARG_033,Argumentative,career,GPT,gpt-4o-mini,OpenAI,215,valid
+GPT_gpt-4o-mini_ARG_034,ARG_034,Argumentative,career,GPT,gpt-4o-mini,OpenAI,216,valid
+GPT_gpt-4o-mini_ARG_035,ARG_035,Argumentative,career,GPT,gpt-4o-mini,OpenAI,205,valid
+GPT_gpt-4o-mini_ARG_036,ARG_036,Argumentative,career,GPT,gpt-4o-mini,OpenAI,209,valid
+GPT_gpt-4o-mini_ARG_037,ARG_037,Argumentative,career,GPT,gpt-4o-mini,OpenAI,214,valid
+GPT_gpt-4o-mini_ARG_038,ARG_038,Argumentative,career,GPT,gpt-4o-mini,OpenAI,209,valid
+GPT_gpt-4o-mini_ARG_039,ARG_039,Argumentative,career,GPT,gpt-4o-mini,OpenAI,212,valid
+GPT_gpt-4o-mini_ARG_040,ARG_040,Argumentative,career,GPT,gpt-4o-mini,OpenAI,203,valid
+GPT_gpt-4o-mini_ARG_041,ARG_041,Argumentative,personal,GPT,gpt-4o-mini,OpenAI,207,valid
+GPT_gpt-4o-mini_ARG_042,ARG_042,Argumentative,personal,GPT,gpt-4o-mini,OpenAI,208,valid
+GPT_gpt-4o-mini_ARG_043,ARG_043,Argumentative,personal,GPT,gpt-4o-mini,OpenAI,204,valid
+GPT_gpt-4o-mini_ARG_044,ARG_044,Argumentative,personal,GPT,gpt-4o-mini,OpenAI,197,valid
+GPT_gpt-4o-mini_ARG_045,ARG_045,Argumentative,personal,GPT,gpt-4o-mini,OpenAI,217,valid
+GPT_gpt-4o-mini_ARG_046,ARG_046,Argumentative,personal,GPT,gpt-4o-mini,OpenAI,208,valid
+GPT_gpt-4o-mini_ARG_047,ARG_047,Argumentative,personal,GPT,gpt-4o-mini,OpenAI,207,valid
+GPT_gpt-4o-mini_ARG_048,ARG_048,Argumentative,personal,GPT,gpt-4o-mini,OpenAI,212,valid
+GPT_gpt-4o-mini_ARG_049,ARG_049,Argumentative,personal,GPT,gpt-4o-mini,OpenAI,216,valid
+GPT_gpt-4o-mini_ARG_050,ARG_050,Argumentative,personal,GPT,gpt-4o-mini,OpenAI,211,valid
+GPT_gpt-4o-mini_DIA_001,DIA_001,Dialogue,academic,GPT,gpt-4o-mini,OpenAI,212,valid
+GPT_gpt-4o-mini_DIA_002,DIA_002,Dialogue,academic,GPT,gpt-4o-mini,OpenAI,212,valid
+GPT_gpt-4o-mini_DIA_003,DIA_003,Dialogue,academic,GPT,gpt-4o-mini,OpenAI,208,valid
+GPT_gpt-4o-mini_DIA_004,DIA_004,Dialogue,academic,GPT,gpt-4o-mini,OpenAI,206,valid
+GPT_gpt-4o-mini_DIA_005,DIA_005,Dialogue,academic,GPT,gpt-4o-mini,OpenAI,211,valid
+GPT_gpt-4o-mini_DIA_006,DIA_006,Dialogue,academic,GPT,gpt-4o-mini,OpenAI,210,valid
+GPT_gpt-4o-mini_DIA_007,DIA_007,Dialogue,academic,GPT,gpt-4o-mini,OpenAI,216,valid
+GPT_gpt-4o-mini_DIA_008,DIA_008,Dialogue,academic,GPT,gpt-4o-mini,OpenAI,209,valid
+GPT_gpt-4o-mini_DIA_009,DIA_009,Dialogue,academic,GPT,gpt-4o-mini,OpenAI,216,valid
+GPT_gpt-4o-mini_DIA_010,DIA_010,Dialogue,academic,GPT,gpt-4o-mini,OpenAI,214,valid
+GPT_gpt-4o-mini_DIA_011,DIA_011,Dialogue,academic,GPT,gpt-4o-mini,OpenAI,213,valid
+GPT_gpt-4o-mini_DIA_012,DIA_012,Dialogue,academic,GPT,gpt-4o-mini,OpenAI,214,valid
+GPT_gpt-4o-mini_DIA_013,DIA_013,Dialogue,academic,GPT,gpt-4o-mini,OpenAI,206,valid
+GPT_gpt-4o-mini_DIA_014,DIA_014,Dialogue,academic,GPT,gpt-4o-mini,OpenAI,202,valid
+GPT_gpt-4o-mini_DIA_015,DIA_015,Dialogue,academic,GPT,gpt-4o-mini,OpenAI,206,valid
+GPT_gpt-4o-mini_DIA_016,DIA_016,Dialogue,academic,GPT,gpt-4o-mini,OpenAI,215,valid
+GPT_gpt-4o-mini_DIA_017,DIA_017,Dialogue,academic,GPT,gpt-4o-mini,OpenAI,211,valid
+GPT_gpt-4o-mini_DIA_018,DIA_018,Dialogue,academic,GPT,gpt-4o-mini,OpenAI,213,valid
+GPT_gpt-4o-mini_DIA_019,DIA_019,Dialogue,academic,GPT,gpt-4o-mini,OpenAI,208,valid
+GPT_gpt-4o-mini_DIA_020,DIA_020,Dialogue,academic,GPT,gpt-4o-mini,OpenAI,216,valid
+GPT_gpt-4o-mini_DIA_021,DIA_021,Dialogue,business,GPT,gpt-4o-mini,OpenAI,216,valid
+GPT_gpt-4o-mini_DIA_022,DIA_022,Dialogue,business,GPT,gpt-4o-mini,OpenAI,220,valid
+GPT_gpt-4o-mini_DIA_023,DIA_023,Dialogue,business,GPT,gpt-4o-mini,OpenAI,218,valid
+GPT_gpt-4o-mini_DIA_024,DIA_024,Dialogue,business,GPT,gpt-4o-mini,OpenAI,204,valid
+GPT_gpt-4o-mini_DIA_025,DIA_025,Dialogue,business,GPT,gpt-4o-mini,OpenAI,210,valid
+GPT_gpt-4o-mini_DIA_026,DIA_026,Dialogue,business,GPT,gpt-4o-mini,OpenAI,215,valid
+GPT_gpt-4o-mini_DIA_027,DIA_027,Dialogue,business,GPT,gpt-4o-mini,OpenAI,209,valid
+GPT_gpt-4o-mini_DIA_028,DIA_028,Dialogue,business,GPT,gpt-4o-mini,OpenAI,216,valid
+GPT_gpt-4o-mini_DIA_029,DIA_029,Dialogue,business,GPT,gpt-4o-mini,OpenAI,217,valid
+GPT_gpt-4o-mini_DIA_030,DIA_030,Dialogue,business,GPT,gpt-4o-mini,OpenAI,218,valid
+GPT_gpt-4o-mini_DIA_031,DIA_031,Dialogue,career,GPT,gpt-4o-mini,OpenAI,212,valid
+GPT_gpt-4o-mini_DIA_032,DIA_032,Dialogue,career,GPT,gpt-4o-mini,OpenAI,220,valid
+GPT_gpt-4o-mini_DIA_033,DIA_033,Dialogue,career,GPT,gpt-4o-mini,OpenAI,208,valid
+GPT_gpt-4o-mini_DIA_034,DIA_034,Dialogue,career,GPT,gpt-4o-mini,OpenAI,191,valid
+GPT_gpt-4o-mini_DIA_035,DIA_035,Dialogue,career,GPT,gpt-4o-mini,OpenAI,214,valid
+GPT_gpt-4o-mini_DIA_036,DIA_036,Dialogue,career,GPT,gpt-4o-mini,OpenAI,209,valid
+GPT_gpt-4o-mini_DIA_037,DIA_037,Dialogue,career,GPT,gpt-4o-mini,OpenAI,216,valid
+GPT_gpt-4o-mini_DIA_038,DIA_038,Dialogue,career,GPT,gpt-4o-mini,OpenAI,220,valid
+GPT_gpt-4o-mini_DIA_039,DIA_039,Dialogue,career,GPT,gpt-4o-mini,OpenAI,216,valid
+GPT_gpt-4o-mini_DIA_040,DIA_040,Dialogue,career,GPT,gpt-4o-mini,OpenAI,216,valid
+GPT_gpt-4o-mini_DIA_041,DIA_041,Dialogue,personal,GPT,gpt-4o-mini,OpenAI,215,valid
+GPT_gpt-4o-mini_DIA_042,DIA_042,Dialogue,personal,GPT,gpt-4o-mini,OpenAI,217,valid
+GPT_gpt-4o-mini_DIA_043,DIA_043,Dialogue,personal,GPT,gpt-4o-mini,OpenAI,213,valid
+GPT_gpt-4o-mini_DIA_044,DIA_044,Dialogue,personal,GPT,gpt-4o-mini,OpenAI,220,valid
+GPT_gpt-4o-mini_DIA_045,DIA_045,Dialogue,personal,GPT,gpt-4o-mini,OpenAI,212,valid
+GPT_gpt-4o-mini_DIA_046,DIA_046,Dialogue,personal,GPT,gpt-4o-mini,OpenAI,209,valid
+GPT_gpt-4o-mini_DIA_047,DIA_047,Dialogue,personal,GPT,gpt-4o-mini,OpenAI,215,valid
+GPT_gpt-4o-mini_DIA_048,DIA_048,Dialogue,personal,GPT,gpt-4o-mini,OpenAI,214,valid
+GPT_gpt-4o-mini_DIA_049,DIA_049,Dialogue,personal,GPT,gpt-4o-mini,OpenAI,206,valid
+GPT_gpt-4o-mini_DIA_050,DIA_050,Dialogue,personal,GPT,gpt-4o-mini,OpenAI,208,valid
+Claude_claude-haiku-4-5-20251001_NAR_001,NAR_001,Narrative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,203,valid
+Claude_claude-haiku-4-5-20251001_NAR_002,NAR_002,Narrative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid
+Claude_claude-haiku-4-5-20251001_NAR_003,NAR_003,Narrative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,205,valid
+Claude_claude-haiku-4-5-20251001_NAR_004,NAR_004,Narrative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,210,valid
+Claude_claude-haiku-4-5-20251001_NAR_005,NAR_005,Narrative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,213,valid
+Claude_claude-haiku-4-5-20251001_NAR_006,NAR_006,Narrative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,215,valid
+Claude_claude-haiku-4-5-20251001_NAR_007,NAR_007,Narrative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,212,valid
+Claude_claude-haiku-4-5-20251001_NAR_008,NAR_008,Narrative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,211,valid
+Claude_claude-haiku-4-5-20251001_NAR_009,NAR_009,Narrative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,208,valid
+Claude_claude-haiku-4-5-20251001_NAR_010,NAR_010,Narrative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,210,valid
+Claude_claude-haiku-4-5-20251001_NAR_011,NAR_011,Narrative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,204,valid
+Claude_claude-haiku-4-5-20251001_NAR_012,NAR_012,Narrative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,213,valid
+Claude_claude-haiku-4-5-20251001_NAR_013,NAR_013,Narrative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,214,valid
+Claude_claude-haiku-4-5-20251001_NAR_014,NAR_014,Narrative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid
+Claude_claude-haiku-4-5-20251001_NAR_015,NAR_015,Narrative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,214,valid
+Claude_claude-haiku-4-5-20251001_NAR_016,NAR_016,Narrative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,219,valid
+Claude_claude-haiku-4-5-20251001_NAR_017,NAR_017,Narrative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,219,valid
+Claude_claude-haiku-4-5-20251001_NAR_018,NAR_018,Narrative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid
+Claude_claude-haiku-4-5-20251001_NAR_019,NAR_019,Narrative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,210,valid
+Claude_claude-haiku-4-5-20251001_NAR_020,NAR_020,Narrative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,212,valid
+Claude_claude-haiku-4-5-20251001_NAR_021,NAR_021,Narrative,business,Claude,claude-haiku-4-5-20251001,Anthropic,211,valid
+Claude_claude-haiku-4-5-20251001_NAR_022,NAR_022,Narrative,business,Claude,claude-haiku-4-5-20251001,Anthropic,203,valid
+Claude_claude-haiku-4-5-20251001_NAR_023,NAR_023,Narrative,business,Claude,claude-haiku-4-5-20251001,Anthropic,212,valid
+Claude_claude-haiku-4-5-20251001_NAR_024,NAR_024,Narrative,business,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid
+Claude_claude-haiku-4-5-20251001_NAR_025,NAR_025,Narrative,business,Claude,claude-haiku-4-5-20251001,Anthropic,211,valid
+Claude_claude-haiku-4-5-20251001_NAR_026,NAR_026,Narrative,business,Claude,claude-haiku-4-5-20251001,Anthropic,199,valid
+Claude_claude-haiku-4-5-20251001_NAR_027,NAR_027,Narrative,business,Claude,claude-haiku-4-5-20251001,Anthropic,206,valid
+Claude_claude-haiku-4-5-20251001_NAR_028,NAR_028,Narrative,business,Claude,claude-haiku-4-5-20251001,Anthropic,219,valid
+Claude_claude-haiku-4-5-20251001_NAR_029,NAR_029,Narrative,business,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid
+Claude_claude-haiku-4-5-20251001_NAR_030,NAR_030,Narrative,business,Claude,claude-haiku-4-5-20251001,Anthropic,208,valid
+Claude_claude-haiku-4-5-20251001_NAR_031,NAR_031,Narrative,career,Claude,claude-haiku-4-5-20251001,Anthropic,214,valid
+Claude_claude-haiku-4-5-20251001_NAR_032,NAR_032,Narrative,career,Claude,claude-haiku-4-5-20251001,Anthropic,216,valid
+Claude_claude-haiku-4-5-20251001_NAR_033,NAR_033,Narrative,career,Claude,claude-haiku-4-5-20251001,Anthropic,211,valid
+Claude_claude-haiku-4-5-20251001_NAR_034,NAR_034,Narrative,career,Claude,claude-haiku-4-5-20251001,Anthropic,215,valid
+Claude_claude-haiku-4-5-20251001_NAR_035,NAR_035,Narrative,career,Claude,claude-haiku-4-5-20251001,Anthropic,217,valid
+Claude_claude-haiku-4-5-20251001_NAR_036,NAR_036,Narrative,career,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid
+Claude_claude-haiku-4-5-20251001_NAR_037,NAR_037,Narrative,career,Claude,claude-haiku-4-5-20251001,Anthropic,219,valid
+Claude_claude-haiku-4-5-20251001_NAR_038,NAR_038,Narrative,career,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid
+Claude_claude-haiku-4-5-20251001_NAR_039,NAR_039,Narrative,career,Claude,claude-haiku-4-5-20251001,Anthropic,216,valid
+Claude_claude-haiku-4-5-20251001_NAR_040,NAR_040,Narrative,career,Claude,claude-haiku-4-5-20251001,Anthropic,212,valid
+Claude_claude-haiku-4-5-20251001_NAR_041,NAR_041,Narrative,personal,Claude,claude-haiku-4-5-20251001,Anthropic,201,valid
+Claude_claude-haiku-4-5-20251001_NAR_042,NAR_042,Narrative,personal,Claude,claude-haiku-4-5-20251001,Anthropic,218,valid
+Claude_claude-haiku-4-5-20251001_NAR_043,NAR_043,Narrative,personal,Claude,claude-haiku-4-5-20251001,Anthropic,208,valid
+Claude_claude-haiku-4-5-20251001_NAR_044,NAR_044,Narrative,personal,Claude,claude-haiku-4-5-20251001,Anthropic,196,valid
+Claude_claude-haiku-4-5-20251001_NAR_045,NAR_045,Narrative,personal,Claude,claude-haiku-4-5-20251001,Anthropic,212,valid
+Claude_claude-haiku-4-5-20251001_NAR_046,NAR_046,Narrative,personal,Claude,claude-haiku-4-5-20251001,Anthropic,215,valid
+Claude_claude-haiku-4-5-20251001_NAR_047,NAR_047,Narrative,personal,Claude,claude-haiku-4-5-20251001,Anthropic,200,valid
+Claude_claude-haiku-4-5-20251001_NAR_048,NAR_048,Narrative,personal,Claude,claude-haiku-4-5-20251001,Anthropic,214,valid
+Claude_claude-haiku-4-5-20251001_NAR_049,NAR_049,Narrative,personal,Claude,claude-haiku-4-5-20251001,Anthropic,210,valid
+Claude_claude-haiku-4-5-20251001_NAR_050,NAR_050,Narrative,personal,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid
+Claude_claude-haiku-4-5-20251001_DES_001,DES_001,Descriptive,academic,Claude,claude-haiku-4-5-20251001,Anthropic,212,valid
+Claude_claude-haiku-4-5-20251001_DES_002,DES_002,Descriptive,academic,Claude,claude-haiku-4-5-20251001,Anthropic,217,valid
+Claude_claude-haiku-4-5-20251001_DES_003,DES_003,Descriptive,academic,Claude,claude-haiku-4-5-20251001,Anthropic,200,valid
+Claude_claude-haiku-4-5-20251001_DES_004,DES_004,Descriptive,academic,Claude,claude-haiku-4-5-20251001,Anthropic,206,valid
+Claude_claude-haiku-4-5-20251001_DES_005,DES_005,Descriptive,academic,Claude,claude-haiku-4-5-20251001,Anthropic,208,valid
+Claude_claude-haiku-4-5-20251001_DES_006,DES_006,Descriptive,academic,Claude,claude-haiku-4-5-20251001,Anthropic,217,valid
+Claude_claude-haiku-4-5-20251001_DES_007,DES_007,Descriptive,academic,Claude,claude-haiku-4-5-20251001,Anthropic,212,valid
+Claude_claude-haiku-4-5-20251001_DES_008,DES_008,Descriptive,academic,Claude,claude-haiku-4-5-20251001,Anthropic,201,valid
+Claude_claude-haiku-4-5-20251001_DES_009,DES_009,Descriptive,academic,Claude,claude-haiku-4-5-20251001,Anthropic,216,valid
+Claude_claude-haiku-4-5-20251001_DES_010,DES_010,Descriptive,academic,Claude,claude-haiku-4-5-20251001,Anthropic,218,valid
+Claude_claude-haiku-4-5-20251001_DES_011,DES_011,Descriptive,academic,Claude,claude-haiku-4-5-20251001,Anthropic,196,valid
+Claude_claude-haiku-4-5-20251001_DES_012,DES_012,Descriptive,academic,Claude,claude-haiku-4-5-20251001,Anthropic,197,valid
+Claude_claude-haiku-4-5-20251001_DES_013,DES_013,Descriptive,academic,Claude,claude-haiku-4-5-20251001,Anthropic,201,valid
+Claude_claude-haiku-4-5-20251001_DES_014,DES_014,Descriptive,academic,Claude,claude-haiku-4-5-20251001,Anthropic,219,valid
+Claude_claude-haiku-4-5-20251001_DES_015,DES_015,Descriptive,academic,Claude,claude-haiku-4-5-20251001,Anthropic,209,valid
+Claude_claude-haiku-4-5-20251001_DES_016,DES_016,Descriptive,academic,Claude,claude-haiku-4-5-20251001,Anthropic,207,valid
+Claude_claude-haiku-4-5-20251001_DES_017,DES_017,Descriptive,academic,Claude,claude-haiku-4-5-20251001,Anthropic,207,valid
+Claude_claude-haiku-4-5-20251001_DES_018,DES_018,Descriptive,academic,Claude,claude-haiku-4-5-20251001,Anthropic,212,valid
+Claude_claude-haiku-4-5-20251001_DES_019,DES_019,Descriptive,academic,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid
+Claude_claude-haiku-4-5-20251001_DES_020,DES_020,Descriptive,academic,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid
+Claude_claude-haiku-4-5-20251001_DES_021,DES_021,Descriptive,business,Claude,claude-haiku-4-5-20251001,Anthropic,217,valid
+Claude_claude-haiku-4-5-20251001_DES_022,DES_022,Descriptive,business,Claude,claude-haiku-4-5-20251001,Anthropic,206,valid
+Claude_claude-haiku-4-5-20251001_DES_023,DES_023,Descriptive,business,Claude,claude-haiku-4-5-20251001,Anthropic,210,valid
+Claude_claude-haiku-4-5-20251001_DES_024,DES_024,Descriptive,business,Claude,claude-haiku-4-5-20251001,Anthropic,213,valid
+Claude_claude-haiku-4-5-20251001_DES_025,DES_025,Descriptive,business,Claude,claude-haiku-4-5-20251001,Anthropic,203,valid
+Claude_claude-haiku-4-5-20251001_DES_026,DES_026,Descriptive,business,Claude,claude-haiku-4-5-20251001,Anthropic,195,valid
+Claude_claude-haiku-4-5-20251001_DES_027,DES_027,Descriptive,business,Claude,claude-haiku-4-5-20251001,Anthropic,209,valid
+Claude_claude-haiku-4-5-20251001_DES_028,DES_028,Descriptive,business,Claude,claude-haiku-4-5-20251001,Anthropic,209,valid
+Claude_claude-haiku-4-5-20251001_DES_029,DES_029,Descriptive,business,Claude,claude-haiku-4-5-20251001,Anthropic,210,valid
+Claude_claude-haiku-4-5-20251001_DES_030,DES_030,Descriptive,business,Claude,claude-haiku-4-5-20251001,Anthropic,207,valid
+Claude_claude-haiku-4-5-20251001_DES_031,DES_031,Descriptive,career,Claude,claude-haiku-4-5-20251001,Anthropic,212,valid
+Claude_claude-haiku-4-5-20251001_DES_032,DES_032,Descriptive,career,Claude,claude-haiku-4-5-20251001,Anthropic,210,valid
+Claude_claude-haiku-4-5-20251001_DES_033,DES_033,Descriptive,career,Claude,claude-haiku-4-5-20251001,Anthropic,206,valid
+Claude_claude-haiku-4-5-20251001_DES_034,DES_034,Descriptive,career,Claude,claude-haiku-4-5-20251001,Anthropic,190,valid
+Claude_claude-haiku-4-5-20251001_DES_035,DES_035,Descriptive,career,Claude,claude-haiku-4-5-20251001,Anthropic,203,valid
+Claude_claude-haiku-4-5-20251001_DES_036,DES_036,Descriptive,career,Claude,claude-haiku-4-5-20251001,Anthropic,201,valid
+Claude_claude-haiku-4-5-20251001_DES_037,DES_037,Descriptive,career,Claude,claude-haiku-4-5-20251001,Anthropic,214,valid
+Claude_claude-haiku-4-5-20251001_DES_038,DES_038,Descriptive,career,Claude,claude-haiku-4-5-20251001,Anthropic,205,valid
+Claude_claude-haiku-4-5-20251001_DES_039,DES_039,Descriptive,career,Claude,claude-haiku-4-5-20251001,Anthropic,206,valid
+Claude_claude-haiku-4-5-20251001_DES_040,DES_040,Descriptive,career,Claude,claude-haiku-4-5-20251001,Anthropic,208,valid
+Claude_claude-haiku-4-5-20251001_DES_041,DES_041,Descriptive,personal,Claude,claude-haiku-4-5-20251001,Anthropic,215,valid
+Claude_claude-haiku-4-5-20251001_DES_042,DES_042,Descriptive,personal,Claude,claude-haiku-4-5-20251001,Anthropic,207,valid
+Claude_claude-haiku-4-5-20251001_DES_043,DES_043,Descriptive,personal,Claude,claude-haiku-4-5-20251001,Anthropic,209,valid
+Claude_claude-haiku-4-5-20251001_DES_044,DES_044,Descriptive,personal,Claude,claude-haiku-4-5-20251001,Anthropic,214,valid
+Claude_claude-haiku-4-5-20251001_DES_045,DES_045,Descriptive,personal,Claude,claude-haiku-4-5-20251001,Anthropic,218,valid
+Claude_claude-haiku-4-5-20251001_DES_046,DES_046,Descriptive,personal,Claude,claude-haiku-4-5-20251001,Anthropic,207,valid
+Claude_claude-haiku-4-5-20251001_DES_047,DES_047,Descriptive,personal,Claude,claude-haiku-4-5-20251001,Anthropic,183,valid
+Claude_claude-haiku-4-5-20251001_DES_048,DES_048,Descriptive,personal,Claude,claude-haiku-4-5-20251001,Anthropic,199,valid
+Claude_claude-haiku-4-5-20251001_DES_049,DES_049,Descriptive,personal,Claude,claude-haiku-4-5-20251001,Anthropic,197,valid
+Claude_claude-haiku-4-5-20251001_DES_050,DES_050,Descriptive,personal,Claude,claude-haiku-4-5-20251001,Anthropic,217,valid
+Claude_claude-haiku-4-5-20251001_ARG_001,ARG_001,Argumentative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,218,valid
+Claude_claude-haiku-4-5-20251001_ARG_002,ARG_002,Argumentative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,218,valid
+Claude_claude-haiku-4-5-20251001_ARG_003,ARG_003,Argumentative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,213,valid
+Claude_claude-haiku-4-5-20251001_ARG_004,ARG_004,Argumentative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,212,valid
+Claude_claude-haiku-4-5-20251001_ARG_005,ARG_005,Argumentative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid
+Claude_claude-haiku-4-5-20251001_ARG_006,ARG_006,Argumentative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid
+Claude_claude-haiku-4-5-20251001_ARG_007,ARG_007,Argumentative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,215,valid
+Claude_claude-haiku-4-5-20251001_ARG_008,ARG_008,Argumentative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,209,valid
+Claude_claude-haiku-4-5-20251001_ARG_009,ARG_009,Argumentative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,216,valid
+Claude_claude-haiku-4-5-20251001_ARG_010,ARG_010,Argumentative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,218,valid
+Claude_claude-haiku-4-5-20251001_ARG_011,ARG_011,Argumentative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,216,valid
+Claude_claude-haiku-4-5-20251001_ARG_012,ARG_012,Argumentative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid
+Claude_claude-haiku-4-5-20251001_ARG_013,ARG_013,Argumentative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid
+Claude_claude-haiku-4-5-20251001_ARG_014,ARG_014,Argumentative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,209,valid
+Claude_claude-haiku-4-5-20251001_ARG_015,ARG_015,Argumentative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,215,valid
+Claude_claude-haiku-4-5-20251001_ARG_016,ARG_016,Argumentative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid
+Claude_claude-haiku-4-5-20251001_ARG_017,ARG_017,Argumentative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,215,valid
+Claude_claude-haiku-4-5-20251001_ARG_018,ARG_018,Argumentative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,214,valid
+Claude_claude-haiku-4-5-20251001_ARG_019,ARG_019,Argumentative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid
+Claude_claude-haiku-4-5-20251001_ARG_020,ARG_020,Argumentative,academic,Claude,claude-haiku-4-5-20251001,Anthropic,213,valid
+Claude_claude-haiku-4-5-20251001_ARG_021,ARG_021,Argumentative,business,Claude,claude-haiku-4-5-20251001,Anthropic,209,valid
+Claude_claude-haiku-4-5-20251001_ARG_022,ARG_022,Argumentative,business,Claude,claude-haiku-4-5-20251001,Anthropic,196,valid
+Claude_claude-haiku-4-5-20251001_ARG_023,ARG_023,Argumentative,business,Claude,claude-haiku-4-5-20251001,Anthropic,213,valid
+Claude_claude-haiku-4-5-20251001_ARG_024,ARG_024,Argumentative,business,Claude,claude-haiku-4-5-20251001,Anthropic,201,valid
+Claude_claude-haiku-4-5-20251001_ARG_025,ARG_025,Argumentative,business,Claude,claude-haiku-4-5-20251001,Anthropic,202,valid
+Claude_claude-haiku-4-5-20251001_ARG_026,ARG_026,Argumentative,business,Claude,claude-haiku-4-5-20251001,Anthropic,217,valid
+Claude_claude-haiku-4-5-20251001_ARG_027,ARG_027,Argumentative,business,Claude,claude-haiku-4-5-20251001,Anthropic,214,valid
+Claude_claude-haiku-4-5-20251001_ARG_028,ARG_028,Argumentative,business,Claude,claude-haiku-4-5-20251001,Anthropic,207,valid
+Claude_claude-haiku-4-5-20251001_ARG_029,ARG_029,Argumentative,business,Claude,claude-haiku-4-5-20251001,Anthropic,214,valid
+Claude_claude-haiku-4-5-20251001_ARG_030,ARG_030,Argumentative,business,Claude,claude-haiku-4-5-20251001,Anthropic,214,valid
+Claude_claude-haiku-4-5-20251001_ARG_031,ARG_031,Argumentative,career,Claude,claude-haiku-4-5-20251001,Anthropic,214,valid
+Claude_claude-haiku-4-5-20251001_ARG_032,ARG_032,Argumentative,career,Claude,claude-haiku-4-5-20251001,Anthropic,209,valid
+Claude_claude-haiku-4-5-20251001_ARG_033,ARG_033,Argumentative,career,Claude,claude-haiku-4-5-20251001,Anthropic,216,valid
+Claude_claude-haiku-4-5-20251001_ARG_034,ARG_034,Argumentative,career,Claude,claude-haiku-4-5-20251001,Anthropic,211,valid
+Claude_claude-haiku-4-5-20251001_ARG_035,ARG_035,Argumentative,career,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid
+Claude_claude-haiku-4-5-20251001_ARG_036,ARG_036,Argumentative,career,Claude,claude-haiku-4-5-20251001,Anthropic,207,valid
+Claude_claude-haiku-4-5-20251001_ARG_037,ARG_037,Argumentative,career,Claude,claude-haiku-4-5-20251001,Anthropic,211,valid
+Claude_claude-haiku-4-5-20251001_ARG_038,ARG_038,Argumentative,career,Claude,claude-haiku-4-5-20251001,Anthropic,215,valid
+Claude_claude-haiku-4-5-20251001_ARG_039,ARG_039,Argumentative,career,Claude,claude-haiku-4-5-20251001,Anthropic,218,valid
+Claude_claude-haiku-4-5-20251001_ARG_040,ARG_040,Argumentative,career,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid
+Claude_claude-haiku-4-5-20251001_ARG_041,ARG_041,Argumentative,personal,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid
+Claude_claude-haiku-4-5-20251001_ARG_042,ARG_042,Argumentative,personal,Claude,claude-haiku-4-5-20251001,Anthropic,212,valid
+Claude_claude-haiku-4-5-20251001_ARG_043,ARG_043,Argumentative,personal,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid
+Claude_claude-haiku-4-5-20251001_ARG_044,ARG_044,Argumentative,personal,Claude,claude-haiku-4-5-20251001,Anthropic,213,valid
+Claude_claude-haiku-4-5-20251001_ARG_045,ARG_045,Argumentative,personal,Claude,claude-haiku-4-5-20251001,Anthropic,216,valid
+Claude_claude-haiku-4-5-20251001_ARG_046,ARG_046,Argumentative,personal,Claude,claude-haiku-4-5-20251001,Anthropic,204,valid
+Claude_claude-haiku-4-5-20251001_ARG_047,ARG_047,Argumentative,personal,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid
+Claude_claude-haiku-4-5-20251001_ARG_048,ARG_048,Argumentative,personal,Claude,claude-haiku-4-5-20251001,Anthropic,214,valid
+Claude_claude-haiku-4-5-20251001_ARG_049,ARG_049,Argumentative,personal,Claude,claude-haiku-4-5-20251001,Anthropic,215,valid
+Claude_claude-haiku-4-5-20251001_ARG_050,ARG_050,Argumentative,personal,Claude,claude-haiku-4-5-20251001,Anthropic,210,valid
+Claude_claude-haiku-4-5-20251001_DIA_001,DIA_001,Dialogue,academic,Claude,claude-haiku-4-5-20251001,Anthropic,206,valid
+Claude_claude-haiku-4-5-20251001_DIA_002,DIA_002,Dialogue,academic,Claude,claude-haiku-4-5-20251001,Anthropic,209,valid
+Claude_claude-haiku-4-5-20251001_DIA_003,DIA_003,Dialogue,academic,Claude,claude-haiku-4-5-20251001,Anthropic,215,valid
+Claude_claude-haiku-4-5-20251001_DIA_004,DIA_004,Dialogue,academic,Claude,claude-haiku-4-5-20251001,Anthropic,211,valid
+Claude_claude-haiku-4-5-20251001_DIA_005,DIA_005,Dialogue,academic,Claude,claude-haiku-4-5-20251001,Anthropic,204,valid
+Claude_claude-haiku-4-5-20251001_DIA_006,DIA_006,Dialogue,academic,Claude,claude-haiku-4-5-20251001,Anthropic,202,valid
+Claude_claude-haiku-4-5-20251001_DIA_007,DIA_007,Dialogue,academic,Claude,claude-haiku-4-5-20251001,Anthropic,207,valid
+Claude_claude-haiku-4-5-20251001_DIA_008,DIA_008,Dialogue,academic,Claude,claude-haiku-4-5-20251001,Anthropic,215,valid
+Claude_claude-haiku-4-5-20251001_DIA_009,DIA_009,Dialogue,academic,Claude,claude-haiku-4-5-20251001,Anthropic,205,valid
+Claude_claude-haiku-4-5-20251001_DIA_010,DIA_010,Dialogue,academic,Claude,claude-haiku-4-5-20251001,Anthropic,208,valid
+Claude_claude-haiku-4-5-20251001_DIA_011,DIA_011,Dialogue,academic,Claude,claude-haiku-4-5-20251001,Anthropic,195,valid
+Claude_claude-haiku-4-5-20251001_DIA_012,DIA_012,Dialogue,academic,Claude,claude-haiku-4-5-20251001,Anthropic,199,valid
+Claude_claude-haiku-4-5-20251001_DIA_013,DIA_013,Dialogue,academic,Claude,claude-haiku-4-5-20251001,Anthropic,216,valid
+Claude_claude-haiku-4-5-20251001_DIA_014,DIA_014,Dialogue,academic,Claude,claude-haiku-4-5-20251001,Anthropic,215,valid
+Claude_claude-haiku-4-5-20251001_DIA_015,DIA_015,Dialogue,academic,Claude,claude-haiku-4-5-20251001,Anthropic,205,valid
+Claude_claude-haiku-4-5-20251001_DIA_016,DIA_016,Dialogue,academic,Claude,claude-haiku-4-5-20251001,Anthropic,206,valid
+Claude_claude-haiku-4-5-20251001_DIA_017,DIA_017,Dialogue,academic,Claude,claude-haiku-4-5-20251001,Anthropic,212,valid
+Claude_claude-haiku-4-5-20251001_DIA_018,DIA_018,Dialogue,academic,Claude,claude-haiku-4-5-20251001,Anthropic,210,valid
+Claude_claude-haiku-4-5-20251001_DIA_019,DIA_019,Dialogue,academic,Claude,claude-haiku-4-5-20251001,Anthropic,217,valid
+Claude_claude-haiku-4-5-20251001_DIA_020,DIA_020,Dialogue,academic,Claude,claude-haiku-4-5-20251001,Anthropic,210,valid
+Claude_claude-haiku-4-5-20251001_DIA_021,DIA_021,Dialogue,business,Claude,claude-haiku-4-5-20251001,Anthropic,208,valid
+Claude_claude-haiku-4-5-20251001_DIA_022,DIA_022,Dialogue,business,Claude,claude-haiku-4-5-20251001,Anthropic,211,valid
+Claude_claude-haiku-4-5-20251001_DIA_023,DIA_023,Dialogue,business,Claude,claude-haiku-4-5-20251001,Anthropic,192,valid
+Claude_claude-haiku-4-5-20251001_DIA_024,DIA_024,Dialogue,business,Claude,claude-haiku-4-5-20251001,Anthropic,220,valid
+Claude_claude-haiku-4-5-20251001_DIA_025,DIA_025,Dialogue,business,Claude,claude-haiku-4-5-20251001,Anthropic,196,valid
+Claude_claude-haiku-4-5-20251001_DIA_026,DIA_026,Dialogue,business,Claude,claude-haiku-4-5-20251001,Anthropic,193,valid
+Claude_claude-haiku-4-5-20251001_DIA_027,DIA_027,Dialogue,business,Claude,claude-haiku-4-5-20251001,Anthropic,206,valid
+Claude_claude-haiku-4-5-20251001_DIA_028,DIA_028,Dialogue,business,Claude,claude-haiku-4-5-20251001,Anthropic,203,valid
+Claude_claude-haiku-4-5-20251001_DIA_029,DIA_029,Dialogue,business,Claude,claude-haiku-4-5-20251001,Anthropic,202,valid
+Claude_claude-haiku-4-5-20251001_DIA_030,DIA_030,Dialogue,business,Claude,claude-haiku-4-5-20251001,Anthropic,207,valid
+Claude_claude-haiku-4-5-20251001_DIA_031,DIA_031,Dialogue,career,Claude,claude-haiku-4-5-20251001,Anthropic,213,valid
+Claude_claude-haiku-4-5-20251001_DIA_032,DIA_032,Dialogue,career,Claude,claude-haiku-4-5-20251001,Anthropic,203,valid
+Claude_claude-haiku-4-5-20251001_DIA_033,DIA_033,Dialogue,career,Claude,claude-haiku-4-5-20251001,Anthropic,214,valid
+Claude_claude-haiku-4-5-20251001_DIA_034,DIA_034,Dialogue,career,Claude,claude-haiku-4-5-20251001,Anthropic,197,valid
+Claude_claude-haiku-4-5-20251001_DIA_035,DIA_035,Dialogue,career,Claude,claude-haiku-4-5-20251001,Anthropic,201,valid
+Claude_claude-haiku-4-5-20251001_DIA_036,DIA_036,Dialogue,career,Claude,claude-haiku-4-5-20251001,Anthropic,207,valid
+Claude_claude-haiku-4-5-20251001_DIA_037,DIA_037,Dialogue,career,Claude,claude-haiku-4-5-20251001,Anthropic,203,valid
+Claude_claude-haiku-4-5-20251001_DIA_038,DIA_038,Dialogue,career,Claude,claude-haiku-4-5-20251001,Anthropic,210,valid
+Claude_claude-haiku-4-5-20251001_DIA_039,DIA_039,Dialogue,career,Claude,claude-haiku-4-5-20251001,Anthropic,209,valid
+Claude_claude-haiku-4-5-20251001_DIA_040,DIA_040,Dialogue,career,Claude,claude-haiku-4-5-20251001,Anthropic,208,valid
+Claude_claude-haiku-4-5-20251001_DIA_041,DIA_041,Dialogue,personal,Claude,claude-haiku-4-5-20251001,Anthropic,202,valid
+Claude_claude-haiku-4-5-20251001_DIA_042,DIA_042,Dialogue,personal,Claude,claude-haiku-4-5-20251001,Anthropic,201,valid
+Claude_claude-haiku-4-5-20251001_DIA_043,DIA_043,Dialogue,personal,Claude,claude-haiku-4-5-20251001,Anthropic,201,valid
+Claude_claude-haiku-4-5-20251001_DIA_044,DIA_044,Dialogue,personal,Claude,claude-haiku-4-5-20251001,Anthropic,203,valid
+Claude_claude-haiku-4-5-20251001_DIA_045,DIA_045,Dialogue,personal,Claude,claude-haiku-4-5-20251001,Anthropic,197,valid
+Claude_claude-haiku-4-5-20251001_DIA_046,DIA_046,Dialogue,personal,Claude,claude-haiku-4-5-20251001,Anthropic,198,valid
+Claude_claude-haiku-4-5-20251001_DIA_047,DIA_047,Dialogue,personal,Claude,claude-haiku-4-5-20251001,Anthropic,206,valid
+Claude_claude-haiku-4-5-20251001_DIA_048,DIA_048,Dialogue,personal,Claude,claude-haiku-4-5-20251001,Anthropic,205,valid
+Claude_claude-haiku-4-5-20251001_DIA_049,DIA_049,Dialogue,personal,Claude,claude-haiku-4-5-20251001,Anthropic,198,valid
+Claude_claude-haiku-4-5-20251001_DIA_050,DIA_050,Dialogue,personal,Claude,claude-haiku-4-5-20251001,Anthropic,186,valid
+DeepSeek_deepseek-chat_NAR_001,NAR_001,Narrative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_NAR_002,NAR_002,Narrative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_NAR_003,NAR_003,Narrative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_NAR_004,NAR_004,Narrative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_NAR_005,NAR_005,Narrative,academic,DeepSeek,deepseek-chat,DeepSeek,211,valid
+DeepSeek_deepseek-chat_NAR_006,NAR_006,Narrative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_NAR_007,NAR_007,Narrative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_NAR_008,NAR_008,Narrative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_NAR_009,NAR_009,Narrative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_NAR_010,NAR_010,Narrative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_NAR_011,NAR_011,Narrative,academic,DeepSeek,deepseek-chat,DeepSeek,216,valid
+DeepSeek_deepseek-chat_NAR_012,NAR_012,Narrative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_NAR_013,NAR_013,Narrative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_NAR_014,NAR_014,Narrative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_NAR_015,NAR_015,Narrative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_NAR_016,NAR_016,Narrative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_NAR_017,NAR_017,Narrative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_NAR_018,NAR_018,Narrative,academic,DeepSeek,deepseek-chat,DeepSeek,216,valid
+DeepSeek_deepseek-chat_NAR_019,NAR_019,Narrative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_NAR_020,NAR_020,Narrative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_NAR_021,NAR_021,Narrative,business,DeepSeek,deepseek-chat,DeepSeek,204,valid
+DeepSeek_deepseek-chat_NAR_022,NAR_022,Narrative,business,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_NAR_023,NAR_023,Narrative,business,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_NAR_024,NAR_024,Narrative,business,DeepSeek,deepseek-chat,DeepSeek,219,valid
+DeepSeek_deepseek-chat_NAR_025,NAR_025,Narrative,business,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_NAR_026,NAR_026,Narrative,business,DeepSeek,deepseek-chat,DeepSeek,208,valid
+DeepSeek_deepseek-chat_NAR_027,NAR_027,Narrative,business,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_NAR_028,NAR_028,Narrative,business,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_NAR_029,NAR_029,Narrative,business,DeepSeek,deepseek-chat,DeepSeek,218,valid
+DeepSeek_deepseek-chat_NAR_030,NAR_030,Narrative,business,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_NAR_031,NAR_031,Narrative,career,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_NAR_032,NAR_032,Narrative,career,DeepSeek,deepseek-chat,DeepSeek,219,valid
+DeepSeek_deepseek-chat_NAR_033,NAR_033,Narrative,career,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_NAR_034,NAR_034,Narrative,career,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_NAR_035,NAR_035,Narrative,career,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_NAR_036,NAR_036,Narrative,career,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_NAR_037,NAR_037,Narrative,career,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_NAR_038,NAR_038,Narrative,career,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_NAR_039,NAR_039,Narrative,career,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_NAR_040,NAR_040,Narrative,career,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_NAR_041,NAR_041,Narrative,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_NAR_042,NAR_042,Narrative,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_NAR_043,NAR_043,Narrative,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_NAR_044,NAR_044,Narrative,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_NAR_045,NAR_045,Narrative,personal,DeepSeek,deepseek-chat,DeepSeek,217,valid
+DeepSeek_deepseek-chat_NAR_046,NAR_046,Narrative,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_NAR_047,NAR_047,Narrative,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_NAR_048,NAR_048,Narrative,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_NAR_049,NAR_049,Narrative,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_NAR_050,NAR_050,Narrative,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DES_001,DES_001,Descriptive,academic,DeepSeek,deepseek-chat,DeepSeek,222,too_long
+DeepSeek_deepseek-chat_DES_002,DES_002,Descriptive,academic,DeepSeek,deepseek-chat,DeepSeek,209,valid
+DeepSeek_deepseek-chat_DES_003,DES_003,Descriptive,academic,DeepSeek,deepseek-chat,DeepSeek,200,valid
+DeepSeek_deepseek-chat_DES_004,DES_004,Descriptive,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DES_005,DES_005,Descriptive,academic,DeepSeek,deepseek-chat,DeepSeek,223,too_long
+DeepSeek_deepseek-chat_DES_006,DES_006,Descriptive,academic,DeepSeek,deepseek-chat,DeepSeek,205,valid
+DeepSeek_deepseek-chat_DES_007,DES_007,Descriptive,academic,DeepSeek,deepseek-chat,DeepSeek,218,valid
+DeepSeek_deepseek-chat_DES_008,DES_008,Descriptive,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DES_009,DES_009,Descriptive,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DES_010,DES_010,Descriptive,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DES_011,DES_011,Descriptive,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DES_012,DES_012,Descriptive,academic,DeepSeek,deepseek-chat,DeepSeek,217,valid
+DeepSeek_deepseek-chat_DES_013,DES_013,Descriptive,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DES_014,DES_014,Descriptive,academic,DeepSeek,deepseek-chat,DeepSeek,217,valid
+DeepSeek_deepseek-chat_DES_015,DES_015,Descriptive,academic,DeepSeek,deepseek-chat,DeepSeek,213,valid
+DeepSeek_deepseek-chat_DES_016,DES_016,Descriptive,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DES_017,DES_017,Descriptive,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DES_018,DES_018,Descriptive,academic,DeepSeek,deepseek-chat,DeepSeek,198,valid
+DeepSeek_deepseek-chat_DES_019,DES_019,Descriptive,academic,DeepSeek,deepseek-chat,DeepSeek,218,valid
+DeepSeek_deepseek-chat_DES_020,DES_020,Descriptive,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DES_021,DES_021,Descriptive,business,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DES_022,DES_022,Descriptive,business,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DES_023,DES_023,Descriptive,business,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DES_024,DES_024,Descriptive,business,DeepSeek,deepseek-chat,DeepSeek,209,valid
+DeepSeek_deepseek-chat_DES_025,DES_025,Descriptive,business,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DES_026,DES_026,Descriptive,business,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DES_027,DES_027,Descriptive,business,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DES_028,DES_028,Descriptive,business,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DES_029,DES_029,Descriptive,business,DeepSeek,deepseek-chat,DeepSeek,219,valid
+DeepSeek_deepseek-chat_DES_030,DES_030,Descriptive,business,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DES_031,DES_031,Descriptive,career,DeepSeek,deepseek-chat,DeepSeek,210,valid
+DeepSeek_deepseek-chat_DES_032,DES_032,Descriptive,career,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DES_033,DES_033,Descriptive,career,DeepSeek,deepseek-chat,DeepSeek,207,valid
+DeepSeek_deepseek-chat_DES_034,DES_034,Descriptive,career,DeepSeek,deepseek-chat,DeepSeek,213,valid
+DeepSeek_deepseek-chat_DES_035,DES_035,Descriptive,career,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DES_036,DES_036,Descriptive,career,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DES_037,DES_037,Descriptive,career,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DES_038,DES_038,Descriptive,career,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DES_039,DES_039,Descriptive,career,DeepSeek,deepseek-chat,DeepSeek,221,too_long
+DeepSeek_deepseek-chat_DES_040,DES_040,Descriptive,career,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DES_041,DES_041,Descriptive,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DES_042,DES_042,Descriptive,personal,DeepSeek,deepseek-chat,DeepSeek,215,valid
+DeepSeek_deepseek-chat_DES_043,DES_043,Descriptive,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DES_044,DES_044,Descriptive,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DES_045,DES_045,Descriptive,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DES_046,DES_046,Descriptive,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DES_047,DES_047,Descriptive,personal,DeepSeek,deepseek-chat,DeepSeek,193,valid
+DeepSeek_deepseek-chat_DES_048,DES_048,Descriptive,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DES_049,DES_049,Descriptive,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DES_050,DES_050,Descriptive,personal,DeepSeek,deepseek-chat,DeepSeek,214,valid
+DeepSeek_deepseek-chat_ARG_001,ARG_001,Argumentative,academic,DeepSeek,deepseek-chat,DeepSeek,221,too_long
+DeepSeek_deepseek-chat_ARG_002,ARG_002,Argumentative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_003,ARG_003,Argumentative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_004,ARG_004,Argumentative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_005,ARG_005,Argumentative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_006,ARG_006,Argumentative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_007,ARG_007,Argumentative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_008,ARG_008,Argumentative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_009,ARG_009,Argumentative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_010,ARG_010,Argumentative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_011,ARG_011,Argumentative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_012,ARG_012,Argumentative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_013,ARG_013,Argumentative,academic,DeepSeek,deepseek-chat,DeepSeek,211,valid
+DeepSeek_deepseek-chat_ARG_014,ARG_014,Argumentative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_015,ARG_015,Argumentative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_016,ARG_016,Argumentative,academic,DeepSeek,deepseek-chat,DeepSeek,219,valid
+DeepSeek_deepseek-chat_ARG_017,ARG_017,Argumentative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_018,ARG_018,Argumentative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_019,ARG_019,Argumentative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_020,ARG_020,Argumentative,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_021,ARG_021,Argumentative,business,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_022,ARG_022,Argumentative,business,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_023,ARG_023,Argumentative,business,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_024,ARG_024,Argumentative,business,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_025,ARG_025,Argumentative,business,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_026,ARG_026,Argumentative,business,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_027,ARG_027,Argumentative,business,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_028,ARG_028,Argumentative,business,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_029,ARG_029,Argumentative,business,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_030,ARG_030,Argumentative,business,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_031,ARG_031,Argumentative,career,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_032,ARG_032,Argumentative,career,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_033,ARG_033,Argumentative,career,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_034,ARG_034,Argumentative,career,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_035,ARG_035,Argumentative,career,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_036,ARG_036,Argumentative,career,DeepSeek,deepseek-chat,DeepSeek,221,too_long
+DeepSeek_deepseek-chat_ARG_037,ARG_037,Argumentative,career,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_038,ARG_038,Argumentative,career,DeepSeek,deepseek-chat,DeepSeek,221,too_long
+DeepSeek_deepseek-chat_ARG_039,ARG_039,Argumentative,career,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_040,ARG_040,Argumentative,career,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_041,ARG_041,Argumentative,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_042,ARG_042,Argumentative,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_043,ARG_043,Argumentative,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_044,ARG_044,Argumentative,personal,DeepSeek,deepseek-chat,DeepSeek,219,valid
+DeepSeek_deepseek-chat_ARG_045,ARG_045,Argumentative,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_046,ARG_046,Argumentative,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_047,ARG_047,Argumentative,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_048,ARG_048,Argumentative,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_049,ARG_049,Argumentative,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_ARG_050,ARG_050,Argumentative,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DIA_001,DIA_001,Dialogue,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DIA_002,DIA_002,Dialogue,academic,DeepSeek,deepseek-chat,DeepSeek,218,valid
+DeepSeek_deepseek-chat_DIA_003,DIA_003,Dialogue,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DIA_004,DIA_004,Dialogue,academic,DeepSeek,deepseek-chat,DeepSeek,218,valid
+DeepSeek_deepseek-chat_DIA_005,DIA_005,Dialogue,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DIA_006,DIA_006,Dialogue,academic,DeepSeek,deepseek-chat,DeepSeek,221,too_long
+DeepSeek_deepseek-chat_DIA_007,DIA_007,Dialogue,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DIA_008,DIA_008,Dialogue,academic,DeepSeek,deepseek-chat,DeepSeek,221,too_long
+DeepSeek_deepseek-chat_DIA_009,DIA_009,Dialogue,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DIA_010,DIA_010,Dialogue,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DIA_011,DIA_011,Dialogue,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DIA_012,DIA_012,Dialogue,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DIA_013,DIA_013,Dialogue,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DIA_014,DIA_014,Dialogue,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DIA_015,DIA_015,Dialogue,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DIA_016,DIA_016,Dialogue,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DIA_017,DIA_017,Dialogue,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DIA_018,DIA_018,Dialogue,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DIA_019,DIA_019,Dialogue,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DIA_020,DIA_020,Dialogue,academic,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DIA_021,DIA_021,Dialogue,business,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DIA_022,DIA_022,Dialogue,business,DeepSeek,deepseek-chat,DeepSeek,221,too_long
+DeepSeek_deepseek-chat_DIA_023,DIA_023,Dialogue,business,DeepSeek,deepseek-chat,DeepSeek,221,too_long
+DeepSeek_deepseek-chat_DIA_024,DIA_024,Dialogue,business,DeepSeek,deepseek-chat,DeepSeek,221,too_long
+DeepSeek_deepseek-chat_DIA_025,DIA_025,Dialogue,business,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DIA_026,DIA_026,Dialogue,business,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DIA_027,DIA_027,Dialogue,business,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DIA_028,DIA_028,Dialogue,business,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DIA_029,DIA_029,Dialogue,business,DeepSeek,deepseek-chat,DeepSeek,219,valid
+DeepSeek_deepseek-chat_DIA_030,DIA_030,Dialogue,business,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DIA_031,DIA_031,Dialogue,career,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DIA_032,DIA_032,Dialogue,career,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DIA_033,DIA_033,Dialogue,career,DeepSeek,deepseek-chat,DeepSeek,221,too_long
+DeepSeek_deepseek-chat_DIA_034,DIA_034,Dialogue,career,DeepSeek,deepseek-chat,DeepSeek,204,valid
+DeepSeek_deepseek-chat_DIA_035,DIA_035,Dialogue,career,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DIA_036,DIA_036,Dialogue,career,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DIA_037,DIA_037,Dialogue,career,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DIA_038,DIA_038,Dialogue,career,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DIA_039,DIA_039,Dialogue,career,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DIA_040,DIA_040,Dialogue,career,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DIA_041,DIA_041,Dialogue,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DIA_042,DIA_042,Dialogue,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DIA_043,DIA_043,Dialogue,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DIA_044,DIA_044,Dialogue,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DIA_045,DIA_045,Dialogue,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DIA_046,DIA_046,Dialogue,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DIA_047,DIA_047,Dialogue,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DIA_048,DIA_048,Dialogue,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DIA_049,DIA_049,Dialogue,personal,DeepSeek,deepseek-chat,DeepSeek,220,valid
+DeepSeek_deepseek-chat_DIA_050,DIA_050,Dialogue,personal,DeepSeek,deepseek-chat,DeepSeek,211,valid
+Mistral_mistral-small-latest_NAR_001,NAR_001,Narrative,academic,Mistral,mistral-small-latest,Mistral AI,220,valid
+Mistral_mistral-small-latest_NAR_002,NAR_002,Narrative,academic,Mistral,mistral-small-latest,Mistral AI,190,valid
+Mistral_mistral-small-latest_NAR_003,NAR_003,Narrative,academic,Mistral,mistral-small-latest,Mistral AI,198,valid
+Mistral_mistral-small-latest_NAR_004,NAR_004,Narrative,academic,Mistral,mistral-small-latest,Mistral AI,220,valid
+Mistral_mistral-small-latest_NAR_005,NAR_005,Narrative,academic,Mistral,mistral-small-latest,Mistral AI,220,valid
+Mistral_mistral-small-latest_NAR_006,NAR_006,Narrative,academic,Mistral,mistral-small-latest,Mistral AI,192,valid
+Mistral_mistral-small-latest_NAR_007,NAR_007,Narrative,academic,Mistral,mistral-small-latest,Mistral AI,217,valid
+Mistral_mistral-small-latest_NAR_008,NAR_008,Narrative,academic,Mistral,mistral-small-latest,Mistral AI,191,valid
+Mistral_mistral-small-latest_NAR_009,NAR_009,Narrative,academic,Mistral,mistral-small-latest,Mistral AI,215,valid
+Mistral_mistral-small-latest_NAR_010,NAR_010,Narrative,academic,Mistral,mistral-small-latest,Mistral AI,220,valid
+Mistral_mistral-small-latest_NAR_011,NAR_011,Narrative,academic,Mistral,mistral-small-latest,Mistral AI,216,valid
+Mistral_mistral-small-latest_NAR_012,NAR_012,Narrative,academic,Mistral,mistral-small-latest,Mistral AI,214,valid
+Mistral_mistral-small-latest_NAR_013,NAR_013,Narrative,academic,Mistral,mistral-small-latest,Mistral AI,204,valid
+Mistral_mistral-small-latest_NAR_014,NAR_014,Narrative,academic,Mistral,mistral-small-latest,Mistral AI,207,valid
+Mistral_mistral-small-latest_NAR_015,NAR_015,Narrative,academic,Mistral,mistral-small-latest,Mistral AI,220,valid
+Mistral_mistral-small-latest_NAR_016,NAR_016,Narrative,academic,Mistral,mistral-small-latest,Mistral AI,208,valid
+Mistral_mistral-small-latest_NAR_017,NAR_017,Narrative,academic,Mistral,mistral-small-latest,Mistral AI,194,valid
+Mistral_mistral-small-latest_NAR_018,NAR_018,Narrative,academic,Mistral,mistral-small-latest,Mistral AI,203,valid
+Mistral_mistral-small-latest_NAR_019,NAR_019,Narrative,academic,Mistral,mistral-small-latest,Mistral AI,220,valid
+Mistral_mistral-small-latest_NAR_020,NAR_020,Narrative,academic,Mistral,mistral-small-latest,Mistral AI,198,valid
+Mistral_mistral-small-latest_NAR_021,NAR_021,Narrative,business,Mistral,mistral-small-latest,Mistral AI,182,valid
+Mistral_mistral-small-latest_NAR_022,NAR_022,Narrative,business,Mistral,mistral-small-latest,Mistral AI,195,valid
+Mistral_mistral-small-latest_NAR_023,NAR_023,Narrative,business,Mistral,mistral-small-latest,Mistral AI,191,valid
+Mistral_mistral-small-latest_NAR_024,NAR_024,Narrative,business,Mistral,mistral-small-latest,Mistral AI,220,valid
+Mistral_mistral-small-latest_NAR_025,NAR_025,Narrative,business,Mistral,mistral-small-latest,Mistral AI,206,valid
+Mistral_mistral-small-latest_NAR_026,NAR_026,Narrative,business,Mistral,mistral-small-latest,Mistral AI,193,valid
+Mistral_mistral-small-latest_NAR_027,NAR_027,Narrative,business,Mistral,mistral-small-latest,Mistral AI,189,valid
+Mistral_mistral-small-latest_NAR_028,NAR_028,Narrative,business,Mistral,mistral-small-latest,Mistral AI,193,valid
+Mistral_mistral-small-latest_NAR_029,NAR_029,Narrative,business,Mistral,mistral-small-latest,Mistral AI,216,valid
+Mistral_mistral-small-latest_NAR_030,NAR_030,Narrative,business,Mistral,mistral-small-latest,Mistral AI,182,valid
+Mistral_mistral-small-latest_NAR_031,NAR_031,Narrative,career,Mistral,mistral-small-latest,Mistral AI,202,valid
+Mistral_mistral-small-latest_NAR_032,NAR_032,Narrative,career,Mistral,mistral-small-latest,Mistral AI,220,valid
+Mistral_mistral-small-latest_NAR_033,NAR_033,Narrative,career,Mistral,mistral-small-latest,Mistral AI,205,valid
+Mistral_mistral-small-latest_NAR_034,NAR_034,Narrative,career,Mistral,mistral-small-latest,Mistral AI,216,valid
+Mistral_mistral-small-latest_NAR_035,NAR_035,Narrative,career,Mistral,mistral-small-latest,Mistral AI,189,valid
+Mistral_mistral-small-latest_NAR_036,NAR_036,Narrative,career,Mistral,mistral-small-latest,Mistral AI,204,valid
+Mistral_mistral-small-latest_NAR_037,NAR_037,Narrative,career,Mistral,mistral-small-latest,Mistral AI,204,valid
+Mistral_mistral-small-latest_NAR_038,NAR_038,Narrative,career,Mistral,mistral-small-latest,Mistral AI,183,valid
+Mistral_mistral-small-latest_NAR_039,NAR_039,Narrative,career,Mistral,mistral-small-latest,Mistral AI,216,valid
+Mistral_mistral-small-latest_NAR_040,NAR_040,Narrative,career,Mistral,mistral-small-latest,Mistral AI,209,valid
+Mistral_mistral-small-latest_NAR_041,NAR_041,Narrative,personal,Mistral,mistral-small-latest,Mistral AI,204,valid
+Mistral_mistral-small-latest_NAR_042,NAR_042,Narrative,personal,Mistral,mistral-small-latest,Mistral AI,203,valid
+Mistral_mistral-small-latest_NAR_043,NAR_043,Narrative,personal,Mistral,mistral-small-latest,Mistral AI,199,valid
+Mistral_mistral-small-latest_NAR_044,NAR_044,Narrative,personal,Mistral,mistral-small-latest,Mistral AI,218,valid
+Mistral_mistral-small-latest_NAR_045,NAR_045,Narrative,personal,Mistral,mistral-small-latest,Mistral AI,185,valid
+Mistral_mistral-small-latest_NAR_046,NAR_046,Narrative,personal,Mistral,mistral-small-latest,Mistral AI,206,valid
+Mistral_mistral-small-latest_NAR_047,NAR_047,Narrative,personal,Mistral,mistral-small-latest,Mistral AI,212,valid
+Mistral_mistral-small-latest_NAR_048,NAR_048,Narrative,personal,Mistral,mistral-small-latest,Mistral AI,184,valid
+Mistral_mistral-small-latest_NAR_049,NAR_049,Narrative,personal,Mistral,mistral-small-latest,Mistral AI,201,valid
+Mistral_mistral-small-latest_NAR_050,NAR_050,Narrative,personal,Mistral,mistral-small-latest,Mistral AI,208,valid
+Mistral_mistral-small-latest_DES_001,DES_001,Descriptive,academic,Mistral,mistral-small-latest,Mistral AI,197,valid
+Mistral_mistral-small-latest_DES_002,DES_002,Descriptive,academic,Mistral,mistral-small-latest,Mistral AI,200,valid
+Mistral_mistral-small-latest_DES_003,DES_003,Descriptive,academic,Mistral,mistral-small-latest,Mistral AI,184,valid
+Mistral_mistral-small-latest_DES_004,DES_004,Descriptive,academic,Mistral,mistral-small-latest,Mistral AI,200,valid
+Mistral_mistral-small-latest_DES_005,DES_005,Descriptive,academic,Mistral,mistral-small-latest,Mistral AI,222,too_long
+Mistral_mistral-small-latest_DES_006,DES_006,Descriptive,academic,Mistral,mistral-small-latest,Mistral AI,180,valid
+Mistral_mistral-small-latest_DES_007,DES_007,Descriptive,academic,Mistral,mistral-small-latest,Mistral AI,201,valid
+Mistral_mistral-small-latest_DES_008,DES_008,Descriptive,academic,Mistral,mistral-small-latest,Mistral AI,208,valid
+Mistral_mistral-small-latest_DES_009,DES_009,Descriptive,academic,Mistral,mistral-small-latest,Mistral AI,203,valid
+Mistral_mistral-small-latest_DES_010,DES_010,Descriptive,academic,Mistral,mistral-small-latest,Mistral AI,196,valid
+Mistral_mistral-small-latest_DES_011,DES_011,Descriptive,academic,Mistral,mistral-small-latest,Mistral AI,211,valid
+Mistral_mistral-small-latest_DES_012,DES_012,Descriptive,academic,Mistral,mistral-small-latest,Mistral AI,219,valid
+Mistral_mistral-small-latest_DES_013,DES_013,Descriptive,academic,Mistral,mistral-small-latest,Mistral AI,192,valid
+Mistral_mistral-small-latest_DES_014,DES_014,Descriptive,academic,Mistral,mistral-small-latest,Mistral AI,215,valid
+Mistral_mistral-small-latest_DES_015,DES_015,Descriptive,academic,Mistral,mistral-small-latest,Mistral AI,189,valid
+Mistral_mistral-small-latest_DES_016,DES_016,Descriptive,academic,Mistral,mistral-small-latest,Mistral AI,208,valid
+Mistral_mistral-small-latest_DES_017,DES_017,Descriptive,academic,Mistral,mistral-small-latest,Mistral AI,184,valid
+Mistral_mistral-small-latest_DES_018,DES_018,Descriptive,academic,Mistral,mistral-small-latest,Mistral AI,190,valid
+Mistral_mistral-small-latest_DES_019,DES_019,Descriptive,academic,Mistral,mistral-small-latest,Mistral AI,189,valid
+Mistral_mistral-small-latest_DES_020,DES_020,Descriptive,academic,Mistral,mistral-small-latest,Mistral AI,190,valid
+Mistral_mistral-small-latest_DES_021,DES_021,Descriptive,business,Mistral,mistral-small-latest,Mistral AI,219,valid
+Mistral_mistral-small-latest_DES_022,DES_022,Descriptive,business,Mistral,mistral-small-latest,Mistral AI,220,valid
+Mistral_mistral-small-latest_DES_023,DES_023,Descriptive,business,Mistral,mistral-small-latest,Mistral AI,207,valid
+Mistral_mistral-small-latest_DES_024,DES_024,Descriptive,business,Mistral,mistral-small-latest,Mistral AI,197,valid
+Mistral_mistral-small-latest_DES_025,DES_025,Descriptive,business,Mistral,mistral-small-latest,Mistral AI,182,valid
+Mistral_mistral-small-latest_DES_026,DES_026,Descriptive,business,Mistral,mistral-small-latest,Mistral AI,190,valid
+Mistral_mistral-small-latest_DES_027,DES_027,Descriptive,business,Mistral,mistral-small-latest,Mistral AI,199,valid
+Mistral_mistral-small-latest_DES_028,DES_028,Descriptive,business,Mistral,mistral-small-latest,Mistral AI,208,valid
+Mistral_mistral-small-latest_DES_029,DES_029,Descriptive,business,Mistral,mistral-small-latest,Mistral AI,203,valid
+Mistral_mistral-small-latest_DES_030,DES_030,Descriptive,business,Mistral,mistral-small-latest,Mistral AI,200,valid
+Mistral_mistral-small-latest_DES_031,DES_031,Descriptive,career,Mistral,mistral-small-latest,Mistral AI,197,valid
+Mistral_mistral-small-latest_DES_032,DES_032,Descriptive,career,Mistral,mistral-small-latest,Mistral AI,214,valid
+Mistral_mistral-small-latest_DES_033,DES_033,Descriptive,career,Mistral,mistral-small-latest,Mistral AI,198,valid
+Mistral_mistral-small-latest_DES_034,DES_034,Descriptive,career,Mistral,mistral-small-latest,Mistral AI,191,valid
+Mistral_mistral-small-latest_DES_035,DES_035,Descriptive,career,Mistral,mistral-small-latest,Mistral AI,207,valid
+Mistral_mistral-small-latest_DES_036,DES_036,Descriptive,career,Mistral,mistral-small-latest,Mistral AI,196,valid
+Mistral_mistral-small-latest_DES_037,DES_037,Descriptive,career,Mistral,mistral-small-latest,Mistral AI,221,too_long
+Mistral_mistral-small-latest_DES_038,DES_038,Descriptive,career,Mistral,mistral-small-latest,Mistral AI,209,valid
+Mistral_mistral-small-latest_DES_039,DES_039,Descriptive,career,Mistral,mistral-small-latest,Mistral AI,214,valid
+Mistral_mistral-small-latest_DES_040,DES_040,Descriptive,career,Mistral,mistral-small-latest,Mistral AI,183,valid
+Mistral_mistral-small-latest_DES_041,DES_041,Descriptive,personal,Mistral,mistral-small-latest,Mistral AI,215,valid
+Mistral_mistral-small-latest_DES_042,DES_042,Descriptive,personal,Mistral,mistral-small-latest,Mistral AI,220,valid
+Mistral_mistral-small-latest_DES_043,DES_043,Descriptive,personal,Mistral,mistral-small-latest,Mistral AI,212,valid
+Mistral_mistral-small-latest_DES_044,DES_044,Descriptive,personal,Mistral,mistral-small-latest,Mistral AI,183,valid
+Mistral_mistral-small-latest_DES_045,DES_045,Descriptive,personal,Mistral,mistral-small-latest,Mistral AI,193,valid
+Mistral_mistral-small-latest_DES_046,DES_046,Descriptive,personal,Mistral,mistral-small-latest,Mistral AI,217,valid
+Mistral_mistral-small-latest_DES_047,DES_047,Descriptive,personal,Mistral,mistral-small-latest,Mistral AI,220,valid
+Mistral_mistral-small-latest_DES_048,DES_048,Descriptive,personal,Mistral,mistral-small-latest,Mistral AI,184,valid
+Mistral_mistral-small-latest_DES_049,DES_049,Descriptive,personal,Mistral,mistral-small-latest,Mistral AI,182,valid
+Mistral_mistral-small-latest_DES_050,DES_050,Descriptive,personal,Mistral,mistral-small-latest,Mistral AI,220,valid
+Mistral_mistral-small-latest_ARG_001,ARG_001,Argumentative,academic,Mistral,mistral-small-latest,Mistral AI,220,valid
+Mistral_mistral-small-latest_ARG_002,ARG_002,Argumentative,academic,Mistral,mistral-small-latest,Mistral AI,193,valid
+Mistral_mistral-small-latest_ARG_003,ARG_003,Argumentative,academic,Mistral,mistral-small-latest,Mistral AI,195,valid
+Mistral_mistral-small-latest_ARG_004,ARG_004,Argumentative,academic,Mistral,mistral-small-latest,Mistral AI,210,valid
+Mistral_mistral-small-latest_ARG_005,ARG_005,Argumentative,academic,Mistral,mistral-small-latest,Mistral AI,192,valid
+Mistral_mistral-small-latest_ARG_006,ARG_006,Argumentative,academic,Mistral,mistral-small-latest,Mistral AI,202,valid
+Mistral_mistral-small-latest_ARG_007,ARG_007,Argumentative,academic,Mistral,mistral-small-latest,Mistral AI,214,valid
+Mistral_mistral-small-latest_ARG_008,ARG_008,Argumentative,academic,Mistral,mistral-small-latest,Mistral AI,210,valid
+Mistral_mistral-small-latest_ARG_009,ARG_009,Argumentative,academic,Mistral,mistral-small-latest,Mistral AI,200,valid
+Mistral_mistral-small-latest_ARG_010,ARG_010,Argumentative,academic,Mistral,mistral-small-latest,Mistral AI,218,valid
+Mistral_mistral-small-latest_ARG_011,ARG_011,Argumentative,academic,Mistral,mistral-small-latest,Mistral AI,204,valid
+Mistral_mistral-small-latest_ARG_012,ARG_012,Argumentative,academic,Mistral,mistral-small-latest,Mistral AI,217,valid
+Mistral_mistral-small-latest_ARG_013,ARG_013,Argumentative,academic,Mistral,mistral-small-latest,Mistral AI,203,valid
+Mistral_mistral-small-latest_ARG_014,ARG_014,Argumentative,academic,Mistral,mistral-small-latest,Mistral AI,187,valid
+Mistral_mistral-small-latest_ARG_015,ARG_015,Argumentative,academic,Mistral,mistral-small-latest,Mistral AI,208,valid
+Mistral_mistral-small-latest_ARG_016,ARG_016,Argumentative,academic,Mistral,mistral-small-latest,Mistral AI,209,valid
+Mistral_mistral-small-latest_ARG_017,ARG_017,Argumentative,academic,Mistral,mistral-small-latest,Mistral AI,220,valid
+Mistral_mistral-small-latest_ARG_018,ARG_018,Argumentative,academic,Mistral,mistral-small-latest,Mistral AI,186,valid
+Mistral_mistral-small-latest_ARG_019,ARG_019,Argumentative,academic,Mistral,mistral-small-latest,Mistral AI,199,valid
+Mistral_mistral-small-latest_ARG_020,ARG_020,Argumentative,academic,Mistral,mistral-small-latest,Mistral AI,197,valid
+Mistral_mistral-small-latest_ARG_021,ARG_021,Argumentative,business,Mistral,mistral-small-latest,Mistral AI,215,valid
+Mistral_mistral-small-latest_ARG_022,ARG_022,Argumentative,business,Mistral,mistral-small-latest,Mistral AI,186,valid
+Mistral_mistral-small-latest_ARG_023,ARG_023,Argumentative,business,Mistral,mistral-small-latest,Mistral AI,190,valid
+Mistral_mistral-small-latest_ARG_024,ARG_024,Argumentative,business,Mistral,mistral-small-latest,Mistral AI,187,valid
+Mistral_mistral-small-latest_ARG_025,ARG_025,Argumentative,business,Mistral,mistral-small-latest,Mistral AI,184,valid
+Mistral_mistral-small-latest_ARG_026,ARG_026,Argumentative,business,Mistral,mistral-small-latest,Mistral AI,193,valid
+Mistral_mistral-small-latest_ARG_027,ARG_027,Argumentative,business,Mistral,mistral-small-latest,Mistral AI,212,valid
+Mistral_mistral-small-latest_ARG_028,ARG_028,Argumentative,business,Mistral,mistral-small-latest,Mistral AI,221,too_long
+Mistral_mistral-small-latest_ARG_029,ARG_029,Argumentative,business,Mistral,mistral-small-latest,Mistral AI,181,valid
+Mistral_mistral-small-latest_ARG_030,ARG_030,Argumentative,business,Mistral,mistral-small-latest,Mistral AI,196,valid
+Mistral_mistral-small-latest_ARG_031,ARG_031,Argumentative,career,Mistral,mistral-small-latest,Mistral AI,198,valid
+Mistral_mistral-small-latest_ARG_032,ARG_032,Argumentative,career,Mistral,mistral-small-latest,Mistral AI,216,valid
+Mistral_mistral-small-latest_ARG_033,ARG_033,Argumentative,career,Mistral,mistral-small-latest,Mistral AI,203,valid
+Mistral_mistral-small-latest_ARG_034,ARG_034,Argumentative,career,Mistral,mistral-small-latest,Mistral AI,193,valid
+Mistral_mistral-small-latest_ARG_035,ARG_035,Argumentative,career,Mistral,mistral-small-latest,Mistral AI,197,valid
+Mistral_mistral-small-latest_ARG_036,ARG_036,Argumentative,career,Mistral,mistral-small-latest,Mistral AI,219,valid
+Mistral_mistral-small-latest_ARG_037,ARG_037,Argumentative,career,Mistral,mistral-small-latest,Mistral AI,198,valid
+Mistral_mistral-small-latest_ARG_038,ARG_038,Argumentative,career,Mistral,mistral-small-latest,Mistral AI,200,valid
+Mistral_mistral-small-latest_ARG_039,ARG_039,Argumentative,career,Mistral,mistral-small-latest,Mistral AI,205,valid
+Mistral_mistral-small-latest_ARG_040,ARG_040,Argumentative,career,Mistral,mistral-small-latest,Mistral AI,203,valid
+Mistral_mistral-small-latest_ARG_041,ARG_041,Argumentative,personal,Mistral,mistral-small-latest,Mistral AI,200,valid
+Mistral_mistral-small-latest_ARG_042,ARG_042,Argumentative,personal,Mistral,mistral-small-latest,Mistral AI,204,valid
+Mistral_mistral-small-latest_ARG_043,ARG_043,Argumentative,personal,Mistral,mistral-small-latest,Mistral AI,195,valid
+Mistral_mistral-small-latest_ARG_044,ARG_044,Argumentative,personal,Mistral,mistral-small-latest,Mistral AI,199,valid
+Mistral_mistral-small-latest_ARG_045,ARG_045,Argumentative,personal,Mistral,mistral-small-latest,Mistral AI,183,valid
+Mistral_mistral-small-latest_ARG_046,ARG_046,Argumentative,personal,Mistral,mistral-small-latest,Mistral AI,208,valid
+Mistral_mistral-small-latest_ARG_047,ARG_047,Argumentative,personal,Mistral,mistral-small-latest,Mistral AI,192,valid
+Mistral_mistral-small-latest_ARG_048,ARG_048,Argumentative,personal,Mistral,mistral-small-latest,Mistral AI,211,valid
+Mistral_mistral-small-latest_ARG_049,ARG_049,Argumentative,personal,Mistral,mistral-small-latest,Mistral AI,192,valid
+Mistral_mistral-small-latest_ARG_050,ARG_050,Argumentative,personal,Mistral,mistral-small-latest,Mistral AI,189,valid
+Mistral_mistral-small-latest_DIA_001,DIA_001,Dialogue,academic,Mistral,mistral-small-latest,Mistral AI,219,valid
+Mistral_mistral-small-latest_DIA_002,DIA_002,Dialogue,academic,Mistral,mistral-small-latest,Mistral AI,200,valid
+Mistral_mistral-small-latest_DIA_003,DIA_003,Dialogue,academic,Mistral,mistral-small-latest,Mistral AI,187,valid
+Mistral_mistral-small-latest_DIA_004,DIA_004,Dialogue,academic,Mistral,mistral-small-latest,Mistral AI,186,valid
+Mistral_mistral-small-latest_DIA_005,DIA_005,Dialogue,academic,Mistral,mistral-small-latest,Mistral AI,208,valid
+Mistral_mistral-small-latest_DIA_006,DIA_006,Dialogue,academic,Mistral,mistral-small-latest,Mistral AI,206,valid
+Mistral_mistral-small-latest_DIA_007,DIA_007,Dialogue,academic,Mistral,mistral-small-latest,Mistral AI,217,valid
+Mistral_mistral-small-latest_DIA_008,DIA_008,Dialogue,academic,Mistral,mistral-small-latest,Mistral AI,219,valid
+Mistral_mistral-small-latest_DIA_009,DIA_009,Dialogue,academic,Mistral,mistral-small-latest,Mistral AI,190,valid
+Mistral_mistral-small-latest_DIA_010,DIA_010,Dialogue,academic,Mistral,mistral-small-latest,Mistral AI,220,valid
+Mistral_mistral-small-latest_DIA_011,DIA_011,Dialogue,academic,Mistral,mistral-small-latest,Mistral AI,200,valid
+Mistral_mistral-small-latest_DIA_012,DIA_012,Dialogue,academic,Mistral,mistral-small-latest,Mistral AI,218,valid
+Mistral_mistral-small-latest_DIA_013,DIA_013,Dialogue,academic,Mistral,mistral-small-latest,Mistral AI,198,valid
+Mistral_mistral-small-latest_DIA_014,DIA_014,Dialogue,academic,Mistral,mistral-small-latest,Mistral AI,220,valid
+Mistral_mistral-small-latest_DIA_015,DIA_015,Dialogue,academic,Mistral,mistral-small-latest,Mistral AI,197,valid
+Mistral_mistral-small-latest_DIA_016,DIA_016,Dialogue,academic,Mistral,mistral-small-latest,Mistral AI,217,valid
+Mistral_mistral-small-latest_DIA_017,DIA_017,Dialogue,academic,Mistral,mistral-small-latest,Mistral AI,211,valid
+Mistral_mistral-small-latest_DIA_018,DIA_018,Dialogue,academic,Mistral,mistral-small-latest,Mistral AI,195,valid
+Mistral_mistral-small-latest_DIA_019,DIA_019,Dialogue,academic,Mistral,mistral-small-latest,Mistral AI,186,valid
+Mistral_mistral-small-latest_DIA_020,DIA_020,Dialogue,academic,Mistral,mistral-small-latest,Mistral AI,209,valid
+Mistral_mistral-small-latest_DIA_021,DIA_021,Dialogue,business,Mistral,mistral-small-latest,Mistral AI,193,valid
+Mistral_mistral-small-latest_DIA_022,DIA_022,Dialogue,business,Mistral,mistral-small-latest,Mistral AI,219,valid
+Mistral_mistral-small-latest_DIA_023,DIA_023,Dialogue,business,Mistral,mistral-small-latest,Mistral AI,212,valid
+Mistral_mistral-small-latest_DIA_024,DIA_024,Dialogue,business,Mistral,mistral-small-latest,Mistral AI,193,valid
+Mistral_mistral-small-latest_DIA_025,DIA_025,Dialogue,business,Mistral,mistral-small-latest,Mistral AI,220,valid
+Mistral_mistral-small-latest_DIA_026,DIA_026,Dialogue,business,Mistral,mistral-small-latest,Mistral AI,222,too_long
+Mistral_mistral-small-latest_DIA_027,DIA_027,Dialogue,business,Mistral,mistral-small-latest,Mistral AI,201,valid
+Mistral_mistral-small-latest_DIA_028,DIA_028,Dialogue,business,Mistral,mistral-small-latest,Mistral AI,196,valid
+Mistral_mistral-small-latest_DIA_029,DIA_029,Dialogue,business,Mistral,mistral-small-latest,Mistral AI,212,valid
+Mistral_mistral-small-latest_DIA_030,DIA_030,Dialogue,business,Mistral,mistral-small-latest,Mistral AI,220,valid
+Mistral_mistral-small-latest_DIA_031,DIA_031,Dialogue,career,Mistral,mistral-small-latest,Mistral AI,212,valid
+Mistral_mistral-small-latest_DIA_032,DIA_032,Dialogue,career,Mistral,mistral-small-latest,Mistral AI,220,valid
+Mistral_mistral-small-latest_DIA_033,DIA_033,Dialogue,career,Mistral,mistral-small-latest,Mistral AI,222,too_long
+Mistral_mistral-small-latest_DIA_034,DIA_034,Dialogue,career,Mistral,mistral-small-latest,Mistral AI,197,valid
+Mistral_mistral-small-latest_DIA_035,DIA_035,Dialogue,career,Mistral,mistral-small-latest,Mistral AI,220,valid
+Mistral_mistral-small-latest_DIA_036,DIA_036,Dialogue,career,Mistral,mistral-small-latest,Mistral AI,220,valid
+Mistral_mistral-small-latest_DIA_037,DIA_037,Dialogue,career,Mistral,mistral-small-latest,Mistral AI,200,valid
+Mistral_mistral-small-latest_DIA_038,DIA_038,Dialogue,career,Mistral,mistral-small-latest,Mistral AI,210,valid
+Mistral_mistral-small-latest_DIA_039,DIA_039,Dialogue,career,Mistral,mistral-small-latest,Mistral AI,185,valid
+Mistral_mistral-small-latest_DIA_040,DIA_040,Dialogue,career,Mistral,mistral-small-latest,Mistral AI,203,valid
+Mistral_mistral-small-latest_DIA_041,DIA_041,Dialogue,personal,Mistral,mistral-small-latest,Mistral AI,196,valid
+Mistral_mistral-small-latest_DIA_042,DIA_042,Dialogue,personal,Mistral,mistral-small-latest,Mistral AI,188,valid
+Mistral_mistral-small-latest_DIA_043,DIA_043,Dialogue,personal,Mistral,mistral-small-latest,Mistral AI,220,valid
+Mistral_mistral-small-latest_DIA_044,DIA_044,Dialogue,personal,Mistral,mistral-small-latest,Mistral AI,220,valid
+Mistral_mistral-small-latest_DIA_045,DIA_045,Dialogue,personal,Mistral,mistral-small-latest,Mistral AI,198,valid
+Mistral_mistral-small-latest_DIA_046,DIA_046,Dialogue,personal,Mistral,mistral-small-latest,Mistral AI,220,valid
+Mistral_mistral-small-latest_DIA_047,DIA_047,Dialogue,personal,Mistral,mistral-small-latest,Mistral AI,220,valid
+Mistral_mistral-small-latest_DIA_048,DIA_048,Dialogue,personal,Mistral,mistral-small-latest,Mistral AI,182,valid
+Mistral_mistral-small-latest_DIA_049,DIA_049,Dialogue,personal,Mistral,mistral-small-latest,Mistral AI,204,valid
+Mistral_mistral-small-latest_DIA_050,DIA_050,Dialogue,personal,Mistral,mistral-small-latest,Mistral AI,193,valid
+Gemini_gemini-2.5-flash_NAR_001,NAR_001,Narrative,academic,Gemini,gemini-2.5-flash,Google,218,valid
+Gemini_gemini-2.5-flash_NAR_002,NAR_002,Narrative,academic,Gemini,gemini-2.5-flash,Google,192,valid
+Gemini_gemini-2.5-flash_NAR_003,NAR_003,Narrative,academic,Gemini,gemini-2.5-flash,Google,218,valid
+Gemini_gemini-2.5-flash_NAR_004,NAR_004,Narrative,academic,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_NAR_005,NAR_005,Narrative,academic,Gemini,gemini-2.5-flash,Google,208,valid
+Gemini_gemini-2.5-flash_NAR_006,NAR_006,Narrative,academic,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_NAR_007,NAR_007,Narrative,academic,Gemini,gemini-2.5-flash,Google,201,valid
+Gemini_gemini-2.5-flash_NAR_008,NAR_008,Narrative,academic,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_NAR_009,NAR_009,Narrative,academic,Gemini,gemini-2.5-flash,Google,202,valid
+Gemini_gemini-2.5-flash_NAR_010,NAR_010,Narrative,academic,Gemini,gemini-2.5-flash,Google,210,valid
+Gemini_gemini-2.5-flash_NAR_011,NAR_011,Narrative,academic,Gemini,gemini-2.5-flash,Google,208,valid
+Gemini_gemini-2.5-flash_NAR_012,NAR_012,Narrative,academic,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_NAR_013,NAR_013,Narrative,academic,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_NAR_014,NAR_014,Narrative,academic,Gemini,gemini-2.5-flash,Google,216,valid
+Gemini_gemini-2.5-flash_NAR_015,NAR_015,Narrative,academic,Gemini,gemini-2.5-flash,Google,211,valid
+Gemini_gemini-2.5-flash_NAR_016,NAR_016,Narrative,academic,Gemini,gemini-2.5-flash,Google,217,valid
+Gemini_gemini-2.5-flash_NAR_017,NAR_017,Narrative,academic,Gemini,gemini-2.5-flash,Google,203,valid
+Gemini_gemini-2.5-flash_NAR_018,NAR_018,Narrative,academic,Gemini,gemini-2.5-flash,Google,197,valid
+Gemini_gemini-2.5-flash_NAR_019,NAR_019,Narrative,academic,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_NAR_020,NAR_020,Narrative,academic,Gemini,gemini-2.5-flash,Google,217,valid
+Gemini_gemini-2.5-flash_NAR_021,NAR_021,Narrative,business,Gemini,gemini-2.5-flash,Google,222,too_long
+Gemini_gemini-2.5-flash_NAR_022,NAR_022,Narrative,business,Gemini,gemini-2.5-flash,Google,213,valid
+Gemini_gemini-2.5-flash_NAR_023,NAR_023,Narrative,business,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_NAR_024,NAR_024,Narrative,business,Gemini,gemini-2.5-flash,Google,203,valid
+Gemini_gemini-2.5-flash_NAR_025,NAR_025,Narrative,business,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_NAR_026,NAR_026,Narrative,business,Gemini,gemini-2.5-flash,Google,195,valid
+Gemini_gemini-2.5-flash_NAR_027,NAR_027,Narrative,business,Gemini,gemini-2.5-flash,Google,199,valid
+Gemini_gemini-2.5-flash_NAR_028,NAR_028,Narrative,business,Gemini,gemini-2.5-flash,Google,223,too_long
+Gemini_gemini-2.5-flash_NAR_029,NAR_029,Narrative,business,Gemini,gemini-2.5-flash,Google,208,valid
+Gemini_gemini-2.5-flash_NAR_030,NAR_030,Narrative,business,Gemini,gemini-2.5-flash,Google,217,valid
+Gemini_gemini-2.5-flash_NAR_031,NAR_031,Narrative,career,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_NAR_032,NAR_032,Narrative,career,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_NAR_033,NAR_033,Narrative,career,Gemini,gemini-2.5-flash,Google,184,valid
+Gemini_gemini-2.5-flash_NAR_034,NAR_034,Narrative,career,Gemini,gemini-2.5-flash,Google,216,valid
+Gemini_gemini-2.5-flash_NAR_035,NAR_035,Narrative,career,Gemini,gemini-2.5-flash,Google,215,valid
+Gemini_gemini-2.5-flash_NAR_036,NAR_036,Narrative,career,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_NAR_037,NAR_037,Narrative,career,Gemini,gemini-2.5-flash,Google,209,valid
+Gemini_gemini-2.5-flash_NAR_038,NAR_038,Narrative,career,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_NAR_039,NAR_039,Narrative,career,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_NAR_040,NAR_040,Narrative,career,Gemini,gemini-2.5-flash,Google,213,valid
+Gemini_gemini-2.5-flash_NAR_041,NAR_041,Narrative,personal,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_NAR_042,NAR_042,Narrative,personal,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_NAR_043,NAR_043,Narrative,personal,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_NAR_044,NAR_044,Narrative,personal,Gemini,gemini-2.5-flash,Google,199,valid
+Gemini_gemini-2.5-flash_NAR_045,NAR_045,Narrative,personal,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_NAR_046,NAR_046,Narrative,personal,Gemini,gemini-2.5-flash,Google,210,valid
+Gemini_gemini-2.5-flash_NAR_047,NAR_047,Narrative,personal,Gemini,gemini-2.5-flash,Google,217,valid
+Gemini_gemini-2.5-flash_NAR_048,NAR_048,Narrative,personal,Gemini,gemini-2.5-flash,Google,206,valid
+Gemini_gemini-2.5-flash_NAR_049,NAR_049,Narrative,personal,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_NAR_050,NAR_050,Narrative,personal,Gemini,gemini-2.5-flash,Google,212,valid
+Gemini_gemini-2.5-flash_DES_001,DES_001,Descriptive,academic,Gemini,gemini-2.5-flash,Google,201,valid
+Gemini_gemini-2.5-flash_DES_003,DES_003,Descriptive,academic,Gemini,gemini-2.5-flash,Google,194,valid
+Gemini_gemini-2.5-flash_DES_004,DES_004,Descriptive,academic,Gemini,gemini-2.5-flash,Google,206,valid
+Gemini_gemini-2.5-flash_DES_005,DES_005,Descriptive,academic,Gemini,gemini-2.5-flash,Google,193,valid
+Gemini_gemini-2.5-flash_DES_006,DES_006,Descriptive,academic,Gemini,gemini-2.5-flash,Google,213,valid
+Gemini_gemini-2.5-flash_DES_007,DES_007,Descriptive,academic,Gemini,gemini-2.5-flash,Google,198,valid
+Gemini_gemini-2.5-flash_DES_008,DES_008,Descriptive,academic,Gemini,gemini-2.5-flash,Google,198,valid
+Gemini_gemini-2.5-flash_DES_009,DES_009,Descriptive,academic,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DES_010,DES_010,Descriptive,academic,Gemini,gemini-2.5-flash,Google,207,valid
+Gemini_gemini-2.5-flash_DES_011,DES_011,Descriptive,academic,Gemini,gemini-2.5-flash,Google,198,valid
+Gemini_gemini-2.5-flash_DES_012,DES_012,Descriptive,academic,Gemini,gemini-2.5-flash,Google,196,valid
+Gemini_gemini-2.5-flash_DES_013,DES_013,Descriptive,academic,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DES_014,DES_014,Descriptive,academic,Gemini,gemini-2.5-flash,Google,217,valid
+Gemini_gemini-2.5-flash_DES_015,DES_015,Descriptive,academic,Gemini,gemini-2.5-flash,Google,215,valid
+Gemini_gemini-2.5-flash_DES_016,DES_016,Descriptive,academic,Gemini,gemini-2.5-flash,Google,211,valid
+Gemini_gemini-2.5-flash_DES_017,DES_017,Descriptive,academic,Gemini,gemini-2.5-flash,Google,206,valid
+Gemini_gemini-2.5-flash_DES_018,DES_018,Descriptive,academic,Gemini,gemini-2.5-flash,Google,213,valid
+Gemini_gemini-2.5-flash_DES_019,DES_019,Descriptive,academic,Gemini,gemini-2.5-flash,Google,205,valid
+Gemini_gemini-2.5-flash_DES_020,DES_020,Descriptive,academic,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DES_021,DES_021,Descriptive,business,Gemini,gemini-2.5-flash,Google,198,valid
+Gemini_gemini-2.5-flash_DES_022,DES_022,Descriptive,business,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DES_023,DES_023,Descriptive,business,Gemini,gemini-2.5-flash,Google,196,valid
+Gemini_gemini-2.5-flash_DES_024,DES_024,Descriptive,business,Gemini,gemini-2.5-flash,Google,219,valid
+Gemini_gemini-2.5-flash_DES_025,DES_025,Descriptive,business,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DES_026,DES_026,Descriptive,business,Gemini,gemini-2.5-flash,Google,192,valid
+Gemini_gemini-2.5-flash_DES_027,DES_027,Descriptive,business,Gemini,gemini-2.5-flash,Google,207,valid
+Gemini_gemini-2.5-flash_DES_028,DES_028,Descriptive,business,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DES_029,DES_029,Descriptive,business,Gemini,gemini-2.5-flash,Google,191,valid
+Gemini_gemini-2.5-flash_DES_031,DES_031,Descriptive,career,Gemini,gemini-2.5-flash,Google,184,valid
+Gemini_gemini-2.5-flash_DES_032,DES_032,Descriptive,career,Gemini,gemini-2.5-flash,Google,205,valid
+Gemini_gemini-2.5-flash_DES_033,DES_033,Descriptive,career,Gemini,gemini-2.5-flash,Google,218,valid
+Gemini_gemini-2.5-flash_DES_034,DES_034,Descriptive,career,Gemini,gemini-2.5-flash,Google,209,valid
+Gemini_gemini-2.5-flash_DES_035,DES_035,Descriptive,career,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DES_036,DES_036,Descriptive,career,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DES_037,DES_037,Descriptive,career,Gemini,gemini-2.5-flash,Google,206,valid
+Gemini_gemini-2.5-flash_DES_038,DES_038,Descriptive,career,Gemini,gemini-2.5-flash,Google,193,valid
+Gemini_gemini-2.5-flash_DES_039,DES_039,Descriptive,career,Gemini,gemini-2.5-flash,Google,184,valid
+Gemini_gemini-2.5-flash_DES_040,DES_040,Descriptive,career,Gemini,gemini-2.5-flash,Google,182,valid
+Gemini_gemini-2.5-flash_DES_041,DES_041,Descriptive,personal,Gemini,gemini-2.5-flash,Google,199,valid
+Gemini_gemini-2.5-flash_DES_042,DES_042,Descriptive,personal,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DES_043,DES_043,Descriptive,personal,Gemini,gemini-2.5-flash,Google,183,valid
+Gemini_gemini-2.5-flash_DES_044,DES_044,Descriptive,personal,Gemini,gemini-2.5-flash,Google,194,valid
+Gemini_gemini-2.5-flash_DES_045,DES_045,Descriptive,personal,Gemini,gemini-2.5-flash,Google,197,valid
+Gemini_gemini-2.5-flash_DES_046,DES_046,Descriptive,personal,Gemini,gemini-2.5-flash,Google,201,valid
+Gemini_gemini-2.5-flash_DES_047,DES_047,Descriptive,personal,Gemini,gemini-2.5-flash,Google,205,valid
+Gemini_gemini-2.5-flash_DES_048,DES_048,Descriptive,personal,Gemini,gemini-2.5-flash,Google,188,valid
+Gemini_gemini-2.5-flash_DES_049,DES_049,Descriptive,personal,Gemini,gemini-2.5-flash,Google,203,valid
+Gemini_gemini-2.5-flash_DES_050,DES_050,Descriptive,personal,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_ARG_001,ARG_001,Argumentative,academic,Gemini,gemini-2.5-flash,Google,208,valid
+Gemini_gemini-2.5-flash_ARG_002,ARG_002,Argumentative,academic,Gemini,gemini-2.5-flash,Google,215,valid
+Gemini_gemini-2.5-flash_ARG_003,ARG_003,Argumentative,academic,Gemini,gemini-2.5-flash,Google,207,valid
+Gemini_gemini-2.5-flash_ARG_004,ARG_004,Argumentative,academic,Gemini,gemini-2.5-flash,Google,200,valid
+Gemini_gemini-2.5-flash_ARG_005,ARG_005,Argumentative,academic,Gemini,gemini-2.5-flash,Google,204,valid
+Gemini_gemini-2.5-flash_ARG_006,ARG_006,Argumentative,academic,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_ARG_007,ARG_007,Argumentative,academic,Gemini,gemini-2.5-flash,Google,201,valid
+Gemini_gemini-2.5-flash_ARG_008,ARG_008,Argumentative,academic,Gemini,gemini-2.5-flash,Google,183,valid
+Gemini_gemini-2.5-flash_ARG_009,ARG_009,Argumentative,academic,Gemini,gemini-2.5-flash,Google,188,valid
+Gemini_gemini-2.5-flash_ARG_010,ARG_010,Argumentative,academic,Gemini,gemini-2.5-flash,Google,206,valid
+Gemini_gemini-2.5-flash_ARG_011,ARG_011,Argumentative,academic,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_ARG_012,ARG_012,Argumentative,academic,Gemini,gemini-2.5-flash,Google,203,valid
+Gemini_gemini-2.5-flash_ARG_013,ARG_013,Argumentative,academic,Gemini,gemini-2.5-flash,Google,206,valid
+Gemini_gemini-2.5-flash_ARG_014,ARG_014,Argumentative,academic,Gemini,gemini-2.5-flash,Google,209,valid
+Gemini_gemini-2.5-flash_ARG_015,ARG_015,Argumentative,academic,Gemini,gemini-2.5-flash,Google,201,valid
+Gemini_gemini-2.5-flash_ARG_016,ARG_016,Argumentative,academic,Gemini,gemini-2.5-flash,Google,203,valid
+Gemini_gemini-2.5-flash_ARG_017,ARG_017,Argumentative,academic,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_ARG_018,ARG_018,Argumentative,academic,Gemini,gemini-2.5-flash,Google,191,valid
+Gemini_gemini-2.5-flash_ARG_019,ARG_019,Argumentative,academic,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_ARG_020,ARG_020,Argumentative,academic,Gemini,gemini-2.5-flash,Google,187,valid
+Gemini_gemini-2.5-flash_ARG_021,ARG_021,Argumentative,business,Gemini,gemini-2.5-flash,Google,199,valid
+Gemini_gemini-2.5-flash_ARG_022,ARG_022,Argumentative,business,Gemini,gemini-2.5-flash,Google,190,valid
+Gemini_gemini-2.5-flash_ARG_023,ARG_023,Argumentative,business,Gemini,gemini-2.5-flash,Google,219,valid
+Gemini_gemini-2.5-flash_ARG_024,ARG_024,Argumentative,business,Gemini,gemini-2.5-flash,Google,208,valid
+Gemini_gemini-2.5-flash_ARG_025,ARG_025,Argumentative,business,Gemini,gemini-2.5-flash,Google,195,valid
+Gemini_gemini-2.5-flash_ARG_026,ARG_026,Argumentative,business,Gemini,gemini-2.5-flash,Google,195,valid
+Gemini_gemini-2.5-flash_ARG_027,ARG_027,Argumentative,business,Gemini,gemini-2.5-flash,Google,195,valid
+Gemini_gemini-2.5-flash_ARG_028,ARG_028,Argumentative,business,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_ARG_029,ARG_029,Argumentative,business,Gemini,gemini-2.5-flash,Google,202,valid
+Gemini_gemini-2.5-flash_ARG_030,ARG_030,Argumentative,business,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_ARG_031,ARG_031,Argumentative,career,Gemini,gemini-2.5-flash,Google,211,valid
+Gemini_gemini-2.5-flash_ARG_032,ARG_032,Argumentative,career,Gemini,gemini-2.5-flash,Google,191,valid
+Gemini_gemini-2.5-flash_ARG_033,ARG_033,Argumentative,career,Gemini,gemini-2.5-flash,Google,194,valid
+Gemini_gemini-2.5-flash_ARG_034,ARG_034,Argumentative,career,Gemini,gemini-2.5-flash,Google,206,valid
+Gemini_gemini-2.5-flash_ARG_035,ARG_035,Argumentative,career,Gemini,gemini-2.5-flash,Google,195,valid
+Gemini_gemini-2.5-flash_ARG_036,ARG_036,Argumentative,career,Gemini,gemini-2.5-flash,Google,200,valid
+Gemini_gemini-2.5-flash_ARG_037,ARG_037,Argumentative,career,Gemini,gemini-2.5-flash,Google,213,valid
+Gemini_gemini-2.5-flash_ARG_038,ARG_038,Argumentative,career,Gemini,gemini-2.5-flash,Google,182,valid
+Gemini_gemini-2.5-flash_ARG_039,ARG_039,Argumentative,career,Gemini,gemini-2.5-flash,Google,195,valid
+Gemini_gemini-2.5-flash_ARG_040,ARG_040,Argumentative,career,Gemini,gemini-2.5-flash,Google,214,valid
+Gemini_gemini-2.5-flash_ARG_041,ARG_041,Argumentative,personal,Gemini,gemini-2.5-flash,Google,199,valid
+Gemini_gemini-2.5-flash_ARG_042,ARG_042,Argumentative,personal,Gemini,gemini-2.5-flash,Google,200,valid
+Gemini_gemini-2.5-flash_ARG_043,ARG_043,Argumentative,personal,Gemini,gemini-2.5-flash,Google,204,valid
+Gemini_gemini-2.5-flash_ARG_044,ARG_044,Argumentative,personal,Gemini,gemini-2.5-flash,Google,210,valid
+Gemini_gemini-2.5-flash_ARG_045,ARG_045,Argumentative,personal,Gemini,gemini-2.5-flash,Google,198,valid
+Gemini_gemini-2.5-flash_ARG_046,ARG_046,Argumentative,personal,Gemini,gemini-2.5-flash,Google,202,valid
+Gemini_gemini-2.5-flash_ARG_047,ARG_047,Argumentative,personal,Gemini,gemini-2.5-flash,Google,200,valid
+Gemini_gemini-2.5-flash_ARG_048,ARG_048,Argumentative,personal,Gemini,gemini-2.5-flash,Google,189,valid
+Gemini_gemini-2.5-flash_ARG_049,ARG_049,Argumentative,personal,Gemini,gemini-2.5-flash,Google,196,valid
+Gemini_gemini-2.5-flash_ARG_050,ARG_050,Argumentative,personal,Gemini,gemini-2.5-flash,Google,191,valid
+Gemini_gemini-2.5-flash_DIA_001,DIA_001,Dialogue,academic,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DIA_002,DIA_002,Dialogue,academic,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DIA_003,DIA_003,Dialogue,academic,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DIA_004,DIA_004,Dialogue,academic,Gemini,gemini-2.5-flash,Google,221,too_long
+Gemini_gemini-2.5-flash_DIA_005,DIA_005,Dialogue,academic,Gemini,gemini-2.5-flash,Google,218,valid
+Gemini_gemini-2.5-flash_DIA_006,DIA_006,Dialogue,academic,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DIA_007,DIA_007,Dialogue,academic,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DIA_008,DIA_008,Dialogue,academic,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DIA_009,DIA_009,Dialogue,academic,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DIA_010,DIA_010,Dialogue,academic,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DIA_011,DIA_011,Dialogue,academic,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DIA_012,DIA_012,Dialogue,academic,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DIA_013,DIA_013,Dialogue,academic,Gemini,gemini-2.5-flash,Google,224,too_long
+Gemini_gemini-2.5-flash_DIA_014,DIA_014,Dialogue,academic,Gemini,gemini-2.5-flash,Google,211,valid
+Gemini_gemini-2.5-flash_DIA_015,DIA_015,Dialogue,academic,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DIA_016,DIA_016,Dialogue,academic,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DIA_017,DIA_017,Dialogue,academic,Gemini,gemini-2.5-flash,Google,194,valid
+Gemini_gemini-2.5-flash_DIA_018,DIA_018,Dialogue,academic,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DIA_019,DIA_019,Dialogue,academic,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DIA_020,DIA_020,Dialogue,academic,Gemini,gemini-2.5-flash,Google,200,valid
+Gemini_gemini-2.5-flash_DIA_021,DIA_021,Dialogue,business,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DIA_022,DIA_022,Dialogue,business,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DIA_023,DIA_023,Dialogue,business,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DIA_024,DIA_024,Dialogue,business,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DIA_025,DIA_025,Dialogue,business,Gemini,gemini-2.5-flash,Google,224,too_long
+Gemini_gemini-2.5-flash_DIA_026,DIA_026,Dialogue,business,Gemini,gemini-2.5-flash,Google,221,too_long
+Gemini_gemini-2.5-flash_DIA_027,DIA_027,Dialogue,business,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DIA_028,DIA_028,Dialogue,business,Gemini,gemini-2.5-flash,Google,204,valid
+Gemini_gemini-2.5-flash_DIA_029,DIA_029,Dialogue,business,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DIA_030,DIA_030,Dialogue,business,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DIA_031,DIA_031,Dialogue,career,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DIA_032,DIA_032,Dialogue,career,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DIA_033,DIA_033,Dialogue,career,Gemini,gemini-2.5-flash,Google,230,too_long
+Gemini_gemini-2.5-flash_DIA_034,DIA_034,Dialogue,career,Gemini,gemini-2.5-flash,Google,222,too_long
+Gemini_gemini-2.5-flash_DIA_035,DIA_035,Dialogue,career,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DIA_036,DIA_036,Dialogue,career,Gemini,gemini-2.5-flash,Google,218,valid
+Gemini_gemini-2.5-flash_DIA_037,DIA_037,Dialogue,career,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DIA_038,DIA_038,Dialogue,career,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DIA_039,DIA_039,Dialogue,career,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DIA_040,DIA_040,Dialogue,career,Gemini,gemini-2.5-flash,Google,216,valid
+Gemini_gemini-2.5-flash_DIA_041,DIA_041,Dialogue,personal,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DIA_042,DIA_042,Dialogue,personal,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DIA_043,DIA_043,Dialogue,personal,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DIA_044,DIA_044,Dialogue,personal,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DIA_045,DIA_045,Dialogue,personal,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DIA_046,DIA_046,Dialogue,personal,Gemini,gemini-2.5-flash,Google,191,valid
+Gemini_gemini-2.5-flash_DIA_047,DIA_047,Dialogue,personal,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DIA_048,DIA_048,Dialogue,personal,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DIA_049,DIA_049,Dialogue,personal,Gemini,gemini-2.5-flash,Google,220,valid
+Gemini_gemini-2.5-flash_DIA_050,DIA_050,Dialogue,personal,Gemini,gemini-2.5-flash,Google,218,valid
+Gemini_gemini-2.5-flash_DES_002,DES_002,Descriptive,academic,Gemini,gemini-2.5-flash,Google,218,valid
+Gemini_gemini-2.5-flash_DES_030,DES_030,Descriptive,business,Gemini,gemini-2.5-flash,Google,211,valid

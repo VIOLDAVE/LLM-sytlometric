@@ -1,0 +1,201 @@
+﻿prompt_id,genre,theme,word_limit,prompt_text
+NAR_001,Narrative,academic,200,Write a 200-word narrative about a data science student who begins a difficult NLP project and slowly discovers that LLMs may have recognizable writing styles.
+NAR_002,Narrative,academic,200,Write a 200-word narrative about a student who chooses the easiest project from a long list but decides to make it intellectually ambitious.
+NAR_003,Narrative,academic,200,Write a 200-word narrative about a researcher who creates a dataset of prompts and realizes that each prompt reveals something about the person who wrote it.
+NAR_004,Narrative,academic,200,Write a 200-word narrative about a student comparing responses from different language models late at night before a deadline.
+NAR_005,Narrative,academic,200,Write a 200-word narrative about a graduate student who discovers unexpected clusters while visualizing LLM-generated text.
+NAR_006,Narrative,academic,200,Write a 200-word narrative about a student who turns a simple stylometric project into a master’s-level research idea.
+NAR_007,Narrative,academic,200,Write a 200-word narrative about a student searching for human-written datasets to compare against machine-generated writing.
+NAR_008,Narrative,academic,200,Write a 200-word narrative about a student who builds a prompt bank and begins to see patterns in their own thinking.
+NAR_009,Narrative,academic,200,"Write a 200-word narrative about a classifier that can identify which LLM wrote a text, surprising its creator."
+NAR_010,Narrative,academic,200,Write a 200-word narrative about a student preparing a final presentation on whether machines have writing styles.
+NAR_011,Narrative,academic,200,Write a 200-word narrative about a student struggling with a forecasting exercise and finally understanding the time-series pattern.
+NAR_012,Narrative,academic,200,"Write a 200-word narrative about a souvenir shop owner watching sales rise and fall with seasons, tourists, and memories."
+NAR_013,Narrative,academic,200,Write a 200-word narrative about a researcher who discovers that a missing festival variable changes the interpretation of a sales model.
+NAR_014,Narrative,academic,200,Write a 200-word narrative about a student who repeatedly receives coding errors but refuses to give up on the assignment.
+NAR_015,Narrative,academic,200,Write a 200-word narrative about a student who finally understands elasticity after struggling with a log-log model.
+NAR_016,Narrative,academic,200,Write a 200-word narrative about a data analyst interpreting electricity demand on a hot day.
+NAR_017,Narrative,academic,200,Write a 200-word narrative about a student comparing forecasted values with actual data and learning from the mismatch.
+NAR_018,Narrative,academic,200,Write a 200-word narrative about a student who uses residual plots to uncover a hidden problem in a model.
+NAR_019,Narrative,academic,200,Write a 200-word narrative about a student who turns confusion about Fourier terms into confidence.
+NAR_020,Narrative,academic,200,Write a 200-word narrative about a student preparing a complete solution for a forecasting exercise before class.
+NAR_021,Narrative,business,200,Write a 200-word narrative about a founder imagining an AI insurance shopping assistant for the Romanian market.
+NAR_022,Narrative,business,200,Write a 200-word narrative about a startup founder searching for the first paying customer.
+NAR_023,Narrative,business,200,Write a 200-word narrative about a founder trying to build a better version of a ticketing app.
+NAR_024,Narrative,business,200,Write a 200-word narrative about an entrepreneur designing a skincare app that scans the user’s face.
+NAR_025,Narrative,business,200,"Write a 200-word narrative about a founder building a digital platform while balancing legal, ethical, and business concerns."
+NAR_026,Narrative,business,200,Write a 200-word narrative about a marketing analyst trying to turn technical CFD results into powerful business messaging.
+NAR_027,Narrative,business,200,Write a 200-word narrative about a company team deciding whether to brand products separately or focus on industry-specific positioning.
+NAR_028,Narrative,business,200,Write a 200-word narrative about a website revamp that changes how customers understand a technical product.
+NAR_029,Narrative,business,200,Write a 200-word narrative about a sports engineer using simulation results to make a faster design decision.
+NAR_030,Narrative,business,200,Write a 200-word narrative about a startup team preparing a business case page before launching a product.
+NAR_031,Narrative,career,200,Write a 200-word narrative about an intern completing her internship and realizing how much she has learned.
+NAR_032,Narrative,career,200,Write a 200-word narrative about a student who receives a part-time job offer after proving her value during an internship.
+NAR_033,Narrative,career,200,Write a 200-word narrative about a young professional preparing for a technical interview in SQL and Excel.
+NAR_034,Narrative,career,200,Write a 200-word narrative about a data science student preparing for interviews in Italian despite feeling nervous.
+NAR_035,Narrative,career,200,Write a 200-word narrative about a job seeker trying to communicate her data science skills clearly to recruiters.
+NAR_036,Narrative,career,200,Write a 200-word narrative about a teaching assistant reflecting on how teaching helped her become a better analyst.
+NAR_037,Narrative,career,200,Write a 200-word narrative about a startup associate who realizes that practical business experience has shaped her career.
+NAR_038,Narrative,career,200,Write a 200-word narrative about a student preparing a research fellowship application.
+NAR_039,Narrative,career,200,Write a 200-word narrative about a young analyst transitioning from internship to full-time work.
+NAR_040,Narrative,career,200,Write a 200-word narrative about a student preparing to discuss AI governance with a professor.
+NAR_041,Narrative,personal,200,Write a 200-word narrative about a woman questioning whether her relationship is still leading toward the future she wants.
+NAR_042,Narrative,personal,200,Write a 200-word narrative about a woman who realizes that constant conflict is changing how she feels about marriage.
+NAR_043,Narrative,personal,200,Write a 200-word narrative about a person learning to set boundaries after repeated disrespect.
+NAR_044,Narrative,personal,200,"Write a 200-word narrative about a student in Italy feeling uncertain about work, money, and the future."
+NAR_045,Narrative,personal,200,Write a 200-word narrative about a non-EU student preparing for residence permit renewal while searching for work.
+NAR_046,Narrative,personal,200,Write a 200-word narrative about a woman trying to enter the Italian entertainment industry as a singer.
+NAR_047,Narrative,personal,200,Write a 200-word narrative about a model preparing for her first photoshoot in Milan.
+NAR_048,Narrative,personal,200,Write a 200-word narrative about a woman starting a fitness content journey after missing two gym days.
+NAR_049,Narrative,personal,200,Write a 200-word narrative about a daughter helping her father adopt a healthier lifestyle.
+NAR_050,Narrative,personal,200,"Write a 200-word narrative about a woman writing a public response about success, ignorance, knowledge, and self-development."
+DES_001,Descriptive,academic,200,"Write a 200-word descriptive passage about a university desk covered with notes, datasets, and open notebooks during an NLP project."
+DES_002,Descriptive,academic,200,Write a 200-word descriptive passage about a prompt dataset arranged neatly in rows and columns.
+DES_003,Descriptive,academic,200,Write a 200-word descriptive passage about a computer screen showing clusters of LLM-generated texts.
+DES_004,Descriptive,academic,200,Write a 200-word descriptive passage about a late-night study room where a student is comparing different AI responses.
+DES_005,Descriptive,academic,200,Write a 200-word descriptive passage about a GitHub repository prepared for a master’s-level NLP project.
+DES_006,Descriptive,academic,200,Write a 200-word descriptive passage about a research presentation slide explaining LLM writing styles.
+DES_007,Descriptive,academic,200,"Write a 200-word descriptive passage about a spreadsheet containing prompts, genres, models, responses, and stylometric features."
+DES_008,Descriptive,academic,200,Write a 200-word descriptive passage about a visualization dashboard for comparing machine-generated writing.
+DES_009,Descriptive,academic,200,Write a 200-word descriptive passage about a classroom where students are discussing whether AI has a recognizable voice.
+DES_010,Descriptive,academic,200,"Write a 200-word descriptive passage about a final paper filled with tables, plots, and critical discussion."
+DES_011,Descriptive,academic,200,Write a 200-word descriptive passage about a souvenir shop in a beach town during the Christmas tourist season.
+DES_012,Descriptive,academic,200,Write a 200-word descriptive passage about a quiet souvenir shop after the tourists have gone.
+DES_013,Descriptive,academic,200,"Write a 200-word descriptive passage about a time-series plot showing trend, seasonality, and unusual fluctuations."
+DES_014,Descriptive,academic,200,"Write a 200-word descriptive passage about a regression output table with coefficients, p-values, and residuals."
+DES_015,Descriptive,academic,200,Write a 200-word descriptive passage about a residual plot that suggests something is wrong with a forecasting model.
+DES_016,Descriptive,academic,200,Write a 200-word descriptive passage about a student’s notebook filled with formulas for elasticity.
+DES_017,Descriptive,academic,200,Write a 200-word descriptive passage about a forecasting graph comparing predicted values and actual observations.
+DES_018,Descriptive,academic,200,Write a 200-word descriptive passage about an electricity demand chart on a hot summer day.
+DES_019,Descriptive,academic,200,Write a 200-word descriptive passage about a harmonic regression plot with weekly gasoline data.
+DES_020,Descriptive,academic,200,Write a 200-word descriptive passage about a statistical assignment with highlighted errors and corrections.
+DES_021,Descriptive,business,200,Write a 200-word descriptive passage about an AI insurance shopping platform interface.
+DES_022,Descriptive,business,200,Write a 200-word descriptive passage about a Romanian customer comparing insurance policies online.
+DES_023,Descriptive,business,200,Write a 200-word descriptive passage about a ticketing app homepage designed to be better than existing platforms.
+DES_024,Descriptive,business,200,Write a 200-word descriptive passage about a skincare app scanning a user’s face and recommending products.
+DES_025,Descriptive,business,200,Write a 200-word descriptive passage about a futuristic beauty store with a skin-scanning machine.
+DES_026,Descriptive,business,200,Write a 200-word descriptive passage about a developer onboarding board for a startup app project.
+DES_027,Descriptive,business,200,Write a 200-word descriptive passage about a product requirements document for an AI platform.
+DES_028,Descriptive,business,200,Write a 200-word descriptive passage about a website homepage before and after a strategic revamp.
+DES_029,Descriptive,business,200,Write a 200-word descriptive passage about CFD simulation results displayed for sports performance engineers.
+DES_030,Descriptive,business,200,Write a 200-word descriptive passage about a business case page built to convince enterprise customers.
+DES_031,Descriptive,career,200,Write a 200-word descriptive passage about an internship office form waiting to be completed.
+DES_032,Descriptive,career,200,Write a 200-word descriptive passage about a marketing analyst’s workspace during a website revamp project.
+DES_033,Descriptive,career,200,Write a 200-word descriptive passage about a technical interview room where SQL and Excel questions are expected.
+DES_034,Descriptive,career,200,Write a 200-word descriptive passage about a job seeker preparing for interviews in Italian.
+DES_035,Descriptive,career,200,"Write a 200-word descriptive passage about a CV filled with data science, teaching, and startup experience."
+DES_036,Descriptive,career,200,"Write a 200-word descriptive passage about a university boot camp where students, founders, and mentors meet."
+DES_037,Descriptive,career,200,Write a 200-word descriptive passage about a LinkedIn profile designed for a data science analyst.
+DES_038,Descriptive,career,200,Write a 200-word descriptive passage about a professor’s office before a conversation on AI governance.
+DES_039,Descriptive,career,200,Write a 200-word descriptive passage about a young professional’s first week after an internship ends.
+DES_040,Descriptive,career,200,Write a 200-word descriptive passage about a presentation slide showing professional skills and career growth.
+DES_041,Descriptive,personal,200,Write a 200-word descriptive passage about a quiet apartment after a difficult relationship argument.
+DES_042,Descriptive,personal,200,Write a 200-word descriptive passage about a woman sitting alone and reconsidering her desire for marriage.
+DES_043,Descriptive,personal,200,Write a 200-word descriptive passage about the emotional atmosphere of a conversation that has become tense and exhausting.
+DES_044,Descriptive,personal,200,"Write a 200-word descriptive passage about a student’s room in Milan filled with job applications, notes, and visa documents."
+DES_045,Descriptive,personal,200,Write a 200-word descriptive passage about a music studio where Afrobeat and pop sounds are being created.
+DES_046,Descriptive,personal,200,Write a 200-word descriptive passage about a model photoshoot setup in Milan.
+DES_047,Descriptive,personal,200,Write a 200-word descriptive passage about a gym early in the morning before anyone else arrives.
+DES_048,Descriptive,personal,200,"Write a 200-word descriptive passage about a healthy meal prepared for someone avoiding salt, sugar, and acidic fruits."
+DES_049,Descriptive,personal,200,"Write a 200-word descriptive passage about a social media post being drafted with anger, intelligence, and restraint."
+DES_050,Descriptive,personal,200,"Write a 200-word descriptive passage about a person reflecting on success beyond titles, money, and living abroad."
+ARG_001,Argumentative,academic,200,Write a 200-word argumentative essay on whether large language models have recognizable writing styles.
+ARG_002,Argumentative,academic,200,Write a 200-word argumentative essay on whether simple stylometric features are enough to distinguish LLM-generated texts.
+ARG_003,Argumentative,academic,200,Write a 200-word argumentative essay on whether AI-generated writing should be treated as having an authorial voice.
+ARG_004,Argumentative,academic,200,Write a 200-word argumentative essay on whether human-written datasets are necessary for evaluating LLM-generated text.
+ARG_005,Argumentative,academic,200,Write a 200-word argumentative essay on whether LLM writing-style analysis is a strong master’s-level research project.
+ARG_006,Argumentative,academic,200,Write a 200-word argumentative essay on whether classifier accuracy is a reliable way to measure model-specific writing style.
+ARG_007,Argumentative,academic,200,Write a 200-word argumentative essay on whether prompts should be standardized when comparing LLMs.
+ARG_008,Argumentative,academic,200,Write a 200-word argumentative essay on whether creative-writing prompts reveal more about LLM style than factual prompts.
+ARG_009,Argumentative,academic,200,Write a 200-word argumentative essay on whether AI-generated text should be labeled in academic settings.
+ARG_010,Argumentative,academic,200,Write a 200-word argumentative essay on whether LLMs reduce or increase originality in student writing.
+ARG_011,Argumentative,academic,200,Write a 200-word argumentative essay on whether forecasting models are useful when residuals show autocorrelation.
+ARG_012,Argumentative,academic,200,Write a 200-word argumentative essay on whether log transformations should be standard in modeling seasonal sales data.
+ARG_013,Argumentative,academic,200,Write a 200-word argumentative essay on whether statistical models can fully capture human behavior in markets.
+ARG_014,Argumentative,academic,200,Write a 200-word argumentative essay on whether AICc is better than visual inspection for model selection.
+ARG_015,Argumentative,academic,200,Write a 200-word argumentative essay on whether students should learn forecasting through practical coding exercises.
+ARG_016,Argumentative,academic,200,Write a 200-word argumentative essay on whether standardized testing of models can hide important real-world uncertainty.
+ARG_017,Argumentative,academic,200,Write a 200-word argumentative essay on whether residual diagnostics are more important than model fit statistics.
+ARG_018,Argumentative,academic,200,Write a 200-word argumentative essay on whether data science students should be trained more deeply in interpretation than coding.
+ARG_019,Argumentative,academic,200,Write a 200-word argumentative essay on whether simple benchmark forecasting methods are sometimes better than complex models.
+ARG_020,Argumentative,academic,200,Write a 200-word argumentative essay on whether statistical literacy should be required in all economics programs.
+ARG_021,Argumentative,business,200,Write a 200-word argumentative essay on whether AI insurance platforms can improve customer decision-making.
+ARG_022,Argumentative,business,200,Write a 200-word argumentative essay on whether insurance comparison platforms should personalize recommendations using data.
+ARG_023,Argumentative,business,200,Write a 200-word argumentative essay on whether ticketing platforms need stronger consumer protection.
+ARG_024,Argumentative,business,200,Write a 200-word argumentative essay on whether beauty platforms should use face-scanning technology for product recommendations.
+ARG_025,Argumentative,business,200,Write a 200-word argumentative essay on whether AI-based skincare recommendations are more trustworthy than human sales advice.
+ARG_026,Argumentative,business,200,Write a 200-word argumentative essay on whether startups should build MVPs before seeking large investment.
+ARG_027,Argumentative,business,200,Write a 200-word argumentative essay on whether technical products should lead with product features or business outcomes.
+ARG_028,Argumentative,business,200,Write a 200-word argumentative essay on whether industry-specific positioning is better than product-specific branding.
+ARG_029,Argumentative,business,200,Write a 200-word argumentative essay on whether companies should use customer evidence as the foundation of website messaging.
+ARG_030,Argumentative,business,200,Write a 200-word argumentative essay on whether simulation tools can replace traditional physical testing in sports engineering.
+ARG_031,Argumentative,career,200,Write a 200-word argumentative essay on whether internships should be judged by practical skills acquired rather than job titles.
+ARG_032,Argumentative,career,200,Write a 200-word argumentative essay on whether startup experience gives job candidates a competitive advantage.
+ARG_033,Argumentative,career,200,Write a 200-word argumentative essay on whether technical interviews should test practical problem-solving more than theory.
+ARG_034,Argumentative,career,200,Write a 200-word argumentative essay on whether communication skills are as important as technical skills in data science jobs.
+ARG_035,Argumentative,career,200,Write a 200-word argumentative essay on whether international students should be given more career support in European job markets.
+ARG_036,Argumentative,career,200,Write a 200-word argumentative essay on whether Italian language ability should be a major barrier for data science jobs in Italy.
+ARG_037,Argumentative,career,200,Write a 200-word argumentative essay on whether teaching experience improves analytical thinking.
+ARG_038,Argumentative,career,200,Write a 200-word argumentative essay on whether boot camps are useful for building professional networks.
+ARG_039,Argumentative,career,200,Write a 200-word argumentative essay on whether research fellowships should value practical experience more highly.
+ARG_040,Argumentative,career,200,Write a 200-word argumentative essay on whether AI governance should be part of every data science curriculum.
+ARG_041,Argumentative,personal,200,Write a 200-word argumentative essay on whether marriage timelines should be discussed early in serious relationships.
+ARG_042,Argumentative,personal,200,Write a 200-word argumentative essay on whether constant conflict can change a person’s desire for marriage.
+ARG_043,Argumentative,personal,200,Write a 200-word argumentative essay on whether verbal disrespect should be treated as a serious relationship warning sign.
+ARG_044,Argumentative,personal,200,Write a 200-word argumentative essay on whether love is enough to sustain a relationship without emotional safety.
+ARG_045,Argumentative,personal,200,Write a 200-word argumentative essay on whether immigrants should prioritize financial stability before entrepreneurship.
+ARG_046,Argumentative,personal,200,Write a 200-word argumentative essay on whether artists need strong personal branding to succeed in the entertainment industry.
+ARG_047,Argumentative,personal,200,Write a 200-word argumentative essay on whether fitness content can be a serious career path.
+ARG_048,Argumentative,personal,200,Write a 200-word argumentative essay on whether healthy eating should be treated as preventive healthcare.
+ARG_049,Argumentative,personal,200,Write a 200-word argumentative essay on whether success should be measured by knowledge and impact rather than titles.
+ARG_050,Argumentative,personal,200,Write a 200-word argumentative essay on whether ignorance is one of the biggest barriers to social progress.
+DIA_001,Dialogue,academic,200,Write a 200-word dialogue between a student and a professor discussing whether LLMs have recognizable writing styles.
+DIA_002,Dialogue,academic,200,Write a 200-word dialogue between two students deciding which NLP project is easiest but still impressive.
+DIA_003,Dialogue,academic,200,Write a 200-word dialogue between a researcher and an AI assistant about how to build a prompt dataset.
+DIA_004,Dialogue,academic,200,"Write a 200-word dialogue between two classmates comparing GPT, Claude, Mistral, and LLaMA outputs."
+DIA_005,Dialogue,academic,200,Write a 200-word dialogue between a student and a supervisor about stylometric features.
+DIA_006,Dialogue,academic,200,Write a 200-word dialogue between a data scientist and a skeptical professor about using classifiers to detect LLM authorship.
+DIA_007,Dialogue,academic,200,Write a 200-word dialogue between two researchers debating whether machine-generated text can have style.
+DIA_008,Dialogue,academic,200,Write a 200-word dialogue between a student and a librarian searching for human-written datasets.
+DIA_009,Dialogue,academic,200,Write a 200-word dialogue between a student and a teaching assistant about PCA and clustering.
+DIA_010,Dialogue,academic,200,Write a 200-word dialogue between a student and a panelist during a final NLP project presentation.
+DIA_011,Dialogue,academic,200,Write a 200-word dialogue between a student and a tutor discussing a confusing forecasting exercise.
+DIA_012,Dialogue,academic,200,Write a 200-word dialogue between a shop owner and a data analyst interpreting seasonal souvenir sales.
+DIA_013,Dialogue,academic,200,Write a 200-word dialogue between two students trying to fix an error about a missing festival variable.
+DIA_014,Dialogue,academic,200,Write a 200-word dialogue between a professor and a student about why log transformations are used in time-series models.
+DIA_015,Dialogue,academic,200,Write a 200-word dialogue between two classmates explaining elasticity in a log-log model.
+DIA_016,Dialogue,academic,200,Write a 200-word dialogue between a data analyst and an energy manager interpreting electricity demand.
+DIA_017,Dialogue,academic,200,Write a 200-word dialogue between a student and an examiner about residual autocorrelation.
+DIA_018,Dialogue,academic,200,Write a 200-word dialogue between two students comparing benchmark forecasting methods.
+DIA_019,Dialogue,academic,200,Write a 200-word dialogue between a student and a tutor about Fourier terms in harmonic regression.
+DIA_020,Dialogue,academic,200,Write a 200-word dialogue between a student and a professor about why forecast accuracy matters.
+DIA_021,Dialogue,business,200,Write a 200-word dialogue between a founder and a customer discussing an AI insurance shopping assistant.
+DIA_022,Dialogue,business,200,Write a 200-word dialogue between two startup founders debating the target customers for an insurance platform.
+DIA_023,Dialogue,business,200,Write a 200-word dialogue between a product manager and a developer planning a ticketing app MVP.
+DIA_024,Dialogue,business,200,Write a 200-word dialogue between a beauty customer and an AI skincare recommendation assistant.
+DIA_025,Dialogue,business,200,Write a 200-word dialogue between a founder and an investor discussing a face-scanning skincare platform.
+DIA_026,Dialogue,business,200,Write a 200-word dialogue between a founder and a freelance developer negotiating an MVP build.
+DIA_027,Dialogue,business,200,Write a 200-word dialogue between a marketer and an engineer turning CFD results into customer messaging.
+DIA_028,Dialogue,business,200,Write a 200-word dialogue between a CEO and a marketing analyst debating product branding versus industry positioning.
+DIA_029,Dialogue,business,200,Write a 200-word dialogue between a website strategist and a technical founder planning a website revamp.
+DIA_030,Dialogue,business,200,Write a 200-word dialogue between a sports engineer and a sales lead discussing simulation accuracy.
+DIA_031,Dialogue,career,200,Write a 200-word dialogue between an intern and a supervisor reflecting on the internship experience.
+DIA_032,Dialogue,career,200,Write a 200-word dialogue between a marketing analyst and a manager discussing monthly invoice tasks.
+DIA_033,Dialogue,career,200,Write a 200-word dialogue between a job candidate and an interviewer during a SQL and Excel technical interview.
+DIA_034,Dialogue,career,200,Write a 200-word dialogue between a recruiter and a data science student interviewing in Italian.
+DIA_035,Dialogue,career,200,Write a 200-word dialogue between a career coach and a student preparing for a Data Science Analyst role.
+DIA_036,Dialogue,career,200,Write a 200-word dialogue between a former teaching assistant and a hiring manager discussing transferable skills.
+DIA_037,Dialogue,career,200,Write a 200-word dialogue between a startup mentor and a student discussing practical business experience.
+DIA_038,Dialogue,career,200,Write a 200-word dialogue between a student and a professor about applying for a research fellowship.
+DIA_039,Dialogue,career,200,Write a 200-word dialogue between a young professional and a colleague after receiving a part-time job offer.
+DIA_040,Dialogue,career,200,Write a 200-word dialogue between a student and a professor discussing AI governance and security.
+DIA_041,Dialogue,personal,200,Write a 200-word dialogue between a woman and her boyfriend discussing whether their relationship is leading toward marriage.
+DIA_042,Dialogue,personal,200,Write a 200-word dialogue between two friends discussing how constant conflict affects the desire to marry.
+DIA_043,Dialogue,personal,200,Write a 200-word dialogue between a woman and a counselor about boundaries after disrespectful behavior.
+DIA_044,Dialogue,personal,200,"Write a 200-word dialogue between an international student and an advisor discussing work, residence permits, and uncertainty."
+DIA_045,Dialogue,personal,200,Write a 200-word dialogue between a singer and a producer planning an Afrobeat and pop fusion single.
+DIA_046,Dialogue,personal,200,Write a 200-word dialogue between a model and a photographer preparing for a first photoshoot in Milan.
+DIA_047,Dialogue,personal,200,Write a 200-word dialogue between a fitness beginner and a trainer discussing consistency after missing gym days.
+DIA_048,Dialogue,personal,200,Write a 200-word dialogue between a daughter and a nutritionist planning meals for a father with high blood pressure and ulcers.
+DIA_049,Dialogue,personal,200,Write a 200-word dialogue between two people debating whether living abroad equals success.
+DIA_050,Dialogue,personal,200,"Write a 200-word dialogue between a writer and a friend refining a public post about ignorance, poverty, disease, and self-development."

@@ -1,0 +1,8 @@
+analysis_stage,main_result,interpretation
+Dataset design,"Balanced corpus of 1,000 texts across five model families and four genres",The controlled design supports fair model-family comparison
+Semantic mapping,Model-family silhouette score is close to zero/negative; theme has the strongest but weak semantic signal,Semantic content alone does not strongly reveal model identity
+Statistical testing,41 out of 43 stylometric features significant after FDR correction,Stylometric features show systematic model-family differences
+Genre robustness,37–40 significant features within each genre,The stylometric signal persists across prompt genres
+Post-hoc testing,86 out of 100 pairwise post-hoc tests significant after FDR correction,Omnibus differences are driven by concrete model-to-model contrasts
+Classification modeling,Best classifier reaches 78.1% accuracy and 0.780 macro F1,Stylometric features can predict generating model family far above chance
+Streamlit dashboard,"Interactive dashboard presents dataset, semantic maps, statistical tests, classification, and conclusions",The project outputs are reproducible and interpretable for presentation

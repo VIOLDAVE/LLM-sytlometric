@@ -1,0 +1,4 @@
+label,n_classes,silhouette_score_cosine
+model_family,5,-0.007538506295531988
+genre,4,0.036064513027668
+theme,4,0.06852441281080246

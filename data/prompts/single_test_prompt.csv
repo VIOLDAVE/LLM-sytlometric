@@ -1,0 +1,2 @@
+prompt_id,genre,theme,word_limit,prompt_text
+TEST_001,Narrative,diagnostic,50,Write a 50-word narrative describing a student testing multiple LLM APIs to check connectivity and response format.
