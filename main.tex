@@ -1,0 +1,37 @@
+\documentclass[10pt]{article}
+
+\usepackage[margin=0.75in]{geometry}
+\linespread{0.95}
+\usepackage[american]{babel}
+\usepackage{csquotes}
+\usepackage{graphicx}
+\setkeys{Gin}{width=0.60\linewidth}
+\usepackage{booktabs}
+\usepackage{amsmath,amssymb}
+\usepackage{float}
+\usepackage[section]{placeins} % keep floats within their sections
+\usepackage[hidelinks]{hyperref}
+\usepackage{enumitem}
+\usepackage{titlesec}
+
+% tighten float spacing
+\setlength{\textfloatsep}{10pt plus 2pt minus 2pt}
+\setlength{\floatsep}{8pt plus 2pt minus 2pt}
+\setlength{\intextsep}{8pt plus 2pt minus 2pt}
+
+% tighten lists and section spacing
+\setlist{nosep}
+\titlespacing*{\section}{0pt}{1.2ex plus .2ex minus .2ex}{0.8ex plus .2ex}
+\titlespacing*{\subsection}{0pt}{1.0ex plus .2ex minus .2ex}{0.6ex plus .2ex}
+
+% tighten display math spacing
+\setlength{\abovedisplayskip}{6pt plus 2pt minus 2pt}
+\setlength{\belowdisplayskip}{6pt plus 2pt minus 2pt}
+
+% APA references via biblatex/biber
+\usepackage[style=apa,backend=biber]{biblatex}
+\addbibresource{report/references.bib}
+
+\begin{document}
+\input{report/final_report.tex}
+\end{document}
